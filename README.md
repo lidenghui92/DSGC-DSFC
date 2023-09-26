@@ -9,8 +9,3 @@
 ### Companion Website:
 **Gene catalog & annotations information**: The gene catalog and its annotations are accessible at https://db.cngb.org/deepseadb/.
 
-
-## scripts_for_figures: 
-Scripts to produce the figures of the paper.
-
-git clone https://github.com/lidenghui92/DS-RG/R_scripts
