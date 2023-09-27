@@ -1,11 +1,7 @@
-# DS-RGC
+# The Deep-Sea microbial Reference Gene Catalog (DS-RGC)
 
-**Publication**: wang et al. Insights into extensive microbial protein diversity among varied deep-sea ecosystems, cell,2023
-
-## Data:
-### Raw data:
-**Sequence information**: The whole raw data (metagenomes) is accessible from CNGB and NCBI (a complete list of all accession numbers is provided in Supplemental Table 1 in the publication).
+**Publication**: Wang Z., Guo Y., Wang L., Li D., et al. 2023. Insights into extensive microbial protein diversity among varied deep-sea ecosystems. Cell
 
 ### Companion Website:
-**Gene catalog & annotations information**: The gene catalog and its annotations are accessible at https://db.cngb.org/deepseadb/.
+The protein sequences and annotations of the DS-RGC and its subsets (HV-RGC, MS-RGC, HE-RGC, and OE-RGC) of this study are available at: https://db.cngb.org/deepseadb/dsrgc.
 
