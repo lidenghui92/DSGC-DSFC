@@ -1,5 +1,3 @@
-仓库名称：DSGC-DSFC
-
 # The Deep-Sea Gene Catalog (DSGC) and Deep-Sea Protein Fold Catalog (DSFC)
 
 **Publication**: GUO Y., WANG Z., LI D., WANG L., et al. 2025. The genetic repertoire of the deep sea: from sequence to structure and function. Under review
