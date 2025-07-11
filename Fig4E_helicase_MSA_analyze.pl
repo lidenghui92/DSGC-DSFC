@@ -2,7 +2,7 @@
 
 local $/ = ">"; 
 
-open I,"<All_7294_Pif1_structure_like_sequences.mafft";
+open I,"<Fig4E_MSA_7294_Pif1like_seqs.mafft";
 open O,">Sequence_with_motifIc_II.mafft";
 open T,">Pif1_insertion_length.tsv";
 
