@@ -1,0 +1,9 @@
+#10.5281/zenodo.17621312
+gene2tax_7level_LCA_add_gtdb.txt.gz
+DSGC_KEGG_annotation.gz
+DSGC_emapper_COG.xls.gz
+OM-RGC_emapper_COG.xls.gz
+TSGC_emapper_COG.xls.gz
+DSGC_cluster_20id.tsv.gz
+DSGC_only_incomplete.list.gz
+Deepsea_HQ_MAGs_drep.tar.gz

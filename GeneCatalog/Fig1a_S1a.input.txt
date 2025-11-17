@@ -1,0 +1,2139 @@
+Ecosystem	SampleType	Latitude	Longitude	Depth
+Hadal Ecosystems	Sediment	16.97 	129.70 	7719 
+Hadal Ecosystems	Sediment	16.97 	129.70 	7719 
+Hadal Ecosystems	Sediment	16.97 	129.70 	7719 
+Hadal Ecosystems	Sediment	16.97 	129.70 	7721 
+Hadal Ecosystems	Sediment	16.97 	129.70 	7721 
+Hadal Ecosystems	Sediment	16.97 	129.76 	7405 
+Hadal Ecosystems	Sediment	16.97 	129.76 	7405 
+Hadal Ecosystems	Sediment	16.97 	129.76 	7405 
+Hadal Ecosystems	Sediment	16.97 	129.76 	7405 
+Hadal Ecosystems	Sediment	16.97 	129.76 	7405 
+Hadal Ecosystems	Sediment	16.97 	129.76 	7405 
+Hadal Ecosystems	Sediment	16.97 	129.76 	7405 
+Hadal Ecosystems	Sediment	16.97 	129.76 	7405 
+Hadal Ecosystems	Sediment	16.97 	129.76 	7405 
+Hadal Ecosystems	Sediment	16.95 	129.74 	7729 
+Hadal Ecosystems	Sediment	16.95 	129.74 	7729 
+Hadal Ecosystems	Sediment	16.95 	129.74 	7729 
+Hadal Ecosystems	Sediment	16.95 	129.74 	7729 
+Hadal Ecosystems	Sediment	16.95 	129.74 	7729 
+Hadal Ecosystems	Sediment	16.96 	129.74 	7664 
+Hadal Ecosystems	Sediment	16.96 	129.74 	7664 
+Hadal Ecosystems	Sediment	16.96 	129.74 	7664 
+Hadal Ecosystems	Sediment	16.96 	129.74 	7664 
+Hadal Ecosystems	Sediment	16.96 	129.74 	7664 
+Hadal Ecosystems	Sediment	16.96 	129.74 	7664 
+Hadal Ecosystems	Sediment	16.96 	129.74 	7664 
+Hadal Ecosystems	Sediment	16.96 	129.74 	7664 
+Hadal Ecosystems	Sediment	16.96 	129.74 	7664 
+Hadal Ecosystems	Sediment	16.96 	129.74 	7664 
+Hadal Ecosystems	Sediment	16.96 	129.74 	7664 
+Hadal Ecosystems	Sediment	16.96 	129.74 	7664 
+Hadal Ecosystems	Sediment	16.96 	129.74 	7664 
+Hadal Ecosystems	Sediment	16.96 	129.74 	7664 
+Hadal Ecosystems	Sediment	16.95 	129.74 	7729 
+Hadal Ecosystems	Sediment	16.95 	129.74 	7729 
+Hadal Ecosystems	Sediment	16.95 	129.74 	7729 
+Hadal Ecosystems	Sediment	16.95 	129.74 	7729 
+Hadal Ecosystems	Sediment	16.95 	129.74 	7729 
+Hadal Ecosystems	Sediment	16.95 	129.74 	7729 
+Hadal Ecosystems	Sediment	16.96 	129.74 	7664 
+Hadal Ecosystems	Sediment	16.96 	129.74 	7664 
+Hadal Ecosystems	Sediment	16.96 	129.74 	7664 
+Hadal Ecosystems	Sediment	16.96 	129.74 	7664 
+Hadal Ecosystems	Sediment	16.96 	129.74 	7664 
+Hadal Ecosystems	Sediment	16.96 	129.74 	7664 
+Hadal Ecosystems	Sediment	16.94 	129.74 	7731 
+Hadal Ecosystems	Sediment	16.94 	129.74 	7731 
+Hadal Ecosystems	Sediment	16.95 	129.74 	7728 
+Hadal Ecosystems	Sediment	16.95 	129.74 	7728 
+Hadal Ecosystems	Sediment	16.95 	129.74 	7728 
+Hadal Ecosystems	Sediment	16.95 	129.70 	7717 
+Hadal Ecosystems	Sediment	16.95 	129.70 	7717 
+Hadal Ecosystems	Sediment	16.95 	129.70 	7717 
+Hadal Ecosystems	Sediment	16.95 	129.70 	7717 
+Hadal Ecosystems	Sediment	16.98 	129.76 	7560 
+Hadal Ecosystems	Sediment	16.98 	129.76 	7560 
+Hadal Ecosystems	Sediment	16.98 	129.76 	7560 
+Hadal Ecosystems	Sediment	16.98 	129.76 	7560 
+Hadal Ecosystems	Sediment	16.98 	129.76 	7560 
+Hadal Ecosystems	Sediment	16.98 	129.76 	7560 
+Hadal Ecosystems	Sediment	16.98 	129.76 	7560 
+Hadal Ecosystems	Sediment	16.98 	129.76 	7560 
+Hadal Ecosystems	Sediment	16.98 	129.76 	7560 
+Hadal Ecosystems	Sediment	16.98 	129.76 	7560 
+Hadal Ecosystems	Sediment	16.98 	129.76 	7560 
+Hadal Ecosystems	Sediment	16.98 	129.76 	7560 
+Hadal Ecosystems	Sediment	16.98 	129.76 	7560 
+Hadal Ecosystems	Sediment	16.97 	129.72 	7725 
+Hadal Ecosystems	Sediment	16.97 	129.72 	7725 
+Hadal Ecosystems	Sediment	16.97 	129.72 	7725 
+Hadal Ecosystems	Sediment	16.97 	129.72 	7725 
+Hadal Ecosystems	Sediment	16.94 	129.74 	7731 
+Hadal Ecosystems	Sediment	16.94 	129.74 	7731 
+Hadal Ecosystems	Sediment	16.95 	129.78 	6765 
+Hadal Ecosystems	Sediment	16.95 	129.78 	6765 
+Hadal Ecosystems	Sediment	16.95 	129.78 	6765 
+Hadal Ecosystems	Sediment	16.95 	129.78 	6765 
+Hadal Ecosystems	Sediment	16.95 	129.78 	6765 
+Hadal Ecosystems	Sediment	16.95 	129.78 	6765 
+Hadal Ecosystems	Sediment	16.95 	129.78 	6765 
+Hadal Ecosystems	Sediment	16.95 	129.78 	6765 
+Hadal Ecosystems	Sediment	16.95 	129.78 	6765 
+Hadal Ecosystems	Sediment	16.95 	129.78 	6765 
+Hadal Ecosystems	Sediment	16.95 	129.78 	6765 
+Hadal Ecosystems	Sediment	16.95 	129.78 	6765 
+Hadal Ecosystems	Sediment	16.95 	129.78 	6765 
+Hadal Ecosystems	Sediment	16.95 	129.78 	6765 
+Hadal Ecosystems	Sediment	16.95 	129.78 	6765 
+Hadal Ecosystems	Sediment	16.98 	129.75 	7513 
+Hadal Ecosystems	Sediment	16.98 	129.75 	7513 
+Hadal Ecosystems	Sediment	16.98 	129.75 	7513 
+Hadal Ecosystems	Sediment	16.98 	129.75 	7513 
+Hadal Ecosystems	Sediment	16.98 	129.75 	7513 
+Hadal Ecosystems	Sediment	16.98 	129.75 	7513 
+Hadal Ecosystems	Sediment	16.98 	129.75 	7513 
+Hadal Ecosystems	Sediment	16.98 	129.75 	7513 
+Hadal Ecosystems	Sediment	16.98 	129.75 	7513 
+Hadal Ecosystems	Sediment	16.98 	129.75 	7513 
+Hadal Ecosystems	Sediment	16.98 	129.75 	7513 
+Hadal Ecosystems	Sediment	16.98 	129.75 	7513 
+Hadal Ecosystems	Sediment	16.98 	129.76 	6796 
+Hadal Ecosystems	Sediment	16.98 	129.76 	6796 
+Hadal Ecosystems	Sediment	16.98 	129.76 	6796 
+Hadal Ecosystems	Sediment	16.98 	129.76 	6796 
+Hadal Ecosystems	Sediment	16.98 	129.76 	6796 
+Hadal Ecosystems	Sediment	16.98 	129.76 	6796 
+Hadal Ecosystems	Sediment	16.98 	129.76 	6796 
+Hadal Ecosystems	Sediment	16.98 	129.76 	6796 
+Hadal Ecosystems	Sediment	16.95 	129.74 	7729 
+Hadal Ecosystems	Sediment	16.90 	129.69 	7091 
+Hadal Ecosystems	Sediment	16.90 	129.69 	7091 
+Hadal Ecosystems	Sediment	16.90 	129.69 	7091 
+Hadal Ecosystems	Sediment	16.90 	129.69 	7091 
+Hadal Ecosystems	Sediment	16.90 	129.69 	7091 
+Hadal Ecosystems	Sediment	16.90 	129.69 	7091 
+Hadal Ecosystems	Sediment	16.90 	129.69 	7091 
+Hadal Ecosystems	Sediment	16.90 	129.69 	7091 
+Hadal Ecosystems	Sediment	16.90 	129.69 	7091 
+Hadal Ecosystems	Sediment	16.90 	129.69 	7091 
+Hadal Ecosystems	Sediment	16.90 	129.69 	7091 
+Hadal Ecosystems	Sediment	11.35 	142.20 	6518 
+Hadal Ecosystems	Sediment	11.35 	142.20 	6518 
+Hadal Ecosystems	Sediment	11.35 	142.20 	6518 
+Hadal Ecosystems	Sediment	11.35 	142.20 	6518 
+Hadal Ecosystems	Sediment	11.35 	142.20 	6518 
+Hadal Ecosystems	Sediment	11.35 	142.20 	6518 
+Hadal Ecosystems	Sediment	11.35 	142.20 	6518 
+Hadal Ecosystems	Sediment	11.35 	142.20 	6518 
+Hadal Ecosystems	Sediment	11.35 	142.20 	6518 
+Hadal Ecosystems	Sediment	16.91 	129.69 	7587 
+Hadal Ecosystems	Sediment	16.91 	129.69 	7587 
+Hadal Ecosystems	Sediment	16.91 	129.69 	7587 
+Hadal Ecosystems	Sediment	16.91 	129.69 	7587 
+Hadal Ecosystems	Sediment	16.91 	129.69 	7587 
+Hadal Ecosystems	Sediment	16.91 	129.69 	7587 
+Hadal Ecosystems	Sediment	16.91 	129.69 	7587 
+Hadal Ecosystems	Sediment	16.91 	129.69 	7587 
+Hadal Ecosystems	Sediment	16.89 	129.68 	6847 
+Hadal Ecosystems	Sediment	16.89 	129.68 	6847 
+Hadal Ecosystems	Sediment	16.89 	129.68 	6847 
+Hadal Ecosystems	Sediment	16.89 	129.68 	6847 
+Hadal Ecosystems	Sediment	16.89 	129.68 	6847 
+Hadal Ecosystems	Sediment	16.89 	129.68 	6847 
+Hadal Ecosystems	Sediment	16.89 	129.68 	6847 
+Hadal Ecosystems	Sediment	16.89 	129.68 	6847 
+Hadal Ecosystems	Sediment	16.89 	129.68 	6847 
+Hadal Ecosystems	Sediment	16.89 	129.68 	6847 
+Hadal Ecosystems	Sediment	16.89 	129.68 	6847 
+Hadal Ecosystems	Sediment	16.89 	129.68 	6847 
+Hadal Ecosystems	Sediment	16.89 	129.68 	6847 
+Hadal Ecosystems	Sediment	16.91 	129.70 	7626 
+Hadal Ecosystems	Sediment	16.91 	129.70 	7626 
+Hadal Ecosystems	Sediment	16.91 	129.70 	7626 
+Hadal Ecosystems	Sediment	16.91 	129.70 	7626 
+Hadal Ecosystems	Sediment	11.36 	142.59 	10812 
+Hadal Ecosystems	Sediment	11.36 	142.59 	10812 
+Hadal Ecosystems	Sediment	11.36 	142.59 	10812 
+Hadal Ecosystems	Sediment	11.36 	142.59 	10812 
+Hadal Ecosystems	Sediment	11.36 	142.59 	10812 
+Hadal Ecosystems	Sediment	11.36 	142.59 	10812 
+Hadal Ecosystems	Sediment	11.36 	142.59 	10812 
+Hadal Ecosystems	Sediment	11.36 	142.59 	10812 
+Hadal Ecosystems	Sediment	11.36 	142.59 	10812 
+Hadal Ecosystems	Sediment	11.36 	142.59 	10812 
+Hadal Ecosystems	Sediment	11.36 	142.59 	10812 
+Hadal Ecosystems	Sediment	11.36 	142.59 	10812 
+Hadal Ecosystems	Sediment	11.37 	142.59 	10900 
+Hadal Ecosystems	Sediment	11.37 	142.59 	10900 
+Hadal Ecosystems	Sediment	11.37 	142.59 	10900 
+Hadal Ecosystems	Sediment	11.37 	142.59 	10900 
+Hadal Ecosystems	Sediment	11.37 	142.59 	10900 
+Hadal Ecosystems	Sediment	11.37 	142.59 	10900 
+Hadal Ecosystems	Sediment	11.37 	142.59 	10900 
+Hadal Ecosystems	Sediment	11.37 	142.59 	10900 
+Hadal Ecosystems	Sediment	11.37 	142.59 	10900 
+Hadal Ecosystems	Sediment	11.37 	142.59 	10900 
+Hadal Ecosystems	Sediment	11.37 	142.59 	10900 
+Hadal Ecosystems	Sediment	11.37 	142.59 	10900 
+Hadal Ecosystems	Sediment	11.37 	142.59 	10900 
+Hadal Ecosystems	Sediment	11.37 	142.59 	10900 
+Hadal Ecosystems	Sediment	11.37 	142.59 	10900 
+Hadal Ecosystems	Sediment	11.36 	142.56 	10872 
+Hadal Ecosystems	Sediment	11.36 	142.56 	10872 
+Hadal Ecosystems	Sediment	11.36 	142.56 	10872 
+Hadal Ecosystems	Sediment	11.36 	142.56 	10872 
+Hadal Ecosystems	Sediment	11.36 	142.56 	10872 
+Hadal Ecosystems	Sediment	11.36 	142.56 	10872 
+Hadal Ecosystems	Sediment	11.36 	142.56 	10872 
+Hadal Ecosystems	Sediment	11.36 	142.56 	10872 
+Hadal Ecosystems	Sediment	11.36 	142.56 	10872 
+Hadal Ecosystems	Sediment	11.36 	142.56 	10872 
+Hadal Ecosystems	Sediment	11.36 	142.56 	10872 
+Hadal Ecosystems	Sediment	11.36 	142.56 	10872 
+Hadal Ecosystems	Sediment	11.35 	142.20 	6518 
+Hadal Ecosystems	Sediment	11.35 	142.20 	6518 
+Hadal Ecosystems	Sediment	11.35 	142.20 	6518 
+Hadal Ecosystems	Sediment	11.35 	142.20 	6518 
+Hadal Ecosystems	Sediment	11.35 	142.20 	6518 
+Hadal Ecosystems	Sediment	11.35 	142.20 	6518 
+Hadal Ecosystems	Sediment	11.35 	142.20 	6518 
+Hadal Ecosystems	Sediment	11.35 	142.20 	6518 
+Hadal Ecosystems	Sediment	11.30 	142.14 	10139 
+Hadal Ecosystems	Sediment	11.30 	142.14 	10139 
+Hadal Ecosystems	Sediment	11.30 	142.14 	10139 
+Hadal Ecosystems	Sediment	11.30 	142.14 	10139 
+Hadal Ecosystems	Sediment	11.30 	142.14 	10139 
+Hadal Ecosystems	Sediment	11.30 	142.14 	10139 
+Hadal Ecosystems	Sediment	11.30 	142.14 	10139 
+Hadal Ecosystems	Sediment	11.30 	142.14 	10139 
+Hadal Ecosystems	Sediment	11.30 	142.14 	10139 
+Hadal Ecosystems	Sediment	11.30 	142.14 	10139 
+Hadal Ecosystems	Sediment	11.30 	142.14 	10139 
+Hadal Ecosystems	Sediment	11.30 	142.14 	10139 
+Hadal Ecosystems	Sediment	11.32 	142.16 	10827 
+Hadal Ecosystems	Sediment	11.32 	142.16 	10827 
+Hadal Ecosystems	Sediment	11.32 	142.16 	10827 
+Hadal Ecosystems	Sediment	11.32 	142.16 	10827 
+Hadal Ecosystems	Sediment	11.32 	142.16 	10827 
+Hadal Ecosystems	Sediment	11.32 	142.16 	10827 
+Hadal Ecosystems	Sediment	11.32 	142.16 	10827 
+Hadal Ecosystems	Sediment	11.32 	142.16 	10827 
+Hadal Ecosystems	Sediment	11.32 	142.16 	10827 
+Hadal Ecosystems	Sediment	11.32 	142.16 	10827 
+Hadal Ecosystems	Sediment	11.32 	142.16 	10827 
+Hadal Ecosystems	Sediment	11.32 	142.16 	10827 
+Hadal Ecosystems	Sediment	11.12 	142.14 	8207 
+Hadal Ecosystems	Sediment	11.12 	142.14 	8207 
+Hadal Ecosystems	Sediment	11.12 	142.14 	8207 
+Hadal Ecosystems	Sediment	11.12 	142.14 	8207 
+Hadal Ecosystems	Sediment	11.12 	142.14 	8207 
+Hadal Ecosystems	Sediment	11.12 	142.14 	8207 
+Hadal Ecosystems	Sediment	11.12 	142.14 	8207 
+Hadal Ecosystems	Sediment	11.12 	142.14 	8207 
+Hadal Ecosystems	Sediment	11.12 	142.14 	8207 
+Hadal Ecosystems	Sediment	11.12 	142.14 	8207 
+Hadal Ecosystems	Sediment	11.12 	142.14 	8207 
+Hadal Ecosystems	Sediment	11.12 	142.14 	8207 
+Hadal Ecosystems	Sediment	11.12 	142.14 	8207 
+Hadal Ecosystems	Sediment	11.12 	142.14 	8207 
+Hadal Ecosystems	Sediment	11.12 	142.14 	8207 
+Hadal Ecosystems	Sediment	11.12 	142.14 	8207 
+Hadal Ecosystems	Sediment	11.12 	142.14 	8207 
+Hadal Ecosystems	Sediment	11.12 	142.14 	8207 
+Hadal Ecosystems	Sediment	11.12 	142.14 	8207 
+Hadal Ecosystems	Sediment	11.12 	142.14 	8207 
+Hadal Ecosystems	Sediment	11.12 	142.14 	8207 
+Hadal Ecosystems	Sediment	11.12 	142.14 	8207 
+Hadal Ecosystems	Sediment	11.12 	142.14 	8207 
+Hadal Ecosystems	Sediment	11.12 	142.14 	8207 
+Hadal Ecosystems	Sediment	11.12 	142.14 	8207 
+Hadal Ecosystems	Sediment	11.12 	142.14 	8207 
+Hadal Ecosystems	Sediment	11.13 	142.16 	8168 
+Hadal Ecosystems	Sediment	11.13 	142.16 	8168 
+Hadal Ecosystems	Sediment	11.13 	142.16 	8168 
+Hadal Ecosystems	Sediment	11.13 	142.16 	8168 
+Hadal Ecosystems	Sediment	11.13 	142.16 	8168 
+Hadal Ecosystems	Sediment	11.13 	142.16 	8168 
+Hadal Ecosystems	Sediment	11.13 	142.16 	8168 
+Hadal Ecosystems	Sediment	11.13 	142.16 	8168 
+Hadal Ecosystems	Sediment	11.13 	142.16 	8168 
+Hadal Ecosystems	Sediment	11.13 	142.16 	8168 
+Hadal Ecosystems	Sediment	11.34 	142.21 	10868 
+Hadal Ecosystems	Sediment	11.34 	142.21 	10868 
+Hadal Ecosystems	Sediment	11.34 	142.21 	10868 
+Hadal Ecosystems	Sediment	11.34 	142.21 	10868 
+Hadal Ecosystems	Sediment	11.34 	142.21 	10868 
+Hadal Ecosystems	Sediment	11.34 	142.21 	10868 
+Hadal Ecosystems	Sediment	11.34 	142.21 	10868 
+Hadal Ecosystems	Sediment	11.34 	142.21 	10868 
+Hadal Ecosystems	Sediment	11.34 	142.21 	10868 
+Hadal Ecosystems	Sediment	11.34 	142.21 	10868 
+Hadal Ecosystems	Sediment	10.47 	138.67 	8890 
+Hadal Ecosystems	Sediment	10.47 	138.67 	8890 
+Hadal Ecosystems	Sediment	10.47 	138.67 	8890 
+Hadal Ecosystems	Sediment	10.47 	138.67 	8890 
+Hadal Ecosystems	Sediment	10.47 	138.67 	8890 
+Hadal Ecosystems	Sediment	10.47 	138.67 	8890 
+Hadal Ecosystems	Sediment	10.47 	138.67 	8890 
+Hadal Ecosystems	Sediment	10.47 	138.67 	8890 
+Hadal Ecosystems	Sediment	10.47 	138.67 	8890 
+Hadal Ecosystems	Sediment	10.50 	138.68 	8918 
+Hadal Ecosystems	Sediment	10.50 	138.68 	8918 
+Hadal Ecosystems	Sediment	10.49 	138.68 	8917 
+Hadal Ecosystems	Sediment	10.47 	138.67 	8890 
+Hadal Ecosystems	Sediment	10.47 	138.67 	8890 
+Hadal Ecosystems	Sediment	10.47 	138.67 	8890 
+Hadal Ecosystems	Sediment	10.47 	138.67 	8890 
+Hadal Ecosystems	Sediment	10.47 	138.67 	8890 
+Hadal Ecosystems	Sediment	10.47 	138.67 	8890 
+Hadal Ecosystems	Sediment	10.47 	138.67 	8890 
+Hadal Ecosystems	Sediment	10.47 	138.67 	8890 
+Hadal Ecosystems	Sediment	10.47 	138.67 	8890 
+Hadal Ecosystems	Sediment	10.49 	138.68 	8904 
+Hadal Ecosystems	Sediment	10.49 	138.68 	8904 
+Hadal Ecosystems	Sediment	10.49 	138.68 	8904 
+Hadal Ecosystems	Sediment	10.49 	138.68 	8904 
+Hadal Ecosystems	Sediment	10.47 	138.64 	8890 
+Hadal Ecosystems	Sediment	10.47 	138.64 	8890 
+Hadal Ecosystems	Sediment	10.47 	138.64 	8890 
+Hadal Ecosystems	Sediment	10.47 	138.64 	8890 
+Hadal Ecosystems	Sediment	10.47 	138.64 	8890 
+Hadal Ecosystems	Sediment	10.47 	138.64 	8890 
+Hadal Ecosystems	Sediment	10.47 	138.64 	8890 
+Hadal Ecosystems	Sediment	10.47 	138.64 	8890 
+Hadal Ecosystems	Sediment	10.47 	138.64 	8890 
+Hadal Ecosystems	Sediment	10.47 	138.64 	8890 
+Hadal Ecosystems	Sediment	10.47 	138.64 	8890 
+Hadal Ecosystems	Sediment	10.47 	138.64 	8890 
+Hadal Ecosystems	Sediment	10.47 	138.64 	8890 
+Hadal Ecosystems	Sediment	10.47 	138.64 	8890 
+Hadal Ecosystems	Sediment	10.47 	138.64 	8890 
+Hadal Ecosystems	Sediment	10.47 	138.64 	8890 
+Hadal Ecosystems	Sediment	10.47 	138.64 	8890 
+Hadal Ecosystems	Sediment	10.47 	138.64 	8890 
+Hadal Ecosystems	Sediment	10.47 	138.64 	8890 
+Hadal Ecosystems	Sediment	10.47 	138.64 	8890 
+Hadal Ecosystems	Sediment	11.35 	142.20 	6518 
+Hadal Ecosystems	Sediment	11.35 	142.20 	6518 
+Hadal Ecosystems	Sediment	11.35 	142.20 	6518 
+Hadal Ecosystems	Sediment	11.35 	142.20 	6518 
+Hadal Ecosystems	Sediment	10.69 	138.68 	8913 
+Hadal Ecosystems	Sediment	10.69 	138.68 	8913 
+Hadal Ecosystems	Sediment	10.49 	138.68 	8917 
+Hadal Ecosystems	Sediment	10.69 	138.68 	8913 
+Hadal Ecosystems	Sediment	11.35 	142.20 	6518 
+Hadal Ecosystems	Sediment	11.16 	141.66 	10026 
+Hadal Ecosystems	Sediment	11.16 	141.66 	10026 
+Hadal Ecosystems	Sediment	11.16 	141.66 	10026 
+Hadal Ecosystems	Sediment	11.16 	141.66 	10026 
+Hadal Ecosystems	Sediment	11.16 	141.66 	10026 
+Hadal Ecosystems	Sediment	11.16 	141.66 	10026 
+Hadal Ecosystems	Sediment	11.16 	141.66 	10026 
+Hadal Ecosystems	Sediment	11.16 	141.66 	10026 
+Hadal Ecosystems	Sediment	11.16 	141.66 	10026 
+Hadal Ecosystems	Sediment	11.16 	141.66 	10026 
+Hadal Ecosystems	Sediment	11.16 	141.66 	10026 
+Hadal Ecosystems	Sediment	11.16 	141.66 	10026 
+Hadal Ecosystems	Sediment	11.16 	141.66 	10026 
+Hadal Ecosystems	Sediment	11.16 	141.66 	10026 
+Hadal Ecosystems	Sediment	11.16 	141.66 	10026 
+Hadal Ecosystems	Sediment	11.16 	141.66 	10026 
+Hadal Ecosystems	Sediment	11.16 	141.66 	10026 
+Hadal Ecosystems	Sediment	11.13 	142.16 	8134 
+Hadal Ecosystems	Sediment	11.13 	142.16 	8164 
+Hadal Ecosystems	Sediment	11.13 	142.16 	8164 
+Hadal Ecosystems	Sediment	11.13 	142.16 	8164 
+Hadal Ecosystems	Sediment	11.13 	142.16 	8164 
+Hadal Ecosystems	Sediment	11.13 	142.16 	8164 
+Hadal Ecosystems	Sediment	11.13 	142.16 	8164 
+Hadal Ecosystems	Sediment	11.13 	142.16 	8164 
+Hadal Ecosystems	Sediment	11.13 	142.16 	8164 
+Hadal Ecosystems	Sediment	11.13 	142.16 	8164 
+Hadal Ecosystems	Sediment	11.16 	142.16 	8449 
+Hadal Ecosystems	Sediment	11.16 	142.16 	8449 
+Hadal Ecosystems	Sediment	11.16 	142.16 	8449 
+Hadal Ecosystems	Sediment	11.16 	142.16 	8449 
+Hadal Ecosystems	Sediment	11.16 	142.16 	8449 
+Hadal Ecosystems	Sediment	11.13 	142.16 	8171 
+Hadal Ecosystems	Sediment	11.13 	142.16 	8171 
+Hadal Ecosystems	Sediment	11.13 	142.16 	8171 
+Hadal Ecosystems	Sediment	11.13 	142.16 	8171 
+Hadal Ecosystems	Sediment	11.13 	142.16 	8171 
+Hadal Ecosystems	Sediment	11.13 	142.16 	8171 
+Hadal Ecosystems	Sediment	11.13 	142.16 	8171 
+Hadal Ecosystems	Sediment	11.13 	142.16 	8171 
+Hadal Ecosystems	Sediment	11.13 	142.16 	8171 
+Hadal Ecosystems	Sediment	11.13 	142.16 	8171 
+Hadal Ecosystems	Sediment	11.13 	142.16 	8171 
+Hadal Ecosystems	Sediment	11.13 	142.16 	8171 
+Hadal Ecosystems	Sediment	11.13 	142.16 	8171 
+Hadal Ecosystems	Sediment	11.13 	142.16 	8171 
+Hadal Ecosystems	Sediment	11.13 	142.16 	8171 
+Hadal Ecosystems	Sediment	11.13 	142.16 	8171 
+Hadal Ecosystems	Sediment	11.13 	142.16 	8171 
+Hadal Ecosystems	Sediment	11.13 	142.16 	8171 
+Hadal Ecosystems	Sediment	11.13 	142.16 	8171 
+Hadal Ecosystems	Sediment	11.16 	142.16 	8207 
+Hadal Ecosystems	Sediment	11.16 	142.16 	8207 
+Hadal Ecosystems	Sediment	11.16 	142.16 	8207 
+Hadal Ecosystems	Sediment	11.16 	142.16 	8207 
+Hadal Ecosystems	Sediment	11.16 	142.16 	8207 
+Hadal Ecosystems	Sediment	11.16 	142.16 	8207 
+Hadal Ecosystems	Sediment	11.13 	142.16 	8134 
+Hadal Ecosystems	Sediment	11.13 	142.16 	8134 
+Hadal Ecosystems	Sediment	11.13 	142.16 	8134 
+Hadal Ecosystems	Sediment	11.13 	142.16 	8134 
+Hadal Ecosystems	Sediment	11.13 	142.16 	8134 
+Hadal Ecosystems	Sediment	11.13 	142.16 	8134 
+Hadal Ecosystems	Sediment	11.13 	142.16 	8134 
+Hadal Ecosystems	Sediment	11.13 	142.16 	8134 
+Hadal Ecosystems	Sediment	11.13 	142.16 	8134 
+Hadal Ecosystems	Sediment	11.13 	142.16 	8134 
+Hadal Ecosystems	Sediment	11.13 	142.16 	8134 
+Hadal Ecosystems	Sediment	11.13 	142.16 	8134 
+Hadal Ecosystems	Sediment	11.16 	142.16 	8207 
+Hadal Ecosystems	Sediment	11.13 	142.16 	8134 
+Hadal Ecosystems	Sediment	11.13 	142.16 	8134 
+Hadal Ecosystems	Sediment	11.13 	142.16 	8134 
+Hadal Ecosystems	Sediment	11.13 	142.16 	8134 
+Hadal Ecosystems	Sediment	11.13 	142.16 	8134 
+Hadal Ecosystems	Sediment	11.13 	142.16 	8134 
+Hadal Ecosystems	Sediment	11.13 	142.16 	8134 
+Hadal Ecosystems	Sediment	11.13 	142.16 	8134 
+Hadal Ecosystems	Sediment	11.24 	141.88 	9298 
+Hadal Ecosystems	Sediment	11.24 	141.88 	9298 
+Hadal Ecosystems	Sediment	11.24 	141.88 	9298 
+Hadal Ecosystems	Sediment	11.24 	141.88 	9298 
+Hadal Ecosystems	Sediment	11.24 	141.88 	9298 
+Hadal Ecosystems	Sediment	11.24 	141.88 	9298 
+Hadal Ecosystems	Sediment	11.24 	141.88 	9298 
+Hadal Ecosystems	Sediment	11.24 	141.88 	9298 
+Hadal Ecosystems	Sediment	11.24 	141.88 	9298 
+Hadal Ecosystems	Sediment	11.38 	141.59 	10866 
+Hadal Ecosystems	Sediment	11.38 	141.59 	10866 
+Hadal Ecosystems	Sediment	11.38 	141.59 	10866 
+Hadal Ecosystems	Sediment	11.37 	142.59 	10900 
+Hadal Ecosystems	Sediment	11.37 	142.59 	10900 
+Hadal Ecosystems	Sediment	11.37 	142.59 	10900 
+Hadal Ecosystems	Sediment	11.37 	142.59 	10900 
+Hadal Ecosystems	Sediment	11.37 	142.59 	10900 
+Hadal Ecosystems	Sediment	11.37 	142.59 	10900 
+Hadal Ecosystems	Sediment	11.37 	142.59 	10900 
+Hadal Ecosystems	Sediment	11.37 	142.59 	10900 
+Hadal Ecosystems	Sediment	11.37 	142.59 	10900 
+Hadal Ecosystems	Sediment	11.35 	142.20 	6518 
+Hadal Ecosystems	Sediment	11.35 	142.20 	6518 
+Hadal Ecosystems	Sediment	11.35 	142.20 	6518 
+Hadal Ecosystems	Sediment	11.35 	142.20 	6518 
+Hadal Ecosystems	Sediment	11.35 	142.20 	6518 
+Hadal Ecosystems	Sediment	11.35 	142.20 	6518 
+Hadal Ecosystems	Sediment	11.37 	141.59 	10900 
+Hadal Ecosystems	Sediment	11.37 	141.59 	10900 
+Hadal Ecosystems	Sediment	11.37 	141.59 	10900 
+Hadal Ecosystems	Sediment	11.37 	141.59 	10900 
+Hadal Ecosystems	Sediment	11.37 	141.59 	10900 
+Hadal Ecosystems	Sediment	11.37 	141.59 	10900 
+Hadal Ecosystems	Sediment	11.38 	141.59 	10866 
+Hadal Ecosystems	Sediment	11.38 	141.59 	10866 
+Hadal Ecosystems	Sediment	11.38 	141.59 	10866 
+Hadal Ecosystems	Sediment	11.38 	141.59 	10866 
+Hadal Ecosystems	Sediment	11.38 	141.59 	10866 
+Hadal Ecosystems	Sediment	11.38 	141.59 	10866 
+Hadal Ecosystems	Sediment	11.38 	141.59 	10866 
+Hadal Ecosystems	Sediment	11.38 	141.59 	10866 
+Hadal Ecosystems	Sediment	11.38 	141.59 	10866 
+Hadal Ecosystems	Sediment	11.38 	141.59 	10866 
+Hadal Ecosystems	Sediment	11.37 	141.59 	10900 
+Hadal Ecosystems	Sediment	11.37 	141.59 	10900 
+Hadal Ecosystems	Sediment	11.37 	141.59 	10900 
+Hadal Ecosystems	Sediment	11.37 	141.59 	10900 
+Hadal Ecosystems	Sediment	11.37 	141.59 	10900 
+Hadal Ecosystems	Sediment	11.37 	141.59 	10900 
+Hadal Ecosystems	Sediment	11.23 	142.44 	9015 
+Hadal Ecosystems	Sediment	11.23 	142.44 	9015 
+Hadal Ecosystems	Sediment	11.23 	142.44 	9015 
+Hadal Ecosystems	Sediment	11.23 	142.44 	9015 
+Hadal Ecosystems	Sediment	11.23 	142.44 	9015 
+Hadal Ecosystems	Sediment	11.23 	142.44 	9015 
+Hadal Ecosystems	Sediment	11.23 	142.44 	9015 
+Hadal Ecosystems	Sediment	11.23 	142.44 	9015 
+Hadal Ecosystems	Sediment	11.23 	142.44 	9015 
+Hadal Ecosystems	Sediment	11.24 	142.43 	9091 
+Hadal Ecosystems	Sediment	11.23 	142.45 	8806 
+Hadal Ecosystems	Sediment	11.23 	142.45 	8806 
+Hadal Ecosystems	Sediment	11.23 	142.45 	8806 
+Hadal Ecosystems	Sediment	11.23 	142.45 	8806 
+Hadal Ecosystems	Sediment	11.23 	142.45 	8806 
+Hadal Ecosystems	Sediment	11.23 	142.45 	8806 
+Hadal Ecosystems	Sediment	11.23 	142.45 	8806 
+Hadal Ecosystems	Sediment	11.23 	142.45 	8806 
+Hadal Ecosystems	Sediment	11.25 	142.43 	9091 
+Hadal Ecosystems	Sediment	11.25 	142.43 	9091 
+Hadal Ecosystems	Sediment	11.25 	142.43 	9091 
+Hadal Ecosystems	Sediment	11.25 	142.43 	9091 
+Hadal Ecosystems	Sediment	11.25 	142.43 	9091 
+Hadal Ecosystems	Sediment	11.25 	142.43 	9091 
+Hadal Ecosystems	Sediment	11.23 	142.45 	8806 
+Hadal Ecosystems	Sediment	11.23 	142.45 	8806 
+Hadal Ecosystems	Sediment	11.23 	142.45 	8806 
+Hadal Ecosystems	Sediment	11.23 	142.45 	8806 
+Hadal Ecosystems	Sediment	11.23 	142.45 	8806 
+Hadal Ecosystems	Sediment	11.23 	142.45 	8806 
+Hadal Ecosystems	Sediment	11.23 	142.45 	8806 
+Hadal Ecosystems	Sediment	11.23 	142.45 	8806 
+Hadal Ecosystems	Sediment	11.23 	142.45 	8806 
+Hadal Ecosystems	Sediment	11.23 	142.45 	8806 
+Hadal Ecosystems	Sediment	11.23 	142.44 	9015 
+Hadal Ecosystems	Sediment	11.23 	142.44 	9015 
+Hadal Ecosystems	Sediment	11.23 	142.44 	9015 
+Hadal Ecosystems	Sediment	11.35 	142.20 	6518 
+Hadal Ecosystems	Sediment	11.35 	142.20 	6518 
+Hadal Ecosystems	Sediment	11.35 	142.20 	6518 
+Hadal Ecosystems	Sediment	11.35 	142.20 	6518 
+Hadal Ecosystems	Sediment	11.35 	142.20 	6518 
+Hadal Ecosystems	Sediment	11.35 	142.20 	6518 
+Hadal Ecosystems	Sediment	11.20 	142.34 	9066 
+Hadal Ecosystems	Sediment	11.20 	142.34 	9066 
+Hadal Ecosystems	Sediment	11.20 	142.34 	9066 
+Hadal Ecosystems	Sediment	11.20 	142.34 	9066 
+Hadal Ecosystems	Sediment	11.20 	142.34 	9066 
+Hadal Ecosystems	Sediment	11.20 	142.34 	9066 
+Hadal Ecosystems	Sediment	11.20 	142.34 	9066 
+Hadal Ecosystems	Sediment	11.20 	142.34 	9066 
+Hadal Ecosystems	Sediment	11.20 	142.34 	9066 
+Hadal Ecosystems	Sediment	11.20 	142.34 	9066 
+Hadal Ecosystems	Sediment	11.20 	142.34 	9066 
+Hadal Ecosystems	Sediment	11.20 	142.34 	9066 
+Hadal Ecosystems	Sediment	11.20 	142.34 	9066 
+Hadal Ecosystems	Sediment	11.20 	142.34 	9066 
+Hadal Ecosystems	Sediment	11.20 	142.34 	9066 
+Hadal Ecosystems	Sediment	11.20 	142.34 	9066 
+Hadal Ecosystems	Sediment	11.20 	142.34 	9071 
+Hadal Ecosystems	Sediment	11.20 	142.34 	9071 
+Hadal Ecosystems	Sediment	11.20 	142.34 	9071 
+Hadal Ecosystems	Sediment	11.20 	142.34 	9071 
+Hadal Ecosystems	Sediment	11.20 	142.34 	9071 
+Hadal Ecosystems	Sediment	11.20 	142.34 	9071 
+Hadal Ecosystems	Sediment	11.20 	142.34 	9071 
+Hadal Ecosystems	Sediment	11.20 	142.34 	9071 
+Hadal Ecosystems	Sediment	11.20 	142.34 	9071 
+Hadal Ecosystems	Sediment	11.20 	142.34 	9071 
+Hadal Ecosystems	Sediment	11.20 	142.34 	9071 
+Hadal Ecosystems	Sediment	11.20 	142.34 	9071 
+Hadal Ecosystems	Sediment	11.20 	142.34 	9071 
+Hadal Ecosystems	Sediment	11.22 	142.35 	8894 
+Hadal Ecosystems	Sediment	11.22 	142.35 	8894 
+Hadal Ecosystems	Sediment	11.22 	142.35 	8894 
+Hadal Ecosystems	Sediment	11.22 	142.35 	8894 
+Hadal Ecosystems	Sediment	11.22 	142.35 	8894 
+Hadal Ecosystems	Sediment	11.22 	142.35 	8894 
+Hadal Ecosystems	Sediment	11.22 	142.35 	8894 
+Hadal Ecosystems	Sediment	11.22 	142.35 	8894 
+Hadal Ecosystems	Sediment	11.22 	142.35 	8894 
+Hadal Ecosystems	Sediment	11.22 	142.35 	8894 
+Hadal Ecosystems	Sediment	11.22 	142.35 	8894 
+Hadal Ecosystems	Sediment	11.22 	142.35 	8894 
+Hadal Ecosystems	Sediment	11.22 	142.35 	8894 
+Hadal Ecosystems	Sediment	11.22 	142.35 	8869 
+Hadal Ecosystems	Sediment	11.22 	142.35 	8869 
+Hadal Ecosystems	Sediment	11.22 	142.35 	8869 
+Hadal Ecosystems	Sediment	11.22 	142.35 	8869 
+Hadal Ecosystems	Sediment	11.22 	142.35 	8869 
+Hadal Ecosystems	Sediment	11.22 	142.35 	8869 
+Hadal Ecosystems	Sediment	11.22 	142.35 	8869 
+Hadal Ecosystems	Sediment	11.22 	142.35 	8869 
+Hadal Ecosystems	Sediment	11.22 	142.35 	8960 
+Hadal Ecosystems	Sediment	11.22 	142.35 	8960 
+Hadal Ecosystems	Sediment	11.22 	142.35 	8960 
+Hadal Ecosystems	Sediment	11.22 	142.35 	8960 
+Hadal Ecosystems	Sediment	11.22 	142.35 	8960 
+Hadal Ecosystems	Sediment	11.22 	142.35 	8960 
+Hadal Ecosystems	Sediment	11.22 	142.35 	8960 
+Hadal Ecosystems	Sediment	11.22 	142.35 	8960 
+Hadal Ecosystems	Sediment	11.22 	142.35 	8960 
+Hadal Ecosystems	Sediment	11.22 	142.35 	8960 
+Hadal Ecosystems	Sediment	11.22 	142.35 	8960 
+Hadal Ecosystems	Sediment	11.22 	142.35 	8960 
+Hadal Ecosystems	Sediment	11.22 	142.35 	8960 
+Hadal Ecosystems	Sediment	11.22 	142.35 	8960 
+Hadal Ecosystems	Sediment	11.20 	142.34 	9071 
+Hadal Ecosystems	Sediment	11.20 	142.34 	9071 
+Hadal Ecosystems	Sediment	11.20 	142.34 	9071 
+Hadal Ecosystems	Sediment	11.21 	142.35 	9010 
+Hadal Ecosystems	Sediment	11.21 	142.35 	9010 
+Hadal Ecosystems	Sediment	11.21 	142.35 	9010 
+Hadal Ecosystems	Sediment	11.21 	142.35 	9010 
+Hadal Ecosystems	Sediment	11.21 	142.35 	9010 
+Hadal Ecosystems	Sediment	11.21 	142.35 	9010 
+Hadal Ecosystems	Sediment	11.21 	142.35 	9010 
+Hadal Ecosystems	Sediment	11.21 	142.35 	9010 
+Hadal Ecosystems	Sediment	11.21 	142.35 	9010 
+Hadal Ecosystems	Sediment	11.21 	142.35 	9010 
+Hadal Ecosystems	Sediment	11.21 	142.35 	9010 
+Hadal Ecosystems	Sediment	11.21 	142.35 	9010 
+Hadal Ecosystems	Sediment	11.21 	142.35 	9010 
+Hadal Ecosystems	Sediment	11.21 	142.35 	9010 
+Hadal Ecosystems	Sediment	11.21 	142.35 	9010 
+Hadal Ecosystems	Sediment	11.21 	142.35 	9010 
+Hadal Ecosystems	Sediment	11.21 	142.35 	9010 
+Hadal Ecosystems	Sediment	11.21 	142.35 	9010 
+Hadal Ecosystems	Sediment	11.21 	142.35 	9010 
+Hadal Ecosystems	Sediment	11.34 	142.20 	10875 
+Hadal Ecosystems	Sediment	11.34 	142.20 	10875 
+Hadal Ecosystems	Sediment	11.34 	142.20 	10875 
+Hadal Ecosystems	Sediment	11.34 	142.20 	10875 
+Hadal Ecosystems	Sediment	11.34 	142.20 	10875 
+Hadal Ecosystems	Sediment	11.34 	142.20 	10875 
+Hadal Ecosystems	Sediment	11.34 	142.20 	10875 
+Hadal Ecosystems	Sediment	11.34 	142.20 	10875 
+Hadal Ecosystems	Sediment	11.34 	142.20 	10875 
+Hadal Ecosystems	Sediment	11.34 	142.20 	10875 
+Hadal Ecosystems	Sediment	11.34 	142.20 	10875 
+Hadal Ecosystems	Sediment	11.34 	142.20 	10875 
+Hadal Ecosystems	Sediment	11.34 	142.20 	10875 
+Hadal Ecosystems	Sediment	11.34 	142.20 	10875 
+Hadal Ecosystems	Sediment	11.34 	142.20 	10875 
+Hadal Ecosystems	Sediment	11.34 	142.20 	10875 
+Hadal Ecosystems	Sediment	11.34 	142.20 	10875 
+Hadal Ecosystems	Sediment	11.34 	142.20 	10875 
+Hadal Ecosystems	Sediment	11.34 	142.20 	10875 
+Hadal Ecosystems	Sediment	11.34 	142.20 	10875 
+Hadal Ecosystems	Sediment	11.34 	142.20 	10875 
+Hadal Ecosystems	Sediment	11.34 	142.20 	10875 
+Hadal Ecosystems	Sediment	11.34 	142.20 	10875 
+Hadal Ecosystems	Sediment	11.34 	142.20 	10875 
+Hadal Ecosystems	Sediment	11.34 	142.20 	10875 
+Hadal Ecosystems	Sediment	11.34 	142.20 	10875 
+Hadal Ecosystems	Sediment	11.34 	142.20 	10875 
+Hadal Ecosystems	Sediment	11.34 	142.20 	10875 
+Hadal Ecosystems	Sediment	11.34 	142.20 	10875 
+Hadal Ecosystems	Sediment	11.34 	142.20 	10875 
+Hadal Ecosystems	Sediment	11.34 	142.20 	10875 
+Hadal Ecosystems	Sediment	11.34 	142.20 	10875 
+Hadal Ecosystems	Sediment	11.34 	142.22 	10888 
+Hadal Ecosystems	Sediment	11.34 	142.22 	10888 
+Hadal Ecosystems	Sediment	11.34 	142.22 	10888 
+Hadal Ecosystems	Sediment	11.34 	142.22 	10888 
+Hadal Ecosystems	Sediment	11.34 	142.22 	10888 
+Hadal Ecosystems	Sediment	11.34 	142.22 	10888 
+Hadal Ecosystems	Sediment	11.34 	142.22 	10888 
+Hadal Ecosystems	Sediment	11.34 	142.22 	10888 
+Hadal Ecosystems	Sediment	11.34 	142.22 	10888 
+Hadal Ecosystems	Sediment	11.34 	142.22 	10888 
+Hadal Ecosystems	Sediment	11.34 	142.22 	10888 
+Hadal Ecosystems	Sediment	11.34 	142.22 	10888 
+Hadal Ecosystems	Sediment	11.34 	142.22 	10888 
+Hadal Ecosystems	Sediment	11.34 	142.22 	10888 
+Hadal Ecosystems	Sediment	11.34 	142.22 	10888 
+Hadal Ecosystems	Sediment	11.34 	142.22 	10888 
+Hadal Ecosystems	Sediment	11.34 	142.22 	10888 
+Hadal Ecosystems	Sediment	11.34 	142.22 	10888 
+Hadal Ecosystems	Sediment	11.34 	142.22 	10888 
+Hadal Ecosystems	Sediment	11.34 	142.22 	10888 
+Hadal Ecosystems	Sediment	11.34 	142.22 	10888 
+Hadal Ecosystems	Sediment	11.34 	142.22 	10888 
+Hadal Ecosystems	Sediment	11.34 	142.22 	10888 
+Hadal Ecosystems	Sediment	11.34 	142.22 	10888 
+Hadal Ecosystems	Sediment	11.34 	142.20 	10792 
+Hadal Ecosystems	Sediment	11.34 	142.20 	10792 
+Hadal Ecosystems	Sediment	11.34 	142.20 	10792 
+Hadal Ecosystems	Sediment	11.34 	142.20 	10792 
+Hadal Ecosystems	Sediment	11.34 	142.20 	10792 
+Hadal Ecosystems	Sediment	11.34 	142.20 	10792 
+Hadal Ecosystems	Sediment	11.34 	142.20 	10792 
+Hadal Ecosystems	Sediment	11.34 	142.20 	10792 
+Hadal Ecosystems	Sediment	11.34 	142.20 	10792 
+Hadal Ecosystems	Sediment	11.34 	142.20 	10792 
+Hadal Ecosystems	Sediment	11.34 	142.20 	10792 
+Hadal Ecosystems	Sediment	11.34 	142.20 	10792 
+Hadal Ecosystems	Sediment	11.34 	142.20 	10792 
+Hadal Ecosystems	Sediment	11.34 	142.20 	10792 
+Hadal Ecosystems	Sediment	11.34 	142.20 	10792 
+Hadal Ecosystems	Sediment	11.34 	142.20 	10792 
+Hadal Ecosystems	Sediment	11.34 	142.20 	10792 
+Hadal Ecosystems	Sediment	11.33 	142.22 	10890 
+Hadal Ecosystems	Sediment	11.33 	142.22 	10890 
+Hadal Ecosystems	Sediment	11.33 	142.22 	10890 
+Hadal Ecosystems	Sediment	11.33 	142.22 	10890 
+Hadal Ecosystems	Sediment	11.33 	142.22 	10890 
+Hadal Ecosystems	Sediment	11.33 	142.22 	10890 
+Hadal Ecosystems	Sediment	11.33 	142.22 	10890 
+Hadal Ecosystems	Sediment	11.33 	142.22 	10890 
+Hadal Ecosystems	Sediment	11.33 	142.22 	10890 
+Hadal Ecosystems	Sediment	11.33 	142.22 	10890 
+Hadal Ecosystems	Sediment	11.33 	142.22 	10890 
+Hadal Ecosystems	Sediment	11.33 	142.22 	10890 
+Hadal Ecosystems	Sediment	11.33 	142.22 	10890 
+Hadal Ecosystems	Sediment	11.53 	142.44 	8497 
+Hadal Ecosystems	Sediment	11.53 	142.44 	8497 
+Hadal Ecosystems	Sediment	11.53 	142.44 	8497 
+Hadal Ecosystems	Sediment	11.53 	142.44 	8497 
+Hadal Ecosystems	Sediment	11.53 	142.44 	8497 
+Hadal Ecosystems	Sediment	11.53 	142.44 	8497 
+Hadal Ecosystems	Sediment	11.52 	142.45 	8867 
+Hadal Ecosystems	Sediment	11.52 	142.45 	8867 
+Hadal Ecosystems	Sediment	11.52 	142.45 	8867 
+Hadal Ecosystems	Sediment	11.52 	142.45 	8867 
+Hadal Ecosystems	Sediment	11.52 	142.45 	8867 
+Hadal Ecosystems	Sediment	11.54 	142.44 	8394 
+Hadal Ecosystems	Sediment	11.54 	142.44 	8394 
+Hadal Ecosystems	Sediment	11.54 	142.44 	8394 
+Hadal Ecosystems	Sediment	11.54 	142.44 	8394 
+Hadal Ecosystems	Sediment	11.54 	142.44 	8394 
+Hadal Ecosystems	Sediment	11.54 	142.44 	8394 
+Hadal Ecosystems	Sediment	11.54 	142.44 	8394 
+Hadal Ecosystems	Sediment	11.54 	142.44 	8394 
+Hadal Ecosystems	Sediment	11.54 	142.44 	8394 
+Hadal Ecosystems	Sediment	11.54 	142.44 	8394 
+Hadal Ecosystems	Sediment	11.54 	142.44 	8394 
+Hadal Ecosystems	Sediment	11.54 	142.44 	8394 
+Hadal Ecosystems	Sediment	11.54 	142.44 	8394 
+Hadal Ecosystems	Sediment	11.54 	142.44 	8394 
+Hadal Ecosystems	Sediment	11.54 	142.44 	8394 
+Hadal Ecosystems	Sediment	11.54 	142.44 	8394 
+Hadal Ecosystems	Sediment	11.54 	142.44 	8394 
+Hadal Ecosystems	Sediment	11.54 	142.44 	8394 
+Hadal Ecosystems	Sediment	11.54 	142.44 	8394 
+Hadal Ecosystems	Sediment	11.54 	142.44 	8394 
+Hadal Ecosystems	Sediment	11.54 	142.44 	8394 
+Hadal Ecosystems	Sediment	11.54 	142.44 	8394 
+Hadal Ecosystems	Sediment	11.54 	142.44 	8394 
+Hadal Ecosystems	Sediment	11.54 	142.44 	8394 
+Hadal Ecosystems	Sediment	11.54 	142.44 	8394 
+Hadal Ecosystems	Sediment	11.54 	142.44 	8394 
+Hadal Ecosystems	Sediment	11.54 	142.44 	8394 
+Hadal Ecosystems	Sediment	11.54 	142.44 	8394 
+Hadal Ecosystems	Sediment	11.52 	142.44 	8864 
+Hadal Ecosystems	Sediment	11.52 	142.44 	8864 
+Hadal Ecosystems	Sediment	11.52 	142.44 	8864 
+Hadal Ecosystems	Sediment	11.52 	142.44 	8864 
+Hadal Ecosystems	Sediment	11.52 	142.44 	8864 
+Hadal Ecosystems	Sediment	11.52 	142.44 	8864 
+Hadal Ecosystems	Sediment	11.52 	142.44 	8864 
+Hadal Ecosystems	Sediment	11.52 	142.44 	8864 
+Hadal Ecosystems	Sediment	11.52 	142.44 	8864 
+Hadal Ecosystems	Sediment	11.52 	142.44 	8864 
+Hadal Ecosystems	Sediment	11.52 	142.44 	8864 
+Hadal Ecosystems	Sediment	11.52 	142.44 	8864 
+Hadal Ecosystems	Sediment	11.52 	142.44 	8864 
+Hadal Ecosystems	Sediment	11.52 	142.44 	8864 
+Hadal Ecosystems	Sediment	11.52 	142.44 	8864 
+Hadal Ecosystems	Sediment	11.52 	142.44 	8864 
+Hadal Ecosystems	Sediment	11.52 	142.44 	8864 
+Hadal Ecosystems	Sediment	11.52 	142.44 	8864 
+Hadal Ecosystems	Sediment	11.52 	142.44 	8864 
+Hadal Ecosystems	Sediment	11.52 	142.45 	8867 
+Hadal Ecosystems	Sediment	11.52 	142.45 	8867 
+Hadal Ecosystems	Sediment	11.52 	142.45 	8867 
+Hadal Ecosystems	Sediment	11.52 	142.45 	8867 
+Hadal Ecosystems	Sediment	11.52 	142.45 	8867 
+Hadal Ecosystems	Sediment	11.52 	142.45 	8867 
+Hadal Ecosystems	Sediment	11.52 	142.45 	8867 
+Hadal Ecosystems	Sediment	11.52 	142.45 	8867 
+Hadal Ecosystems	Sediment	11.52 	142.45 	8867 
+Hadal Ecosystems	Sediment	11.52 	142.45 	8867 
+Hadal Ecosystems	Sediment	11.52 	142.45 	8867 
+Hadal Ecosystems	Sediment	11.52 	142.45 	8867 
+Hadal Ecosystems	Sediment	11.52 	142.45 	8867 
+Hadal Ecosystems	Sediment	11.52 	142.45 	8867 
+Hadal Ecosystems	Sediment	11.53 	142.44 	8497 
+Hadal Ecosystems	Sediment	11.53 	142.44 	8497 
+Hadal Ecosystems	Sediment	11.53 	142.44 	8497 
+Hadal Ecosystems	Sediment	11.53 	142.44 	8497 
+Hadal Ecosystems	Sediment	11.53 	142.44 	8497 
+Hadal Ecosystems	Sediment	11.53 	142.44 	8497 
+Hadal Ecosystems	Sediment	11.53 	142.44 	8497 
+Hadal Ecosystems	Sediment	11.53 	142.44 	8497 
+Hadal Ecosystems	Sediment	11.53 	142.44 	8497 
+Hadal Ecosystems	Sediment	11.25 	142.36 	9556 
+Hadal Ecosystems	Sediment	11.25 	142.36 	9556 
+Hadal Ecosystems	Sediment	11.25 	142.36 	9556 
+Hadal Ecosystems	Sediment	11.25 	142.36 	9556 
+Hadal Ecosystems	Sediment	11.25 	142.36 	9556 
+Hadal Ecosystems	Sediment	11.25 	142.36 	9556 
+Hadal Ecosystems	Sediment	11.25 	142.36 	9556 
+Hadal Ecosystems	Sediment	11.25 	142.35 	9454 
+Hadal Ecosystems	Sediment	11.25 	142.35 	9454 
+Hadal Ecosystems	Sediment	11.25 	142.35 	9454 
+Hadal Ecosystems	Sediment	11.25 	142.35 	9454 
+Hadal Ecosystems	Sediment	11.25 	142.35 	9454 
+Hadal Ecosystems	Sediment	11.25 	142.35 	9454 
+Hadal Ecosystems	Sediment	11.25 	142.35 	9454 
+Hadal Ecosystems	Sediment	11.25 	142.35 	9454 
+Hadal Ecosystems	Sediment	11.25 	142.35 	9454 
+Hadal Ecosystems	Sediment	11.25 	142.35 	9454 
+Hadal Ecosystems	Sediment	11.25 	142.35 	9454 
+Hadal Ecosystems	Sediment	11.25 	142.35 	9454 
+Hadal Ecosystems	Sediment	11.25 	142.35 	9454 
+Hadal Ecosystems	Sediment	11.25 	142.35 	9454 
+Hadal Ecosystems	Sediment	11.25 	142.35 	9454 
+Hadal Ecosystems	Sediment	11.25 	142.35 	9454 
+Hadal Ecosystems	Sediment	11.25 	142.35 	9454 
+Hadal Ecosystems	Sediment	11.25 	142.35 	9454 
+Hadal Ecosystems	Sediment	11.25 	142.35 	9454 
+Hadal Ecosystems	Sediment	11.25 	142.35 	9454 
+Hadal Ecosystems	Sediment	11.25 	142.35 	9454 
+Hadal Ecosystems	Sediment	11.25 	142.35 	9580 
+Hadal Ecosystems	Sediment	11.25 	142.35 	9580 
+Hadal Ecosystems	Sediment	11.25 	142.35 	9580 
+Hadal Ecosystems	Sediment	11.25 	142.35 	9580 
+Hadal Ecosystems	Sediment	11.25 	142.35 	9580 
+Hadal Ecosystems	Sediment	11.25 	142.35 	9580 
+Hadal Ecosystems	Sediment	11.25 	142.35 	9580 
+Hadal Ecosystems	Sediment	11.25 	142.35 	9580 
+Hadal Ecosystems	Sediment	11.25 	142.35 	9580 
+Hadal Ecosystems	Sediment	11.25 	142.35 	9580 
+Hadal Ecosystems	Sediment	11.25 	142.35 	9580 
+Hadal Ecosystems	Sediment	11.25 	142.35 	9580 
+Hadal Ecosystems	Sediment	11.25 	142.35 	9580 
+Hadal Ecosystems	Sediment	11.25 	142.35 	9580 
+Hadal Ecosystems	Sediment	11.25 	142.35 	9580 
+Hadal Ecosystems	Sediment	11.25 	142.35 	9580 
+Hadal Ecosystems	Sediment	11.25 	142.35 	9580 
+Hadal Ecosystems	Sediment	11.24 	142.34 	9369 
+Hadal Ecosystems	Sediment	11.24 	142.34 	9369 
+Hadal Ecosystems	Sediment	11.24 	142.34 	9369 
+Hadal Ecosystems	Sediment	11.24 	142.34 	9369 
+Hadal Ecosystems	Sediment	11.24 	142.34 	9369 
+Hadal Ecosystems	Sediment	11.24 	142.34 	9369 
+Hadal Ecosystems	Sediment	11.24 	142.34 	9369 
+Hadal Ecosystems	Sediment	11.25 	142.36 	9556 
+Hadal Ecosystems	Sediment	11.25 	142.36 	9556 
+Hadal Ecosystems	Sediment	11.25 	142.36 	9556 
+Hadal Ecosystems	Sediment	11.25 	142.36 	9556 
+Hadal Ecosystems	Sediment	11.25 	142.36 	9556 
+Hadal Ecosystems	Sediment	11.25 	142.36 	9556 
+Hadal Ecosystems	Sediment	11.25 	142.36 	9556 
+Hadal Ecosystems	Sediment	11.25 	142.36 	9556 
+Hadal Ecosystems	Sediment	11.25 	142.36 	9556 
+Hadal Ecosystems	Sediment	11.25 	142.36 	9556 
+Hadal Ecosystems	Sediment	11.25 	142.36 	9556 
+Hadal Ecosystems	Sediment	11.25 	142.36 	9556 
+Hadal Ecosystems	Sediment	11.25 	142.36 	9556 
+Hadal Ecosystems	Sediment	11.25 	142.36 	9556 
+Hadal Ecosystems	Sediment	11.25 	142.36 	9556 
+Hadal Ecosystems	Sediment	11.25 	142.36 	9556 
+Hadal Ecosystems	Sediment	11.25 	142.36 	9556 
+Hadal Ecosystems	Sediment	11.25 	142.36 	9556 
+Hadal Ecosystems	Sediment	11.25 	142.36 	9556 
+Hadal Ecosystems	Sediment	11.25 	142.36 	9556 
+Hadal Ecosystems	Sediment	11.25 	142.36 	9546 
+Hadal Ecosystems	Sediment	11.25 	142.36 	9546 
+Hadal Ecosystems	Sediment	11.25 	142.36 	9546 
+Hadal Ecosystems	Sediment	11.25 	142.36 	9546 
+Hadal Ecosystems	Sediment	11.24 	142.34 	9266 
+Hadal Ecosystems	Sediment	11.24 	142.34 	9266 
+Hadal Ecosystems	Sediment	11.24 	142.34 	9266 
+Hadal Ecosystems	Sediment	11.24 	142.34 	9266 
+Hadal Ecosystems	Sediment	11.24 	142.34 	9266 
+Hadal Ecosystems	Sediment	11.24 	142.34 	9266 
+Hadal Ecosystems	Sediment	11.24 	142.34 	9266 
+Hadal Ecosystems	Sediment	11.24 	142.34 	9266 
+Hadal Ecosystems	Sediment	11.24 	142.34 	9266 
+Hadal Ecosystems	Sediment	11.24 	142.34 	9266 
+Hadal Ecosystems	Sediment	11.24 	142.34 	9266 
+Hadal Ecosystems	Sediment	11.24 	142.34 	9266 
+Hadal Ecosystems	Sediment	11.25 	142.35 	9580 
+Hadal Ecosystems	Sediment	11.25 	142.35 	9580 
+Hadal Ecosystems	Sediment	11.25 	142.35 	9580 
+Hadal Ecosystems	Sediment	11.25 	142.35 	9580 
+Hadal Ecosystems	Sediment	11.25 	142.35 	9580 
+Hadal Ecosystems	Sediment	11.25 	142.35 	9580 
+Hadal Ecosystems	Sediment	11.25 	142.35 	9580 
+Hadal Ecosystems	Sediment	11.25 	142.35 	9580 
+Hadal Ecosystems	Sediment	11.25 	142.35 	9580 
+Hadal Ecosystems	Sediment	11.25 	142.35 	9454 
+Hadal Ecosystems	Sediment	11.25 	142.35 	9454 
+Hadal Ecosystems	Sediment	11.25 	142.35 	9454 
+Hadal Ecosystems	Sediment	11.25 	142.35 	9454 
+Hadal Ecosystems	Sediment	11.25 	142.35 	9454 
+Hadal Ecosystems	Sediment	11.25 	142.35 	9454 
+Hadal Ecosystems	Sediment	11.25 	142.35 	9454 
+Hadal Ecosystems	Sediment	11.25 	142.35 	9454 
+Hadal Ecosystems	Sediment	11.25 	142.35 	9454 
+Hadal Ecosystems	Sediment	11.25 	142.35 	9454 
+Hadal Ecosystems	Sediment	11.25 	142.35 	9454 
+Hadal Ecosystems	Sediment	11.25 	142.35 	9454 
+Hadal Ecosystems	Sediment	11.25 	142.35 	9454 
+Hadal Ecosystems	Sediment	11.25 	142.35 	9454 
+Hadal Ecosystems	Sediment	11.25 	142.35 	9454 
+Hadal Ecosystems	Sediment	11.25 	142.35 	9454 
+Hadal Ecosystems	Sediment	11.25 	142.35 	9454 
+Hadal Ecosystems	Sediment	11.25 	142.35 	9454 
+Hadal Ecosystems	Sediment	11.25 	142.35 	9454 
+Hadal Ecosystems	Sediment	11.25 	142.35 	9454 
+Hadal Ecosystems	Sediment	11.25 	142.35 	9454 
+Hadal Ecosystems	Sediment	11.25 	142.35 	9454 
+Hadal Ecosystems	Sediment	11.25 	142.35 	9454 
+Hadal Ecosystems	Sediment	11.25 	142.35 	9454 
+Hadal Ecosystems	Sediment	11.25 	142.35 	9454 
+Hadal Ecosystems	Sediment	11.25 	142.35 	9454 
+Hadal Ecosystems	Sediment	11.25 	142.35 	9580 
+Hadal Ecosystems	Sediment	11.25 	142.35 	9580 
+Hadal Ecosystems	Sediment	11.25 	142.35 	9580 
+Hadal Ecosystems	Sediment	11.25 	142.34 	9387 
+Hadal Ecosystems	Sediment	11.25 	142.34 	9387 
+Hadal Ecosystems	Sediment	11.25 	142.34 	9387 
+Hadal Ecosystems	Sediment	11.25 	142.34 	9387 
+Hadal Ecosystems	Sediment	11.25 	142.34 	9387 
+Hadal Ecosystems	Sediment	11.25 	142.34 	9387 
+Hadal Ecosystems	Sediment	11.25 	142.34 	9387 
+Hadal Ecosystems	Sediment	11.25 	142.34 	9387 
+Hadal Ecosystems	Sediment	11.25 	142.34 	9387 
+Hadal Ecosystems	Sediment	11.24 	142.33 	9218 
+Hadal Ecosystems	Sediment	11.24 	142.33 	9218 
+Hadal Ecosystems	Sediment	11.24 	142.33 	9218 
+Hadal Ecosystems	Sediment	11.24 	142.33 	9218 
+Hadal Ecosystems	Sediment	11.24 	142.33 	9218 
+Hadal Ecosystems	Sediment	11.24 	142.33 	9218 
+Hadal Ecosystems	Sediment	11.24 	142.33 	9218 
+Hadal Ecosystems	Sediment	11.24 	142.33 	9218 
+Hadal Ecosystems	Sediment	11.24 	142.33 	9218 
+Hadal Ecosystems	Sediment	11.24 	142.33 	9218 
+Hadal Ecosystems	Sediment	11.24 	142.33 	9218 
+Hadal Ecosystems	Sediment	11.24 	142.33 	9218 
+Hadal Ecosystems	Sediment	11.24 	142.33 	9218 
+Hadal Ecosystems	Sediment	11.24 	142.33 	9218 
+Hadal Ecosystems	Sediment	11.24 	142.33 	9218 
+Hadal Ecosystems	Sediment	10.83 	142.30 	5882 
+Hadal Ecosystems	Sediment	10.83 	142.30 	5882 
+Hadal Ecosystems	Sediment	10.83 	142.30 	5882 
+Hadal Ecosystems	Sediment	10.83 	142.30 	5882 
+Hadal Ecosystems	Sediment	10.83 	142.30 	5882 
+Hadal Ecosystems	Sediment	10.83 	142.30 	5882 
+Hadal Ecosystems	Sediment	10.83 	142.30 	5882 
+Hadal Ecosystems	Sediment	10.83 	142.30 	5882 
+Hadal Ecosystems	Sediment	10.83 	142.30 	5882 
+Hadal Ecosystems	Sediment	10.83 	142.30 	5882 
+Hadal Ecosystems	Sediment	10.83 	142.30 	5882 
+Hadal Ecosystems	Sediment	10.83 	142.30 	5882 
+Hadal Ecosystems	Sediment	10.83 	142.30 	5882 
+Hadal Ecosystems	Sediment	10.83 	142.30 	5882 
+Hadal Ecosystems	Sediment	10.83 	142.30 	5882 
+Hadal Ecosystems	Sediment	10.83 	142.30 	5882 
+Hadal Ecosystems	Sediment	10.83 	142.30 	5882 
+Hadal Ecosystems	Sediment	10.83 	142.30 	5882 
+Hadal Ecosystems	Sediment	10.83 	142.30 	5882 
+Hadal Ecosystems	Sediment	10.83 	142.30 	5882 
+Hadal Ecosystems	Sediment	10.83 	142.30 	5882 
+Hadal Ecosystems	Sediment	10.83 	142.30 	5882 
+Hadal Ecosystems	Sediment	10.83 	142.30 	5882 
+Hadal Ecosystems	Sediment	10.83 	142.30 	5882 
+Hadal Ecosystems	Sediment	10.83 	142.30 	5882 
+Hadal Ecosystems	Sediment	10.83 	142.30 	5882 
+Hadal Ecosystems	Sediment	10.83 	142.30 	5882 
+Hadal Ecosystems	Sediment	10.83 	142.30 	5922 
+Hadal Ecosystems	Sediment	10.83 	142.30 	5922 
+Hadal Ecosystems	Sediment	10.83 	142.30 	5922 
+Hadal Ecosystems	Sediment	10.83 	142.30 	5922 
+Hadal Ecosystems	Sediment	10.83 	142.30 	5922 
+Hadal Ecosystems	Sediment	10.83 	142.30 	5922 
+Hadal Ecosystems	Sediment	10.83 	142.30 	5922 
+Hadal Ecosystems	Sediment	10.83 	142.30 	5922 
+Hadal Ecosystems	Sediment	10.83 	142.30 	5922 
+Hadal Ecosystems	Sediment	10.83 	142.30 	5922 
+Hadal Ecosystems	Sediment	10.83 	142.30 	5922 
+Hadal Ecosystems	Sediment	10.83 	142.30 	5922 
+Hadal Ecosystems	Sediment	10.83 	142.30 	5922 
+Hadal Ecosystems	Sediment	10.83 	142.30 	5922 
+Hadal Ecosystems	Sediment	10.83 	142.30 	5922 
+Hadal Ecosystems	Sediment	10.83 	142.30 	5922 
+Hadal Ecosystems	Sediment	10.83 	142.30 	5922 
+Hadal Ecosystems	Sediment	10.83 	142.30 	5922 
+Hadal Ecosystems	Sediment	10.83 	142.30 	5922 
+Hadal Ecosystems	Sediment	10.83 	142.30 	5922 
+Hadal Ecosystems	Sediment	10.83 	142.30 	5922 
+Hadal Ecosystems	Sediment	10.83 	142.30 	5922 
+Hadal Ecosystems	Sediment	10.83 	142.30 	5922 
+Hadal Ecosystems	Sediment	10.83 	142.30 	5922 
+Hadal Ecosystems	Sediment	10.83 	142.30 	5922 
+Hadal Ecosystems	Sediment	10.83 	142.30 	5922 
+Hadal Ecosystems	Sediment	10.83 	142.30 	5922 
+Hadal Ecosystems	Sediment	10.83 	142.30 	5922 
+Hadal Ecosystems	Sediment	10.83 	142.30 	5922 
+Hadal Ecosystems	Sediment	10.83 	142.30 	5922 
+Hadal Ecosystems	Sediment	10.83 	142.30 	5922 
+Hadal Ecosystems	Sediment	10.83 	142.30 	5922 
+Hadal Ecosystems	Sediment	10.83 	142.30 	5922 
+Hadal Ecosystems	Sediment	10.83 	142.30 	5922 
+Hadal Ecosystems	Sediment	10.83 	142.30 	5922 
+Hadal Ecosystems	Sediment	10.83 	142.30 	5922 
+Hadal Ecosystems	Sediment	10.83 	142.30 	5922 
+Hadal Ecosystems	Sediment	10.83 	142.30 	5922 
+Hadal Ecosystems	Sediment	10.83 	142.30 	5922 
+Hadal Ecosystems	Sediment	10.83 	142.30 	5922 
+Hadal Ecosystems	Sediment	10.83 	142.30 	5922 
+Hadal Ecosystems	Sediment	10.83 	142.30 	5922 
+Hadal Ecosystems	Sediment	10.83 	142.30 	5922 
+Hadal Ecosystems	Sediment	10.83 	142.30 	5922 
+Hadal Ecosystems	Sediment	10.83 	142.30 	5922 
+Hadal Ecosystems	Sediment	10.83 	142.30 	5922 
+Hadal Ecosystems	Sediment	10.83 	142.30 	5922 
+Hadal Ecosystems	Sediment	10.83 	142.30 	5922 
+Hadal Ecosystems	Sediment	11.47 	142.45 	9191 
+Hadal Ecosystems	Sediment	11.47 	142.45 	9191 
+Hadal Ecosystems	Sediment	11.47 	142.45 	9191 
+Hadal Ecosystems	Sediment	11.47 	142.45 	9191 
+Hadal Ecosystems	Sediment	11.47 	142.45 	9191 
+Hadal Ecosystems	Sediment	11.47 	142.45 	9191 
+Hadal Ecosystems	Sediment	11.47 	142.45 	9191 
+Hadal Ecosystems	Sediment	11.47 	142.45 	9191 
+Hadal Ecosystems	Sediment	11.47 	142.45 	9191 
+Hadal Ecosystems	Sediment	11.47 	142.45 	9191 
+Hadal Ecosystems	Sediment	11.47 	142.45 	9191 
+Hadal Ecosystems	Sediment	11.47 	142.45 	9191 
+Hadal Ecosystems	Sediment	11.47 	142.45 	9191 
+Hadal Ecosystems	Sediment	11.47 	142.45 	9191 
+Hadal Ecosystems	Sediment	11.47 	142.45 	9191 
+Hadal Ecosystems	Sediment	11.47 	142.45 	9191 
+Hadal Ecosystems	Sediment	11.45 	142.44 	9254 
+Hadal Ecosystems	Sediment	11.45 	142.44 	9254 
+Hadal Ecosystems	Sediment	11.45 	142.44 	9254 
+Hadal Ecosystems	Sediment	11.45 	142.44 	9254 
+Hadal Ecosystems	Sediment	11.45 	142.44 	9254 
+Hadal Ecosystems	Sediment	11.45 	142.44 	9254 
+Hadal Ecosystems	Sediment	11.45 	142.44 	9254 
+Hadal Ecosystems	Sediment	11.45 	142.44 	9254 
+Hadal Ecosystems	Sediment	11.45 	142.44 	9254 
+Hadal Ecosystems	Sediment	11.45 	142.44 	9235 
+Hadal Ecosystems	Sediment	11.45 	142.44 	9235 
+Hadal Ecosystems	Sediment	11.45 	142.44 	9235 
+Hadal Ecosystems	Sediment	11.45 	142.44 	9235 
+Hadal Ecosystems	Sediment	11.45 	142.44 	9235 
+Hadal Ecosystems	Sediment	11.45 	142.44 	9235 
+Hadal Ecosystems	Sediment	11.45 	142.44 	9235 
+Hadal Ecosystems	Sediment	11.45 	142.44 	9235 
+Hadal Ecosystems	Sediment	11.45 	142.44 	9235 
+Hadal Ecosystems	Sediment	11.45 	142.44 	9254 
+Hadal Ecosystems	Sediment	11.45 	142.44 	9254 
+Hadal Ecosystems	Sediment	11.45 	142.44 	9254 
+Hadal Ecosystems	Sediment	11.45 	142.44 	9254 
+Hadal Ecosystems	Sediment	11.45 	142.44 	9254 
+Hadal Ecosystems	Sediment	11.45 	142.44 	9254 
+Hadal Ecosystems	Sediment	11.45 	142.44 	9254 
+Hadal Ecosystems	Sediment	11.45 	142.44 	9254 
+Hadal Ecosystems	Sediment	11.45 	142.44 	9254 
+Hadal Ecosystems	Sediment	11.45 	142.44 	9254 
+Hadal Ecosystems	Sediment	11.45 	142.44 	9254 
+Hadal Ecosystems	Sediment	11.45 	142.44 	9254 
+Hadal Ecosystems	Sediment	11.45 	142.44 	9254 
+Hadal Ecosystems	Sediment	11.45 	142.44 	9254 
+Hadal Ecosystems	Sediment	11.45 	142.44 	9254 
+Hadal Ecosystems	Sediment	11.45 	142.44 	9254 
+Hadal Ecosystems	Sediment	11.46 	142.45 	9061 
+Hadal Ecosystems	Sediment	11.46 	142.45 	9061 
+Hadal Ecosystems	Sediment	11.46 	142.45 	9061 
+Hadal Ecosystems	Sediment	11.46 	142.45 	9061 
+Hadal Ecosystems	Sediment	11.46 	142.45 	9061 
+Hadal Ecosystems	Sediment	11.46 	142.45 	9061 
+Hadal Ecosystems	Sediment	11.46 	142.45 	9061 
+Hadal Ecosystems	Sediment	11.46 	142.45 	9061 
+Hadal Ecosystems	Sediment	11.46 	142.45 	9061 
+Hadal Ecosystems	Sediment	11.45 	142.44 	9254 
+Hadal Ecosystems	Sediment	11.45 	142.44 	9254 
+Hadal Ecosystems	Sediment	11.45 	142.44 	9254 
+Hadal Ecosystems	Sediment	11.45 	142.44 	9254 
+Hadal Ecosystems	Sediment	11.45 	142.44 	9254 
+Hadal Ecosystems	Sediment	11.45 	142.44 	9254 
+Hadal Ecosystems	Sediment	11.45 	142.44 	9254 
+Hadal Ecosystems	Sediment	11.45 	142.44 	9254 
+Hadal Ecosystems	Sediment	11.45 	142.44 	9254 
+Hadal Ecosystems	Sediment	11.45 	142.44 	9254 
+Hadal Ecosystems	Sediment	11.45 	142.44 	9254 
+Hadal Ecosystems	Sediment	11.47 	142.45 	9191 
+Hadal Ecosystems	Sediment	11.47 	142.45 	9191 
+Hadal Ecosystems	Sediment	11.47 	142.45 	9191 
+Hadal Ecosystems	Sediment	11.46 	142.45 	9091 
+Hadal Ecosystems	Sediment	11.47 	142.45 	9191 
+Hadal Ecosystems	Sediment	11.47 	142.45 	9191 
+Hadal Ecosystems	Sediment	11.47 	142.45 	9191 
+Hadal Ecosystems	Sediment	11.47 	142.45 	9191 
+Hadal Ecosystems	Sediment	11.46 	142.45 	9061 
+Hadal Ecosystems	Sediment	11.46 	142.45 	9061 
+Hadal Ecosystems	Sediment	11.46 	142.45 	9061 
+Hadal Ecosystems	Sediment	11.46 	142.45 	9061 
+Hadal Ecosystems	Sediment	11.46 	142.45 	9061 
+Hadal Ecosystems	Sediment	11.46 	142.45 	9061 
+Hadal Ecosystems	Sediment	11.46 	142.45 	9061 
+Hadal Ecosystems	Sediment	11.46 	142.45 	9061 
+Hadal Ecosystems	Sediment	11.46 	142.45 	9061 
+Hadal Ecosystems	Sediment	11.45 	142.44 	9235 
+Hadal Ecosystems	Sediment	11.45 	142.44 	9235 
+Hadal Ecosystems	Sediment	11.45 	142.44 	9235 
+Hadal Ecosystems	Sediment	11.45 	142.44 	9235 
+Hadal Ecosystems	Sediment	11.45 	142.44 	9235 
+Hadal Ecosystems	Sediment	11.45 	142.44 	9235 
+Hadal Ecosystems	Sediment	11.45 	142.44 	9235 
+Hadal Ecosystems	Sediment	11.45 	142.44 	9235 
+Hadal Ecosystems	Sediment	11.45 	142.44 	9235 
+Hadal Ecosystems	Sediment	11.45 	142.44 	9235 
+Hadal Ecosystems	Sediment	11.45 	142.44 	9235 
+Hadal Ecosystems	Sediment	11.45 	142.44 	9235 
+Hadal Ecosystems	Sediment	11.45 	142.44 	9235 
+Hadal Ecosystems	Sediment	11.45 	142.44 	9235 
+Hadal Ecosystems	Sediment	11.45 	142.44 	9235 
+Hadal Ecosystems	Sediment	11.45 	142.44 	9235 
+Hadal Ecosystems	Sediment	11.45 	142.44 	9235 
+Hadal Ecosystems	Sediment	11.45 	142.44 	9235 
+Hadal Ecosystems	Sediment	11.45 	142.44 	9235 
+Hadal Ecosystems	Sediment	11.45 	142.44 	9235 
+Hadal Ecosystems	Sediment	11.45 	142.44 	9235 
+Hadal Ecosystems	Sediment	11.45 	142.44 	9235 
+Hadal Ecosystems	Sediment	11.45 	142.44 	9235 
+Hadal Ecosystems	Sediment	11.45 	142.44 	9235 
+Hadal Ecosystems	Sediment	11.45 	142.44 	9235 
+Hadal Ecosystems	Sediment	11.45 	142.44 	9235 
+Hadal Ecosystems	Sediment	11.45 	142.44 	9235 
+Hadal Ecosystems	Sediment	11.37 	142.60 	10896 
+Hadal Ecosystems	Sediment	11.37 	142.60 	10896 
+Hadal Ecosystems	Sediment	11.37 	142.60 	10896 
+Hadal Ecosystems	Sediment	11.37 	142.60 	10896 
+Hadal Ecosystems	Sediment	11.37 	142.60 	10896 
+Hadal Ecosystems	Sediment	11.37 	142.60 	10896 
+Hadal Ecosystems	Sediment	11.37 	142.60 	10896 
+Hadal Ecosystems	Sediment	11.37 	142.60 	10896 
+Hadal Ecosystems	Sediment	11.37 	142.60 	10896 
+Hadal Ecosystems	Sediment	11.37 	142.60 	10896 
+Hadal Ecosystems	Sediment	11.37 	142.60 	10896 
+Hadal Ecosystems	Sediment	11.37 	142.60 	10900 
+Hadal Ecosystems	Sediment	11.37 	142.60 	10900 
+Hadal Ecosystems	Sediment	11.37 	142.60 	10900 
+Hadal Ecosystems	Sediment	11.37 	142.60 	10900 
+Hadal Ecosystems	Sediment	11.37 	142.60 	10900 
+Hadal Ecosystems	Sediment	11.37 	142.60 	10900 
+Hadal Ecosystems	Sediment	11.37 	142.60 	10900 
+Hadal Ecosystems	Sediment	11.37 	142.60 	10900 
+Hadal Ecosystems	Sediment	11.37 	142.60 	10900 
+Hadal Ecosystems	Sediment	12.58 	130.98 	6384 
+Hadal Ecosystems	Sediment	12.58 	130.98 	6384 
+Hadal Ecosystems	Sediment	12.58 	130.98 	6384 
+Hadal Ecosystems	Sediment	12.58 	130.98 	6384 
+Hadal Ecosystems	Sediment	12.58 	130.98 	6384 
+Hadal Ecosystems	Sediment	12.58 	130.98 	6384 
+Hadal Ecosystems	Sediment	12.58 	130.98 	6384 
+Hadal Ecosystems	Sediment	12.58 	130.98 	6384 
+Hadal Ecosystems	Sediment	12.58 	130.98 	6384 
+Hadal Ecosystems	Sediment	12.58 	130.98 	6384 
+Hadal Ecosystems	Sediment	12.58 	130.98 	6384 
+Hadal Ecosystems	Sediment	12.58 	130.98 	6384 
+Hadal Ecosystems	Sediment	12.58 	130.98 	6391 
+Hadal Ecosystems	Sediment	12.58 	130.98 	6391 
+Hadal Ecosystems	Sediment	12.58 	130.98 	6391 
+Hadal Ecosystems	Sediment	12.58 	130.98 	6391 
+Hadal Ecosystems	Sediment	12.58 	130.98 	6391 
+Hadal Ecosystems	Sediment	12.58 	130.98 	6391 
+Hadal Ecosystems	Sediment	12.58 	130.98 	6391 
+Hadal Ecosystems	Sediment	12.58 	130.98 	6391 
+Hadal Ecosystems	Sediment	12.61 	130.98 	5482 
+Hadal Ecosystems	Sediment	12.61 	130.98 	5482 
+Hadal Ecosystems	Sediment	12.61 	130.98 	5482 
+Hadal Ecosystems	Sediment	12.61 	130.98 	5482 
+Hadal Ecosystems	Sediment	12.61 	130.98 	5482 
+Hadal Ecosystems	Sediment	12.61 	130.98 	5482 
+Hadal Ecosystems	Sediment	12.61 	130.98 	5482 
+Hadal Ecosystems	Sediment	12.61 	130.98 	5482 
+Hadal Ecosystems	Sediment	12.61 	130.98 	5482 
+Hadal Ecosystems	Sediment	12.58 	130.98 	6391 
+Hadal Ecosystems	Sediment	12.58 	130.98 	6391 
+Hadal Ecosystems	Sediment	12.58 	130.98 	6391 
+Hadal Ecosystems	Sediment	12.58 	130.98 	6391 
+Hadal Ecosystems	Sediment	12.58 	130.98 	6391 
+Hadal Ecosystems	Sediment	12.58 	130.98 	6391 
+Hadal Ecosystems	Sediment	12.58 	130.98 	6391 
+Hadal Ecosystems	Sediment	12.36 	130.60 	6390 
+Hadal Ecosystems	Sediment	12.36 	130.60 	6390 
+Hadal Ecosystems	Sediment	12.36 	130.60 	6390 
+Hadal Ecosystems	Sediment	12.36 	130.60 	6390 
+Hadal Ecosystems	Sediment	12.36 	130.60 	6390 
+Hadal Ecosystems	Sediment	12.36 	130.60 	6390 
+Hadal Ecosystems	Sediment	12.36 	130.60 	6390 
+Hadal Ecosystems	Sediment	12.36 	130.60 	6390 
+Hadal Ecosystems	Sediment	12.36 	130.60 	6390 
+Hadal Ecosystems	Sediment	12.58 	130.98 	6384 
+Hadal Ecosystems	Sediment	12.58 	130.98 	6384 
+Hadal Ecosystems	Sediment	12.58 	130.98 	6384 
+Hadal Ecosystems	Sediment	12.58 	130.98 	6384 
+Hadal Ecosystems	Sediment	12.58 	130.98 	6384 
+Hadal Ecosystems	Sediment	12.58 	130.98 	6384 
+Hadal Ecosystems	Sediment	12.58 	130.98 	6384 
+Hadal Ecosystems	Sediment	12.58 	130.98 	6384 
+Hadal Ecosystems	Sediment	12.58 	130.98 	6384 
+Hadal Ecosystems	Sediment	12.58 	130.98 	6384 
+Hadal Ecosystems	Sediment	12.61 	130.98 	5482 
+Hadal Ecosystems	Sediment	12.61 	130.98 	5482 
+Hadal Ecosystems	Sediment	12.61 	130.98 	5482 
+Hadal Ecosystems	Sediment	12.61 	130.98 	5482 
+Hadal Ecosystems	Sediment	12.61 	130.98 	5482 
+Hadal Ecosystems	Sediment	12.61 	130.98 	5482 
+Hadal Ecosystems	Sediment	12.61 	130.98 	5482 
+Hadal Ecosystems	Sediment	12.61 	130.98 	5482 
+Hadal Ecosystems	Sediment	12.61 	130.98 	5482 
+Hadal Ecosystems	Sediment	12.61 	130.98 	5482 
+Hadal Ecosystems	Sediment	12.58 	130.98 	6384 
+Hadal Ecosystems	Sediment	12.58 	130.98 	6384 
+Hadal Ecosystems	Sediment	12.58 	130.98 	6384 
+Hadal Ecosystems	Sediment	12.58 	130.98 	6384 
+Hadal Ecosystems	Sediment	12.58 	130.98 	6384 
+Hadal Ecosystems	Sediment	12.58 	130.98 	6384 
+Hadal Ecosystems	Sediment	12.58 	130.98 	6384 
+Hadal Ecosystems	Sediment	12.58 	130.98 	6384 
+Hadal Ecosystems	Sediment	12.58 	130.98 	6384 
+Hadal Ecosystems	Sediment	12.58 	130.98 	6384 
+Hadal Ecosystems	Sediment	12.58 	130.98 	6384 
+Hadal Ecosystems	Sediment	12.61 	130.98 	5482 
+Hadal Ecosystems	Sediment	12.61 	130.98 	5482 
+Hadal Ecosystems	Sediment	12.61 	130.98 	5482 
+Hadal Ecosystems	Sediment	12.61 	130.98 	5482 
+Hadal Ecosystems	Sediment	12.61 	130.98 	5482 
+Hadal Ecosystems	Sediment	12.61 	130.98 	5482 
+Hadal Ecosystems	Sediment	12.61 	130.98 	5482 
+Hadal Ecosystems	Sediment	12.61 	130.98 	5482 
+Hadal Ecosystems	Sediment	12.61 	130.98 	5482 
+Hadal Ecosystems	Sediment	12.61 	130.98 	5482 
+Hadal Ecosystems	Sediment	12.61 	130.98 	5482 
+Methane Seeps	Sediment	16.73 	110.46 	1383 
+Methane Seeps	Sediment	16.73 	110.46 	1383 
+Methane Seeps	Sediment	16.73 	110.46 	1383 
+Methane Seeps	Sediment	16.73 	110.46 	1383 
+Methane Seeps	Sediment	16.73 	110.46 	1383 
+Methane Seeps	Sediment	16.73 	110.46 	1383 
+Methane Seeps	Sediment	16.72 	110.47 	1390 
+Methane Seeps	Sediment	16.72 	110.47 	1390 
+Methane Seeps	Sediment	16.72 	110.47 	1390 
+Methane Seeps	Sediment	16.72 	110.47 	1390 
+Methane Seeps	Sediment	16.72 	110.47 	1390 
+Methane Seeps	Sediment	16.72 	110.47 	1390 
+Methane Seeps	Sediment	16.73 	110.47 	1390 
+Methane Seeps	Sediment	16.73 	110.47 	1390 
+Methane Seeps	Sediment	16.73 	110.47 	1390 
+Methane Seeps	Sediment	16.73 	110.47 	1390 
+Methane Seeps	Sediment	16.73 	110.47 	1390 
+Methane Seeps	Sediment	16.73 	110.47 	1390 
+Methane Seeps	Sediment	16.73 	110.47 	1390 
+Methane Seeps	Sediment	16.73 	110.47 	1391 
+Methane Seeps	Sediment	16.73 	110.47 	1391 
+Methane Seeps	Sediment	16.73 	110.47 	1391 
+Methane Seeps	Sediment	16.73 	110.47 	1391 
+Methane Seeps	Sediment	16.73 	110.47 	1391 
+Methane Seeps	Sediment	16.71 	110.43 	1388 
+Methane Seeps	Sediment	16.71 	110.43 	1388 
+Methane Seeps	Sediment	16.71 	110.43 	1388 
+Methane Seeps	Sediment	16.71 	110.43 	1388 
+Methane Seeps	Sediment	16.71 	110.43 	1388 
+Methane Seeps	Sediment	16.71 	110.43 	1388 
+Methane Seeps	Sediment	16.71 	110.43 	1388 
+Methane Seeps	Sediment	16.71 	110.43 	1388 
+Methane Seeps	Sediment	16.71 	110.43 	1388 
+Methane Seeps	Sediment	16.71 	110.43 	1388 
+Methane Seeps	Sediment	16.71 	110.43 	1388 
+Methane Seeps	Sediment	16.71 	110.43 	1388 
+Methane Seeps	Sediment	16.71 	110.43 	1388 
+Methane Seeps	Seawater	20.10 	119.28 	1100 
+Methane Seeps	Seawater	20.10 	119.28 	1100 
+Methane Seeps	Seawater	20.10 	119.28 	1100 
+Methane Seeps	Sediment	20.10 	119.28 	1100 
+Methane Seeps	Sediment	20.10 	119.28 	1100 
+Methane Seeps	Sediment	20.10 	119.28 	1100 
+Methane Seeps	Sediment	20.10 	119.28 	1100 
+Methane Seeps	Sediment	20.10 	119.28 	1100 
+Methane Seeps	Sediment	20.10 	119.28 	1100 
+Methane Seeps	Sediment	20.10 	119.28 	1100 
+Methane Seeps	Sediment	20.10 	119.28 	1100 
+Methane Seeps	Sediment	20.10 	119.28 	1100 
+Methane Seeps	Sediment	20.10 	119.28 	1100 
+Methane Seeps	Sediment	20.10 	119.28 	1100 
+Methane Seeps	Sediment	20.10 	119.28 	1100 
+Methane Seeps	Sediment	20.10 	119.28 	1100 
+Methane Seeps	Sediment	20.10 	119.28 	1100 
+Methane Seeps	Sediment	20.10 	119.28 	1100 
+Methane Seeps	Sediment	20.10 	119.28 	1100 
+Methane Seeps	Sediment	20.10 	119.28 	1100 
+Methane Seeps	Sediment	20.10 	119.28 	1100 
+Methane Seeps	Sediment	20.10 	119.28 	1100 
+Methane Seeps	Sediment	20.10 	119.28 	1100 
+Other Deep-sea Ecosystems	Seawater	-29.65 	92.99 	2402 
+Other Deep-sea Ecosystems	Seawater	-28.62 	-11.80 	3850 
+Other Deep-sea Ecosystems	Seawater	10.09 	-99.25 	3008 
+Other Deep-sea Ecosystems	Seawater	-29.65 	92.99 	2402 
+Other Deep-sea Ecosystems	Seawater	20.00 	-52.63 	4003 
+Other Deep-sea Ecosystems	Seawater	-30.33 	103.31 	4001 
+Other Deep-sea Ecosystems	Seawater	-31.81 	6.84 	4001 
+Other Deep-sea Ecosystems	Seawater	-3.03 	-27.33 	4002 
+Other Deep-sea Ecosystems	Seawater	-33.55 	39.89 	4002 
+Other Deep-sea Ecosystems	Seawater	-15.83 	-33.41 	4003 
+Other Deep-sea Ecosystems	Seawater	-28.41 	179.14 	3501 
+Other Deep-sea Ecosystems	Seawater	18.04 	-133.26 	4004 
+Other Deep-sea Ecosystems	Seawater	14.52 	-26.00 	4005 
+Other Deep-sea Ecosystems	Seawater	-5.74 	-170.77 	4018 
+Other Deep-sea Ecosystems	Seawater	-32.81 	12.77 	3902 
+Other Deep-sea Ecosystems	Seawater	-29.81 	82.62 	4000 
+Other Deep-sea Ecosystems	Seawater	-26.91 	-21.43 	3199 
+Other Deep-sea Ecosystems	Seawater	-25.49 	-179.52 	2148 
+Other Deep-sea Ecosystems	Seawater	21.51 	-23.45 	4005 
+Other Deep-sea Ecosystems	Seawater	32.08 	-17.26 	4003 
+Other Deep-sea Ecosystems	Seawater	-32.81 	12.77 	3902 
+Other Deep-sea Ecosystems	Seawater	-5.74 	-170.77 	4018 
+Other Deep-sea Ecosystems	Seawater	-33.55 	39.89 	4002 
+Other Deep-sea Ecosystems	Seawater	-15.83 	-33.41 	4003 
+Other Deep-sea Ecosystems	Seawater	40.83 	2.45 	1500 
+Other Deep-sea Ecosystems	Seawater	12.00 	-108.06 	3103 
+Other Deep-sea Ecosystems	Seawater	20.00 	-52.63 	4003 
+Other Deep-sea Ecosystems	Seawater	-9.12 	-30.19 	4001 
+Other Deep-sea Ecosystems	Seawater	-29.81 	82.62 	4000 
+Other Deep-sea Ecosystems	Seawater	-27.98 	63.25 	3505 
+Other Deep-sea Ecosystems	Seawater	-31.81 	6.84 	4001 
+Other Deep-sea Ecosystems	Seawater	-26.91 	-21.43 	3199 
+Other Deep-sea Ecosystems	Seawater	29.97 	-23.69 	4003 
+Other Deep-sea Ecosystems	Seawater	-22.97 	-36.95 	3907 
+Other Deep-sea Ecosystems	Seawater	15.91 	-124.49 	4002 
+Other Deep-sea Ecosystems	Seawater	12.00 	-108.06 	3103 
+Other Deep-sea Ecosystems	Seawater	-39.23 	135.19 	3996 
+Other Deep-sea Ecosystems	Seawater	21.06 	-150.35 	4013 
+Other Deep-sea Ecosystems	Seawater	9.22 	-163.53 	3818 
+Other Deep-sea Ecosystems	Seawater	21.51 	-23.45 	4005 
+Other Deep-sea Ecosystems	Seawater	-27.98 	63.25 	3505 
+Other Deep-sea Ecosystems	Seawater	29.97 	-23.69 	4003 
+Other Deep-sea Ecosystems	Seawater	40.83 	2.45 	1500 
+Other Deep-sea Ecosystems	Seawater	10.09 	-99.25 	3008 
+Other Deep-sea Ecosystems	Seawater	14.52 	-26.00 	4005 
+Other Deep-sea Ecosystems	Seawater	9.22 	-163.53 	3818 
+Other Deep-sea Ecosystems	Seawater	-30.33 	103.31 	4001 
+Other Deep-sea Ecosystems	Seawater	7.33 	-26.00 	4003 
+Other Deep-sea Ecosystems	Seawater	-31.16 	110.18 	4004 
+Other Deep-sea Ecosystems	Seawater	-25.49 	-179.52 	2148 
+Other Deep-sea Ecosystems	Seawater	32.08 	-17.26 	4003 
+Other Deep-sea Ecosystems	Seawater	-28.62 	-11.80 	3850 
+Other Deep-sea Ecosystems	Seawater	14.53 	-118.77 	4005 
+Other Deep-sea Ecosystems	Seawater	-3.03 	-27.33 	4002 
+Other Deep-sea Ecosystems	Seawater	-22.97 	-36.95 	3907 
+Other Deep-sea Ecosystems	Seawater	17.43 	-59.83 	4003 
+Other Deep-sea Ecosystems	Seawater	-9.12 	-30.19 	4001 
+Other Deep-sea Ecosystems	Seawater	-28.41 	179.14 	3501 
+Other Deep-sea Ecosystems	Seawater	7.33 	-26.00 	4003 
+Other Deep-sea Ecosystems	Seawater	-38.64 	150.41 	4001 
+Hydrothermal Vents	Seawater	-20.05 	-176.13 	2605 
+Hydrothermal Vents	Seawater	-22.18 	-176.60 	1890 
+Hydrothermal Vents	Seawater	-20.05 	-176.13 	2440 
+Hydrothermal Vents	Seawater	-20.76 	-176.19 	1960 
+Hydrothermal Vents	Seawater	-21.99 	-176.57 	1919 
+Other Deep-sea Ecosystems	Seawater	-22.76 	-176.19 	2155 
+Hydrothermal Vents	Seawater	-20.68 	-176.18 	2229 
+Hydrothermal Vents	Seawater	-20.05 	-176.13 	2639 
+Hydrothermal Vents	Seawater	-20.76 	-176.19 	2159 
+Hydrothermal Vents	Seawater	-20.05 	-176.13 	2315 
+Other Deep-sea Ecosystems	Seawater	-20.18 	-176.60 	1785 
+Other Deep-sea Ecosystems	Sediment	73.76 	8.46 	3250 
+Other Deep-sea Ecosystems	Sediment	73.76 	8.46 	3236 
+Other Deep-sea Ecosystems	Sediment	73.76 	8.46 	3236 
+Other Deep-sea Ecosystems	Sediment	73.76 	8.46 	3236 
+Methane Seeps	Other-Rock	36.87 	-74.47 	1474 
+Methane Seeps	Other-Rock	54.27 	-136.30 	2803 
+Other Deep-sea Ecosystems	Seawater	20.79 	-40.96 	2745 
+Other Deep-sea Ecosystems	Seawater	10.91 	-44.67 	5002 
+Other Deep-sea Ecosystems	Seawater	-37.83 	-41.12 	1748 
+Other Deep-sea Ecosystems	Seawater	22.33 	-35.87 	1055 
+Other Deep-sea Ecosystems	Seawater	-32.51 	-158.03 	1008 
+Other Deep-sea Ecosystems	Seawater	-32.51 	-158.03 	5601 
+Other Deep-sea Ecosystems	Seawater	-32.50 	-176.00 	1000 
+Other Deep-sea Ecosystems	Seawater	-32.50 	-170.00 	1000 
+Other Deep-sea Ecosystems	Seawater	-32.52 	-164.98 	1023 
+Other Deep-sea Ecosystems	Seawater	-32.52 	-164.98 	5100 
+Other Deep-sea Ecosystems	Seawater	-32.49 	-154.00 	1008 
+Other Deep-sea Ecosystems	Seawater	-32.49 	-154.00 	5095 
+Other Deep-sea Ecosystems	Seawater	-32.50 	-179.30 	1000 
+Other Deep-sea Ecosystems	Seawater	-32.49 	-169.99 	1012 
+Other Deep-sea Ecosystems	Seawater	-32.49 	-169.99 	4580 
+Other Deep-sea Ecosystems	Seawater	22.75 	-158.00 	4000 
+Other Deep-sea Ecosystems	Seawater	22.75 	-158.00 	4000 
+Other Deep-sea Ecosystems	Seawater	22.75 	-158.00 	4000 
+Other Deep-sea Ecosystems	Seawater	22.75 	-158.00 	4000 
+Other Deep-sea Ecosystems	Seawater	22.75 	-158.00 	4000 
+Other Deep-sea Ecosystems	Seawater	22.75 	-158.00 	4000 
+Other Deep-sea Ecosystems	Seawater	22.75 	-158.00 	4000 
+Other Deep-sea Ecosystems	Seawater	22.75 	-158.00 	4000 
+Other Deep-sea Ecosystems	Seawater	22.75 	-158.00 	4000 
+Other Deep-sea Ecosystems	Seawater	22.75 	-158.00 	4000 
+Other Deep-sea Ecosystems	Seawater	22.75 	-158.00 	4000 
+Other Deep-sea Ecosystems	Seawater	22.75 	-158.00 	4000 
+Other Deep-sea Ecosystems	Seawater	22.75 	-158.00 	4000 
+Other Deep-sea Ecosystems	Seawater	22.75 	-158.00 	4000 
+Other Deep-sea Ecosystems	Seawater	22.75 	-158.00 	4000 
+Other Deep-sea Ecosystems	Seawater	22.75 	-158.00 	4000 
+Other Deep-sea Ecosystems	Seawater	22.75 	-158.00 	4000 
+Other Deep-sea Ecosystems	Seawater	22.75 	-158.00 	4000 
+Other Deep-sea Ecosystems	Seawater	22.75 	-158.00 	4000 
+Other Deep-sea Ecosystems	Seawater	22.75 	-158.00 	4000 
+Other Deep-sea Ecosystems	Seawater	22.75 	-158.00 	4000 
+Other Deep-sea Ecosystems	Seawater	22.75 	-158.00 	4000 
+Other Deep-sea Ecosystems	Seawater	22.75 	-158.00 	4000 
+Other Deep-sea Ecosystems	Seawater	22.75 	-158.00 	4000 
+Other Deep-sea Ecosystems	Seawater	22.75 	-158.00 	4000 
+Other Deep-sea Ecosystems	Seawater	22.75 	-158.00 	4000 
+Other Deep-sea Ecosystems	Seawater	22.75 	-158.00 	4000 
+Other Deep-sea Ecosystems	Seawater	22.75 	-158.00 	4000 
+Other Deep-sea Ecosystems	Seawater	22.75 	-158.00 	4000 
+Other Deep-sea Ecosystems	Seawater	22.75 	-158.00 	4000 
+Other Deep-sea Ecosystems	Seawater	22.75 	-158.00 	4000 
+Other Deep-sea Ecosystems	Seawater	22.75 	-158.00 	4000 
+Other Deep-sea Ecosystems	Seawater	22.75 	-158.00 	4000 
+Other Deep-sea Ecosystems	Seawater	22.75 	-158.00 	4000 
+Other Deep-sea Ecosystems	Seawater	22.75 	-158.00 	4000 
+Other Deep-sea Ecosystems	Seawater	22.75 	-158.00 	4000 
+Other Deep-sea Ecosystems	Seawater	22.75 	-158.00 	4000 
+Other Deep-sea Ecosystems	Seawater	22.75 	-158.00 	4000 
+Other Deep-sea Ecosystems	Seawater	22.75 	-158.00 	4000 
+Other Deep-sea Ecosystems	Seawater	22.75 	-158.00 	4000 
+Other Deep-sea Ecosystems	Seawater	22.75 	-158.00 	4000 
+Other Deep-sea Ecosystems	Seawater	22.75 	-158.00 	4000 
+Other Deep-sea Ecosystems	Seawater	22.75 	-158.00 	4000 
+Other Deep-sea Ecosystems	Seawater	22.75 	-158.00 	4000 
+Other Deep-sea Ecosystems	Seawater	22.75 	-158.00 	4000 
+Other Deep-sea Ecosystems	Seawater	22.75 	-158.00 	4000 
+Other Deep-sea Ecosystems	Seawater	22.75 	-158.00 	4000 
+Other Deep-sea Ecosystems	Seawater	22.75 	-158.00 	4000 
+Other Deep-sea Ecosystems	Seawater	22.75 	-158.00 	4000 
+Other Deep-sea Ecosystems	Seawater	22.75 	-158.00 	4000 
+Other Deep-sea Ecosystems	Seawater	22.75 	-158.00 	4000 
+Other Deep-sea Ecosystems	Seawater	22.75 	-158.00 	4000 
+Other Deep-sea Ecosystems	Seawater	22.75 	-158.00 	4000 
+Other Deep-sea Ecosystems	Seawater	22.75 	-158.00 	4000 
+Other Deep-sea Ecosystems	Seawater	22.75 	-158.00 	4000 
+Other Deep-sea Ecosystems	Seawater	22.75 	-158.00 	4000 
+Other Deep-sea Ecosystems	Seawater	22.75 	-158.00 	4000 
+Other Deep-sea Ecosystems	Seawater	22.75 	-158.00 	4000 
+Other Deep-sea Ecosystems	Seawater	22.75 	-158.00 	4000 
+Other Deep-sea Ecosystems	Seawater	22.75 	-158.00 	4000 
+Other Deep-sea Ecosystems	Seawater	22.75 	-158.00 	4000 
+Other Deep-sea Ecosystems	Seawater	22.75 	-158.00 	4000 
+Other Deep-sea Ecosystems	Seawater	22.75 	-158.00 	4000 
+Other Deep-sea Ecosystems	Seawater	83.71 	-174.21 	1242 
+Other Deep-sea Ecosystems	Seawater	83.71 	-174.21 	1242 
+Other Deep-sea Ecosystems	Seawater	83.71 	-174.21 	1803 
+Other Deep-sea Ecosystems	Seawater	83.71 	-174.21 	1803 
+Other Deep-sea Ecosystems	Seawater	83.71 	-174.21 	2235 
+Other Deep-sea Ecosystems	Seawater	83.71 	-174.21 	2235 
+Other Deep-sea Ecosystems	Seawater	83.71 	-174.21 	2523 
+Other Deep-sea Ecosystems	Seawater	83.71 	-174.21 	2523 
+Other Deep-sea Ecosystems	Seawater	83.71 	-174.21 	2752 
+Other Deep-sea Ecosystems	Seawater	83.71 	-174.21 	2752 
+Other Deep-sea Ecosystems	Seawater	83.71 	-174.21 	2831 
+Other Deep-sea Ecosystems	Seawater	83.71 	-174.21 	2831 
+Other Deep-sea Ecosystems	Seawater	83.71 	-174.21 	2901 
+Other Deep-sea Ecosystems	Seawater	83.71 	-174.21 	2901 
+Other Deep-sea Ecosystems	Seawater	87.59 	-178.93 	1002 
+Other Deep-sea Ecosystems	Seawater	87.59 	-178.93 	1002 
+Other Deep-sea Ecosystems	Seawater	87.59 	-178.93 	1403 
+Other Deep-sea Ecosystems	Seawater	87.59 	-178.93 	1403 
+Other Deep-sea Ecosystems	Seawater	87.59 	-178.93 	1905 
+Other Deep-sea Ecosystems	Seawater	87.59 	-178.93 	1905 
+Other Deep-sea Ecosystems	Seawater	87.59 	-178.93 	2389 
+Other Deep-sea Ecosystems	Seawater	87.59 	-178.93 	2389 
+Other Deep-sea Ecosystems	Seawater	87.59 	-178.93 	3902 
+Other Deep-sea Ecosystems	Seawater	87.59 	-178.93 	3902 
+Other Deep-sea Ecosystems	Sediment	22.80 	-96.80 	1749 
+Other Deep-sea Ecosystems	Sediment	22.90 	-93.00 	3741 
+Other Deep-sea Ecosystems	Sediment	19.90 	-93.00 	1739 
+Other Deep-sea Ecosystems	Sediment	22.35 	-92.05 	3551 
+Other Deep-sea Ecosystems	Sediment	21.90 	-94.00 	3559 
+Other Deep-sea Ecosystems	Seawater	22.75 	-158.00 	1000 
+Other Deep-sea Ecosystems	Seawater	-27.92 	155.14 	1000 
+Other Deep-sea Ecosystems	Seawater	-27.92 	155.14 	2000 
+Other Deep-sea Ecosystems	Seawater	-27.92 	155.14 	3000 
+Other Deep-sea Ecosystems	Seawater	-27.92 	155.14 	4000 
+Other Deep-sea Ecosystems	Seawater	-36.88 	152.55 	1000 
+Other Deep-sea Ecosystems	Seawater	-36.88 	152.56 	2000 
+Other Deep-sea Ecosystems	Seawater	-36.88 	152.56 	3000 
+Other Deep-sea Ecosystems	Seawater	-36.88 	152.57 	4000 
+Methane Seeps	Seawater	-38.17 	-148.42 	1960 
+Other Deep-sea Ecosystems	Seawater	4.01 	-37.98 	3500 
+Other Deep-sea Ecosystems	Seawater	-7.81 	-30.58 	2000 
+Other Deep-sea Ecosystems	Seawater	-7.81 	-30.58 	4000 
+Other Deep-sea Ecosystems	Seawater	-13.55 	-32.53 	2000 
+Other Deep-sea Ecosystems	Seawater	-13.55 	-32.53 	4000 
+Other Deep-sea Ecosystems	Seawater	-18.97 	-34.80 	2500 
+Other Deep-sea Ecosystems	Seawater	-18.97 	-34.80 	4000 
+Other Deep-sea Ecosystems	Sediment	22.76 	-46.08 	4483 
+Hydrothermal Vents	Sediment	27.04 	-111.25 	4484 
+Hydrothermal Vents	Sediment	27.04 	-111.25 	4484 
+Hydrothermal Vents	Sediment	27.04 	-111.25 	4572 
+Hydrothermal Vents	Sediment	27.04 	-111.25 	4572 
+Hydrothermal Vents	Sediment	27.02 	-111.38 	4569 
+Hydrothermal Vents	Sediment	27.02 	-111.38 	4569 
+Hydrothermal Vents	Sediment	27.02 	-111.38 	4569 
+Hydrothermal Vents	Sediment	27.02 	-111.38 	4569 
+Hydrothermal Vents	Sediment	27.02 	-111.38 	4571 
+Other Deep-sea Ecosystems	Sediment	27.01 	-111.41 	4567 
+Other Deep-sea Ecosystems	Sediment	27.01 	-111.41 	4567 
+Hydrothermal Vents	Sediment	27.02 	-111.38 	2000 
+Hydrothermal Vents	Sediment	27.02 	-111.38 	4569 
+Hydrothermal Vents	Sediment	27.02 	-111.38 	2000 
+Hydrothermal Vents	Sediment	27.02 	-111.38 	2000 
+Methane Seeps	Sediment	43.01 	-60.21 	2582 
+Methane Seeps	Sediment	43.01 	-60.21 	2582 
+Methane Seeps	Sediment	43.01 	-60.21 	2582 
+Methane Seeps	Sediment	43.01 	-60.21 	2582 
+Methane Seeps	Sediment	43.01 	-60.21 	2582 
+Methane Seeps	Sediment	43.01 	-60.21 	2582 
+Methane Seeps	Sediment	43.01 	-60.21 	2582 
+Other Deep-sea Ecosystems	Seawater	-37.97 	-44.99 	5110 
+Other Deep-sea Ecosystems	Seawater	-37.97 	-44.99 	2502 
+Other Deep-sea Ecosystems	Sediment	1.76 	96.77 	1855 
+Hadal Ecosystems	Sediment	-34.35 	-178.18 	8081 
+Hadal Ecosystems	Sediment	-32.85 	-177.66 	9177 
+Other Deep-sea Ecosystems	Sediment	44.29 	34.98 	2075 
+Hadal Ecosystems	Sediment	12.48 	144.86 	7939 
+Other Deep-sea Ecosystems	Sediment	-44.28 	-75.87 	3285 
+Hadal Ecosystems	Sediment	12.63 	144.72 	6844 
+Hydrothermal Vents	Seawater	45.93 	-130.00 	1200 
+Hydrothermal Vents	Seawater	45.92 	-130.00 	1521 
+Hydrothermal Vents	Seawater	45.93 	-130.01 	1539 
+Hydrothermal Vents	Seawater	45.93 	-129.98 	1514 
+Hydrothermal Vents	Seawater	45.93 	-129.98 	1518 
+Hydrothermal Vents	Seawater	45.93 	-130.01 	1541 
+Hydrothermal Vents	Seawater	45.93 	-129.98 	1518 
+Hydrothermal Vents	Seawater	46.07 	-130.00 	1716 
+Hydrothermal Vents	Seawater	45.93 	-130.01 	1500 
+Other Deep-sea Ecosystems	Seawater	46.27 	-129.80 	1500 
+Hydrothermal Vents	Seawater	45.92 	-129.99 	1522 
+Hydrothermal Vents	Seawater	45.93 	-129.98 	1516 
+Hydrothermal Vents	Seawater	45.93 	-130.01 	1543 
+Hydrothermal Vents	Seawater	45.93 	-129.98 	1507 
+Hydrothermal Vents	Seawater	45.94 	-129.99 	1530 
+Hydrothermal Vents	Seawater	45.88 	-129.80 	1917 
+Hydrothermal Vents	Other-Biofilm	18.90 	-155.26 	1176 
+Hydrothermal Vents	Other-Biofilm	18.90 	-155.26 	1176 
+Hydrothermal Vents	Other-Biofilm	18.90 	-155.26 	1176 
+Hydrothermal Vents	Other-Biofilm	18.90 	-155.26 	1176 
+Hydrothermal Vents	Other-Biofilm	18.90 	-155.26 	1176 
+Hydrothermal Vents	Other-Biofilm	18.90 	-155.26 	1176 
+Hydrothermal Vents	Other-Biofilm	45.93 	-130.01 	1200 
+Hydrothermal Vents	Other-Biofilm	9.85 	-104.30 	2514 
+Hydrothermal Vents	Other-Biofilm	9.84 	-104.30 	2511 
+Hydrothermal Vents	Other-Biofilm	9.84 	-104.30 	2503 
+Hydrothermal Vents	Other-Rock	-22.18 	-176.60 	1918 
+Hydrothermal Vents	Other-Rock	9.78 	-104.28 	2513 
+Hydrothermal Vents	Other-Biofilm	27.01 	-111.41 	2012 
+Hydrothermal Vents	Other-Biofilm	27.01 	-111.41 	2012 
+Hydrothermal Vents	Other-Rock	36.23 	-33.90 	2262 
+Hydrothermal Vents	Other-Rock	36.23 	-33.90 	2292 
+Hydrothermal Vents	Other-Rock	37.29 	-32.28 	1672 
+Hydrothermal Vents	Other-Rock	27.01 	-111.41 	2009 
+Hydrothermal Vents	Other-Biofilm	9.86 	-104.30 	2507 
+Hydrothermal Vents	Other-Rock	-20.76 	-176.19 	2138 
+Hydrothermal Vents	Other-Rock	-21.99 	-176.57 	1876 
+Hydrothermal Vents	Other-Rock	-21.99 	-176.57 	1894 
+Hydrothermal Vents	Other-Rock	37.29 	-32.28 	1720 
+Hydrothermal Vents	Other-Rock	9.84 	-104.29 	2510 
+Hydrothermal Vents	Other-Rock	9.85 	-104.30 	2514 
+Hydrothermal Vents	Sediment	47.57 	-129.59 	2190 
+Hydrothermal Vents	Other-Biofilm	9.84 	-104.29 	2503 
+Other Deep-sea Ecosystems	Sediment	-41.69 	175.68 	1451 
+Methane Seeps	Sediment	-41.77 	176.08 	1974 
+Methane Seeps	Sediment	-41.77 	176.08 	1974 
+Methane Seeps	Sediment	-41.77 	176.08 	1974 
+Methane Seeps	Sediment	-41.77 	176.08 	1974 
+Methane Seeps	Sediment	-41.77 	176.08 	1974 
+Other Deep-sea Ecosystems	Seawater	50.00 	-145.00 	1000 
+Other Deep-sea Ecosystems	Seawater	50.00 	-145.00 	2000 
+Other Deep-sea Ecosystems	Seawater	50.00 	-145.00 	1000 
+Other Deep-sea Ecosystems	Seawater	50.00 	-145.00 	1320 
+Other Deep-sea Ecosystems	Sediment	-27.74 	14.25 	1133 
+Other Deep-sea Ecosystems	Sediment	1.76 	96.77 	1855 
+Other Deep-sea Ecosystems	Seawater	48.65 	-126.67 	1300 
+Other Deep-sea Ecosystems	Seawater	48.65 	-126.67 	1000 
+Other Deep-sea Ecosystems	Seawater	48.65 	-126.67 	1300 
+Other Deep-sea Ecosystems	Seawater	48.65 	-126.67 	1000 
+Other Deep-sea Ecosystems	Seawater	48.65 	-126.67 	1300 
+Other Deep-sea Ecosystems	Seawater	50.00 	-145.00 	1000 
+Other Deep-sea Ecosystems	Seawater	50.00 	-145.00 	2000 
+Other Deep-sea Ecosystems	Seawater	50.00 	-145.00 	1000 
+Other Deep-sea Ecosystems	Seawater	50.00 	-145.00 	2000 
+Other Deep-sea Ecosystems	Seawater	50.00 	-145.00 	1000 
+Other Deep-sea Ecosystems	Seawater	50.00 	-145.00 	2000 
+Other Deep-sea Ecosystems	Seawater	50.00 	-145.00 	1000 
+Other Deep-sea Ecosystems	Seawater	50.00 	-145.00 	2000 
+Other Deep-sea Ecosystems	Seawater	48.65 	-126.67 	1000 
+Other Deep-sea Ecosystems	Seawater	48.65 	-126.67 	1300 
+Other Deep-sea Ecosystems	Seawater	48.65 	-126.67 	1000 
+Hydrothermal Vents	Sediment	-27.85 	63.94 	3530 
+Hydrothermal Vents	Sediment	-37.88 	49.66 	1654 
+Hydrothermal Vents	Sediment	-37.55 	51.01 	2462 
+Hydrothermal Vents	Sediment	27.01 	-111.41 	2016 
+Hydrothermal Vents	Other-Rock	-49.39 	37.78 	2742 
+Hydrothermal Vents	Other-Rock	-49.38 	37.52 	2822 
+Hydrothermal Vents	Other-Rock	-49.48 	37.99 	2328 
+Hydrothermal Vents	Other-Rock	-49.66 	37.47 	1753 
+Hydrothermal Vents	Other-Rock	-49.48 	37.52 	1973 
+Hydrothermal Vents	Other-Rock	-51.73 	37.47 	1592 
+Hydrothermal Vents	Other-Rock	-48.85 	37.99 	1711 
+Hydrothermal Vents	Other-Rock	-14.35 	-14.04 	3034 
+Hydrothermal Vents	Other-Rock	-13.35 	-15.01 	2891 
+Hydrothermal Vents	Other-Rock	-14.06 	-13.02 	2773 
+Hydrothermal Vents	Other-Rock	-14.31 	-13.35 	2194 
+Hydrothermal Vents	Other-Rock	-14.51 	-13.58 	2400 
+Hydrothermal Vents	Other-Rock	-14.51 	-13.35 	1820 
+Hydrothermal Vents	Other-Rock	-14.51 	-13.35 	1820 
+Hydrothermal Vents	Other-Rock	-14.51 	-13.35 	1820 
+Hydrothermal Vents	Other-Rock	47.56 	-129.06 	2182 
+Hydrothermal Vents	Other-Rock	47.56 	-129.06 	2184 
+Hydrothermal Vents	Other-Rock	47.56 	-129.06 	2184 
+Other Deep-sea Ecosystems	Sediment	9.90 	138.51 	5000 
+Other Deep-sea Ecosystems	Sediment	10.86 	141.98 	5555 
+Other Deep-sea Ecosystems	Sediment	10.86 	141.98 	5557 
+Other Deep-sea Ecosystems	Sediment	10.86 	141.98 	5560 
+Hadal Ecosystems	Sediment	11.04 	142.30 	7042 
+Hadal Ecosystems	Sediment	11.04 	142.30 	7043 
+Hadal Ecosystems	Sediment	11.04 	142.30 	7052 
+Other Deep-sea Ecosystems	Seawater	81.51 	21.85 	1037 
+Other Deep-sea Ecosystems	Seawater	78.91 	7.77 	1000 
+Hydrothermal Vents	Seawater	45.92 	-129.99 	1522 
+Hydrothermal Vents	Seawater	45.92 	-129.99 	1522 
+Hydrothermal Vents	Seawater	45.93 	-130.01 	1546 
+Hydrothermal Vents	Seawater	45.93 	-130.01 	1543 
+Hydrothermal Vents	Seawater	45.93 	-129.97 	1570 
+Hydrothermal Vents	Seawater	45.93 	-129.97 	1570 
+Hydrothermal Vents	Seawater	45.92 	-129.99 	1522 
+Hydrothermal Vents	Seawater	45.92 	-129.99 	1522 
+Hydrothermal Vents	Seawater	45.93 	-130.01 	1542 
+Hydrothermal Vents	Seawater	45.93 	-130.01 	1542 
+Hydrothermal Vents	Seawater	45.93 	-129.98 	1516 
+Hydrothermal Vents	Seawater	45.93 	-129.98 	1516 
+Hydrothermal Vents	Sediment	27.77 	126.90 	1049 
+Hydrothermal Vents	Sediment	27.77 	126.90 	1049 
+Hydrothermal Vents	Sediment	27.77 	126.90 	1049 
+Hydrothermal Vents	Sediment	27.77 	126.90 	1049 
+Hydrothermal Vents	Sediment	27.77 	126.90 	1049 
+Hydrothermal Vents	Sediment	27.77 	126.90 	1049 
+Hydrothermal Vents	Sediment	27.77 	126.90 	1049 
+Hydrothermal Vents	Sediment	27.77 	126.90 	1049 
+Other Deep-sea Ecosystems	Sediment	1.25 	163.25 	4277 
+Other Deep-sea Ecosystems	Sediment	1.25 	163.25 	4277 
+Other Deep-sea Ecosystems	Sediment	12.00 	154.00 	5920 
+Other Deep-sea Ecosystems	Sediment	12.00 	154.00 	5920 
+Hydrothermal Vents	Sediment	27.01 	-111.41 	2000 
+Hydrothermal Vents	Sediment	27.01 	-111.41 	2000 
+Hydrothermal Vents	Sediment	27.01 	-111.41 	2000 
+Other Deep-sea Ecosystems	Other-Formation fluids	47.76 	-127.76 	2667 
+Other Deep-sea Ecosystems	Other-Formation fluids	47.76 	-127.76 	2667 
+Other Deep-sea Ecosystems	Sediment	22.74 	153.27 	1432 
+Other Deep-sea Ecosystems	Sediment	22.85 	153.45 	1154 
+Other Deep-sea Ecosystems	Sediment	22.51 	153.22 	5517 
+Other Deep-sea Ecosystems	Sediment	22.63 	153.22 	4480 
+Other Deep-sea Ecosystems	Sediment	22.74 	153.27 	1432 
+Other Deep-sea Ecosystems	Sediment	22.85 	153.45 	1154 
+Other Deep-sea Ecosystems	Sediment	22.51 	153.22 	5517 
+Other Deep-sea Ecosystems	Sediment	22.63 	153.22 	4480 
+Other Deep-sea Ecosystems	Sediment	22.74 	153.27 	1432 
+Other Deep-sea Ecosystems	Sediment	22.85 	153.45 	1154 
+Other Deep-sea Ecosystems	Sediment	22.51 	153.22 	5517 
+Other Deep-sea Ecosystems	Sediment	22.68 	153.24 	2887 
+Other Deep-sea Ecosystems	Sediment	22.68 	153.24 	2887 
+Other Deep-sea Ecosystems	Sediment	22.63 	153.22 	4480 
+Other Deep-sea Ecosystems	Sediment	22.63 	153.22 	4480 
+Other Deep-sea Ecosystems	Sediment	22.74 	153.27 	1432 
+Other Deep-sea Ecosystems	Sediment	22.85 	153.45 	1154 
+Other Deep-sea Ecosystems	Sediment	22.51 	153.22 	5577 
+Other Deep-sea Ecosystems	Sediment	22.63 	153.22 	4374 
+Other Deep-sea Ecosystems	Sediment	34.24 	144.31 	1483 
+Other Deep-sea Ecosystems	Sediment	34.32 	144.34 	3200 
+Other Deep-sea Ecosystems	Sediment	34.32 	144.34 	3200 
+Other Deep-sea Ecosystems	Sediment	34.38 	144.36 	4290 
+Other Deep-sea Ecosystems	Sediment	34.38 	144.36 	4290 
+Other Deep-sea Ecosystems	Sediment	34.41 	144.39 	5507 
+Other Deep-sea Ecosystems	Sediment	34.41 	144.39 	5507 
+Other Deep-sea Ecosystems	Sediment	34.30 	144.34 	2748 
+Other Deep-sea Ecosystems	Sediment	34.30 	144.34 	2748 
+Other Deep-sea Ecosystems	Sediment	34.32 	144.34 	3199 
+Other Deep-sea Ecosystems	Sediment	34.41 	144.39 	5507 
+Hydrothermal Vents	Sediment	12.55 	143.39 	2787 
+Hydrothermal Vents	Sediment	12.55 	143.39 	2787 
+Hydrothermal Vents	Sediment	12.93 	143.62 	3024 
+Hydrothermal Vents	Sediment	12.93 	143.62 	3024 
+Hydrothermal Vents	Sediment	12.93 	143.62 	3024 
+Hydrothermal Vents	Sediment	12.93 	143.62 	3024 
+Other Deep-sea Ecosystems	Seawater	-28.60 	-173.28 	1470 
+Other Deep-sea Ecosystems	Other-Rock	-28.60 	-173.28 	1550 
+Other Deep-sea Ecosystems	Other-Rock	-28.60 	-173.28 	1550 
+Other Deep-sea Ecosystems	Other-Rock	-28.60 	-173.28 	1550 
+Methane Seeps	Sediment	22.02 	-93.25 	3092 
+Methane Seeps	Sediment	21.90 	-93.44 	2925 
+Hydrothermal Vents	Sediment	27.10 	-111.12 	1795 
+Hydrothermal Vents	Sediment	23.96 	-108.86 	3688 
+Hydrothermal Vents	Sediment	23.95 	-108.86 	3655 
+Hydrothermal Vents	Sediment	23.94 	-108.86 	3693 
+Hydrothermal Vents	Sediment	23.95 	-108.86 	3651 
+Hydrothermal Vents	Other-Biofilm	-27.84 	64.59 	3185 
+Hydrothermal Vents	Other-Biofilm	-27.84 	64.59 	3223 
+Hydrothermal Vents	Other-Biofilm	-27.84 	64.59 	3062 
+Hydrothermal Vents	Other-Biofilm	-27.84 	64.59 	3136 
+Hydrothermal Vents	Other-Biofilm	-27.84 	64.59 	3120 
+Methane Seeps	Sediment	22.53 	116.44 	1024 
+Methane Seeps	Sediment	22.53 	116.44 	1024 
+Methane Seeps	Sediment	22.53 	116.44 	1024 
+Methane Seeps	Sediment	22.53 	116.44 	1024 
+Other Deep-sea Ecosystems	Sediment	9.90 	138.40 	4955 
+Other Deep-sea Ecosystems	Sediment	9.90 	138.40 	4955 
+Hadal Ecosystems	Sediment	9.87 	138.50 	6381 
+Hydrothermal Vents	Seawater	27.03 	-111.40 	2053 
+Other Deep-sea Ecosystems	Seawater	45.00 	153.50 	1000 
+Other Deep-sea Ecosystems	Seawater	45.00 	153.50 	3000 
+Hydrothermal Vents	Sediment	27.47 	-111.47 	2000 
+Hydrothermal Vents	Sediment	27.01 	-111.41 	1800 
+Hydrothermal Vents	Sediment	27.02 	-111.41 	2000 
+Other Deep-sea Ecosystems	Seawater	11.34 	142.33 	4000 
+Other Deep-sea Ecosystems	Seawater	11.34 	142.33 	4000 
+Hadal Ecosystems	Seawater	11.34 	142.33 	9600 
+Hadal Ecosystems	Seawater	11.34 	142.33 	10400 
+Hadal Ecosystems	Seawater	11.34 	142.33 	10400 
+Hadal Ecosystems	Seawater	11.34 	142.33 	10500 
+Hadal Ecosystems	Seawater	11.34 	142.33 	10500 
+Other Deep-sea Ecosystems	Seawater	37.35 	-0.29 	1000 
+Other Deep-sea Ecosystems	Seawater	37.35 	-0.29 	2000 
+Hydrothermal Vents	Other-Biofilm	27.00 	-110.60 	1999 
+Hydrothermal Vents	Other-Biofilm	27.00 	-110.60 	1999 
+Hydrothermal Vents	Sediment	27.47 	-110.53 	1826 
+Hydrothermal Vents	Other-Biofilm	27.00 	-110.60 	2002 
+Hydrothermal Vents	Other-Biofilm	27.00 	-110.60 	2002 
+Hydrothermal Vents	Sediment	27.00 	-110.60 	2002 
+Hydrothermal Vents	Other-Biofilm	27.00 	-110.60 	2002 
+Hydrothermal Vents	Sediment	27.00 	-110.60 	2002 
+Hydrothermal Vents	Sediment	27.00 	-110.60 	2002 
+Hydrothermal Vents	Sediment	27.00 	-110.60 	2002 
+Hydrothermal Vents	Sediment	27.00 	-110.60 	2002 
+Hydrothermal Vents	Other-Biofilm	27.00 	-110.60 	2002 
+Hydrothermal Vents	Other-Biofilm	27.00 	-110.60 	2002 
+Hydrothermal Vents	Other-Biofilm	27.00 	-110.60 	2002 
+Hydrothermal Vents	Sediment	27.00 	-110.60 	2001 
+Hydrothermal Vents	Sediment	27.00 	-110.60 	2001 
+Hydrothermal Vents	Sediment	27.00 	-110.60 	2002 
+Hydrothermal Vents	Other-Biofilm	27.00 	-110.60 	2001 
+Hydrothermal Vents	Other-Biofilm	27.00 	-110.60 	2001 
+Hydrothermal Vents	Other-Biofilm	27.00 	-110.60 	2001 
+Hydrothermal Vents	Other-Biofilm	27.00 	-110.60 	2001 
+Hydrothermal Vents	Other-Biofilm	27.00 	-110.60 	2002 
+Hydrothermal Vents	Other-Biofilm	27.00 	-110.60 	2001 
+Hydrothermal Vents	Other-Biofilm	27.00 	-110.60 	2001 
+Hydrothermal Vents	Other-Biofilm	27.00 	-110.60 	1999 
+Hydrothermal Vents	Other-Biofilm	27.00 	-110.60 	2001 
+Hydrothermal Vents	Other-Biofilm	27.00 	-110.60 	2001 
+Hydrothermal Vents	Other-Biofilm	27.00 	-110.60 	1999 
+Hydrothermal Vents	Other-Biofilm	27.00 	-110.60 	1999 
+Hydrothermal Vents	Other-Biofilm	27.01 	-110.59 	2001 
+Hydrothermal Vents	Other-Biofilm	27.01 	-110.59 	2001 
+Hydrothermal Vents	Other-Biofilm	27.01 	-110.59 	2001 
+Hydrothermal Vents	Other-Biofilm	27.01 	-110.59 	2001 
+Hydrothermal Vents	Sediment	27.01 	-110.59 	1999 
+Hydrothermal Vents	Sediment	27.01 	-110.59 	1999 
+Hydrothermal Vents	Sediment	27.01 	-110.59 	1999 
+Hydrothermal Vents	Sediment	27.01 	-110.59 	1999 
+Hydrothermal Vents	Sediment	27.01 	-110.59 	1999 
+Hydrothermal Vents	Sediment	27.01 	-110.59 	1999 
+Hydrothermal Vents	Sediment	27.01 	-110.59 	1999 
+Hydrothermal Vents	Sediment	27.01 	-110.59 	1999 
+Hydrothermal Vents	Sediment	27.01 	-110.59 	1999 
+Hydrothermal Vents	Sediment	27.01 	-110.60 	2005 
+Hydrothermal Vents	Sediment	27.01 	-110.60 	2005 
+Hydrothermal Vents	Sediment	27.01 	-110.60 	2005 
+Hydrothermal Vents	Sediment	27.01 	-110.60 	2005 
+Hydrothermal Vents	Sediment	27.01 	-110.60 	2011 
+Hydrothermal Vents	Sediment	27.01 	-110.60 	2011 
+Hydrothermal Vents	Sediment	27.01 	-110.60 	2011 
+Hydrothermal Vents	Sediment	27.01 	-110.60 	2011 
+Hydrothermal Vents	Sediment	27.01 	-110.60 	2011 
+Hydrothermal Vents	Sediment	27.01 	-110.60 	2011 
+Hydrothermal Vents	Sediment	27.01 	-110.60 	2011 
+Hydrothermal Vents	Sediment	27.01 	-110.60 	2011 
+Hydrothermal Vents	Sediment	27.01 	-110.60 	2011 
+Hydrothermal Vents	Other-Biofilm	27.01 	-110.60 	2011 
+Hydrothermal Vents	Other-Biofilm	27.01 	-110.60 	2011 
+Hydrothermal Vents	Other-Biofilm	27.01 	-110.60 	2011 
+Hydrothermal Vents	Other-Biofilm	27.01 	-110.60 	2011 
+Hydrothermal Vents	Other-Biofilm	27.01 	-110.60 	2011 
+Hydrothermal Vents	Other-Biofilm	27.01 	-110.60 	2011 
+Hydrothermal Vents	Other-Biofilm	27.01 	-110.60 	2011 
+Hydrothermal Vents	Other-Biofilm	27.01 	-110.60 	2011 
+Hydrothermal Vents	Other-Biofilm	27.01 	-110.60 	2011 
+Hydrothermal Vents	Other-Biofilm	27.01 	-110.60 	2011 
+Hydrothermal Vents	Other-Biofilm	27.01 	-110.60 	2011 
+Hydrothermal Vents	Other-Biofilm	27.01 	-110.60 	2011 
+Hydrothermal Vents	Other-Biofilm	27.01 	-110.60 	2011 
+Hydrothermal Vents	Other-Biofilm	27.01 	-110.60 	2011 
+Hydrothermal Vents	Other-Biofilm	27.01 	-110.60 	2011 
+Hydrothermal Vents	Other-Biofilm	27.01 	-110.60 	2011 
+Hydrothermal Vents	Other-Biofilm	27.01 	-110.60 	2011 
+Hydrothermal Vents	Other-Biofilm	27.01 	-110.60 	2011 
+Hydrothermal Vents	Other-Biofilm	27.01 	-110.60 	2011 
+Hydrothermal Vents	Other-Biofilm	27.01 	-110.60 	2011 
+Hydrothermal Vents	Other-Biofilm	27.01 	-110.59 	2001 
+Hydrothermal Vents	Other-Biofilm	27.01 	-110.60 	2011 
+Methane Seeps	Sediment	28.74 	-88.37 	1600 
+Methane Seeps	Sediment	28.74 	-88.37 	1600 
+Methane Seeps	Sediment	28.74 	-88.37 	1600 
+Hydrothermal Vents	Seawater	45.93 	-130.01 	1547 
+Hydrothermal Vents	Seawater	45.94 	-129.99 	1519 
+Hydrothermal Vents	Seawater	45.93 	-130.01 	1536 
+Hydrothermal Vents	Seawater	45.92 	-129.99 	1542 
+Methane Seeps	Sediment	-66.31 	140.43 	1000 
+Methane Seeps	Sediment	-66.31 	140.43 	1000 
+Methane Seeps	Sediment	-66.31 	140.43 	1000 
+Hydrothermal Vents	Seawater	18.55 	-81.72 	4940 
+Hadal Ecosystems	Sediment	-16.64 	-172.20 	9161 
+Hadal Ecosystems	Sediment	-16.64 	-172.20 	9161 
+Hadal Ecosystems	Sediment	-16.64 	-172.20 	9161 
+Other Deep-sea Ecosystems	Sediment	22.80 	-46.05 	4425 
+Other Deep-sea Ecosystems	Sediment	22.80 	-46.05 	4425 
+Other Deep-sea Ecosystems	Sediment	22.81 	-46.09 	4476 
+Hydrothermal Vents	Sediment	27.01 	-111.41 	2001 
+Hydrothermal Vents	Sediment	27.01 	-111.41 	2001 
+Hydrothermal Vents	Other-Biofilm	18.90 	-155.26 	1179 
+Hydrothermal Vents	Other-Biofilm	18.91 	-155.26 	1271 
+Hydrothermal Vents	Other-Biofilm	18.91 	-155.26 	1300 
+Hydrothermal Vents	Other-Biofilm	36.23 	-33.90 	2295 
+Hydrothermal Vents	Other-Biofilm	36.23 	-33.90 	2295 
+Hydrothermal Vents	Other-Biofilm	26.14 	-44.83 	3626 
+Hydrothermal Vents	Other-Biofilm	23.37 	-44.95 	3505 
+Hydrothermal Vents	Other-Biofilm	12.92 	143.65 	2930 
+Hydrothermal Vents	Other-Biofilm	12.92 	143.65 	2928 
+Hydrothermal Vents	Seawater	-3.73 	151.67 	1709 
+Hydrothermal Vents	Seawater	-3.73 	151.67 	1705 
+Hydrothermal Vents	Seawater	-3.80 	152.10 	1155 
+Hydrothermal Vents	Seawater	-3.80 	152.10 	1199 
+Hydrothermal Vents	Seawater	-3.72 	151.68 	1685 
+Hydrothermal Vents	Other-Rock	-3.73 	151.67 	1689 
+Hydrothermal Vents	Other-Rock	-3.73 	151.67 	1719 
+Hydrothermal Vents	Other-Rock	-3.73 	151.67 	1691 
+Hydrothermal Vents	Other-Rock	-3.73 	151.67 	1741 
+Other Deep-sea Ecosystems	Seawater	22.75 	-158.00 	1000 
+Other Deep-sea Ecosystems	Seawater	22.75 	-158.00 	1000 
+Other Deep-sea Ecosystems	Seawater	22.75 	-158.00 	1000 
+Other Deep-sea Ecosystems	Seawater	22.75 	-158.00 	1000 
+Other Deep-sea Ecosystems	Seawater	22.75 	-158.00 	1000 
+Other Deep-sea Ecosystems	Seawater	22.75 	-158.00 	1000 
+Other Deep-sea Ecosystems	Seawater	22.75 	-158.00 	1000 
+Other Deep-sea Ecosystems	Seawater	22.75 	-158.00 	1000 
+Other Deep-sea Ecosystems	Seawater	22.75 	-158.00 	1000 
+Other Deep-sea Ecosystems	Seawater	22.75 	-158.00 	1000 
+Other Deep-sea Ecosystems	Seawater	22.75 	-158.00 	1000 
+Other Deep-sea Ecosystems	Seawater	22.75 	-158.00 	1000 
+Other Deep-sea Ecosystems	Sediment	11.75 	142.11 	5838 
+Other Deep-sea Ecosystems	Other-Formation fluids	22.78 	-46.05 	4350 
+Other Deep-sea Ecosystems	Other-Formation fluids	22.80 	-46.05 	4425 
+Other Deep-sea Ecosystems	Other-Formation fluids	22.80 	-46.05 	4425 
+Other Deep-sea Ecosystems	Other-Formation fluids	22.78 	-46.09 	4350 
+Other Deep-sea Ecosystems	Seawater	19.61 	38.73 	2771 
+Other Deep-sea Ecosystems	Seawater	19.61 	38.73 	2771 
+Other Deep-sea Ecosystems	Seawater	19.61 	38.73 	2771 
+Other Deep-sea Ecosystems	Seawater	19.61 	38.73 	2771 
+Other Deep-sea Ecosystems	Seawater	19.61 	38.73 	2771 
+Other Deep-sea Ecosystems	Seawater	19.61 	38.73 	2771 
+Other Deep-sea Ecosystems	Seawater	19.61 	38.73 	2771 
+Other Deep-sea Ecosystems	Seawater	19.61 	38.73 	2771 
+Other Deep-sea Ecosystems	Seawater	19.61 	38.73 	2772 
+Other Deep-sea Ecosystems	Seawater	19.61 	38.73 	2772 
+Other Deep-sea Ecosystems	Seawater	19.61 	38.73 	2780 
+Methane Seeps	Sediment	72.00 	14.73 	1250 
+Methane Seeps	Sediment	72.00 	14.73 	1250 
+Methane Seeps	Sediment	72.00 	14.73 	1250 
+Methane Seeps	Sediment	72.00 	14.72 	1250 
+Methane Seeps	Sediment	72.01 	14.73 	1250 
+Methane Seeps	Sediment	72.00 	14.73 	1250 
+Methane Seeps	Sediment	72.00 	14.73 	1250 
+Methane Seeps	Sediment	9.12 	-84.84 	1850 
+Methane Seeps	Sediment	9.12 	-84.84 	1850 
+Methane Seeps	Sediment	9.12 	-84.84 	1850 
+Methane Seeps	Sediment	9.12 	-84.84 	1850 
+Methane Seeps	Sediment	9.12 	-84.84 	1850 
+Methane Seeps	Sediment	9.12 	-84.84 	1850 
+Methane Seeps	Sediment	9.12 	-84.84 	1850 
+Methane Seeps	Sediment	9.12 	-84.84 	1850 
+Methane Seeps	Sediment	9.12 	-84.84 	1850 
+Methane Seeps	Sediment	9.12 	-84.84 	1850 
+Methane Seeps	Sediment	9.12 	-84.84 	1850 
+Methane Seeps	Sediment	9.12 	-84.84 	1850 
+Methane Seeps	Sediment	9.12 	-84.84 	1850 
+Methane Seeps	Sediment	9.12 	-84.84 	1850 
+Methane Seeps	Sediment	9.12 	-84.84 	1850 
+Methane Seeps	Sediment	9.12 	-84.84 	1850 
+Methane Seeps	Sediment	9.12 	-84.84 	1850 
+Methane Seeps	Sediment	9.12 	-84.84 	1850 
+Methane Seeps	Sediment	9.12 	-84.84 	1850 
+Methane Seeps	Sediment	9.12 	-84.84 	1850 
+Methane Seeps	Sediment	9.12 	-84.84 	1850 
+Methane Seeps	Sediment	9.12 	-84.84 	1850 
+Methane Seeps	Sediment	9.12 	-84.84 	1850 
+Methane Seeps	Sediment	9.12 	-84.84 	1850 
+Methane Seeps	Sediment	9.12 	-84.84 	1850 
+Methane Seeps	Sediment	9.12 	-84.84 	1850 
+Methane Seeps	Sediment	9.12 	-84.84 	1850 
+Methane Seeps	Sediment	9.12 	-84.84 	1850 
+Methane Seeps	Sediment	9.12 	-84.84 	1850 
+Methane Seeps	Sediment	9.12 	-84.84 	1850 
+Methane Seeps	Sediment	9.12 	-84.84 	1850 
+Methane Seeps	Sediment	9.12 	-84.84 	1850 
+Methane Seeps	Sediment	9.12 	-84.84 	1850 
+Methane Seeps	Sediment	9.12 	-84.84 	1850 
+Methane Seeps	Sediment	9.12 	-84.84 	1850 
+Methane Seeps	Sediment	9.12 	-84.84 	1850 
+Methane Seeps	Sediment	9.12 	-84.84 	1850 
+Methane Seeps	Sediment	9.12 	-84.84 	1850 
+Methane Seeps	Sediment	9.12 	-84.84 	1850 
+Methane Seeps	Sediment	9.12 	-84.84 	1850 
+Methane Seeps	Sediment	9.12 	-84.84 	1850 
+Methane Seeps	Sediment	9.12 	-84.84 	1850 
+Methane Seeps	Sediment	9.12 	-84.84 	1850 
+Methane Seeps	Sediment	9.12 	-84.84 	1850 
+Methane Seeps	Sediment	9.12 	-84.84 	1850 
+Methane Seeps	Sediment	9.12 	-84.84 	1850 
+Methane Seeps	Sediment	9.12 	-84.84 	1850 
+Methane Seeps	Sediment	9.12 	-84.84 	1850 
+Methane Seeps	Sediment	9.12 	-84.84 	1850 
+Hydrothermal Vents	Other-Rock	9.95 	-104.42 	2816 
+Other Deep-sea Ecosystems	Sediment	25.83 	-95.00 	2999 
+Other Deep-sea Ecosystems	Other-Biofilm	24.52 	126.17 	1988 
+Other Deep-sea Ecosystems	Other-Biofilm	24.52 	126.17 	1988 
+Other Deep-sea Ecosystems	Other-Biofilm	24.52 	126.17 	1988 
+Other Deep-sea Ecosystems	Other-Biofilm	24.52 	126.17 	1988 
+Other Deep-sea Ecosystems	Other-Biofilm	24.52 	126.17 	1988 
+Other Deep-sea Ecosystems	Other-Biofilm	24.52 	126.17 	1988 
+Hydrothermal Vents	Seawater	18.38 	-81.80 	2308 
+Hydrothermal Vents	Sediment	-34.86 	179.06 	1669 
+Hydrothermal Vents	Sediment	-34.88 	179.07 	1214 
+Hydrothermal Vents	Sediment	-34.88 	179.07 	1213 
+Hydrothermal Vents	Sediment	-34.86 	179.05 	1319 
+Hydrothermal Vents	Sediment	-34.86 	179.06 	1592 
+Hydrothermal Vents	Sediment	-34.88 	179.07 	1315 
+Hydrothermal Vents	Seawater	-34.86 	179.06 	1575 
+Hydrothermal Vents	Sediment	-34.88 	179.07 	1330 
+Hydrothermal Vents	Sediment	-34.86 	179.06 	1622 
+Hydrothermal Vents	Sediment	-34.86 	179.05 	1319 
+Hydrothermal Vents	Sediment	-34.86 	179.06 	1583 
+Hydrothermal Vents	Sediment	-34.86 	179.06 	1599 
+Hydrothermal Vents	Sediment	-34.86 	179.06 	1605 
+Hydrothermal Vents	Sediment	-34.86 	179.06 	1592 
+Hydrothermal Vents	Sediment	-34.86 	179.06 	1596 
+Hydrothermal Vents	Sediment	-34.86 	179.06 	1611 
+Hydrothermal Vents	Sediment	-34.86 	179.06 	1611 
+Hydrothermal Vents	Sediment	-34.88 	179.07 	1214 
+Hydrothermal Vents	Sediment	-34.86 	179.05 	1319 
+Other Deep-sea Ecosystems	Seawater	48.97 	-130.67 	2000 
+Other Deep-sea Ecosystems	Seawater	29.15 	142.80 	1206 
+Other Deep-sea Ecosystems	Seawater	29.15 	142.80 	2015 
+Other Deep-sea Ecosystems	Seawater	29.15 	142.80 	3507 
+Other Deep-sea Ecosystems	Seawater	29.15 	142.80 	5010 
+Hadal Ecosystems	Seawater	29.15 	142.80 	7512 
+Hadal Ecosystems	Seawater	29.15 	142.80 	9697 
+Other Deep-sea Ecosystems	Seawater	36.06 	142.73 	1000 
+Other Deep-sea Ecosystems	Seawater	36.06 	142.73 	3500 
+Hadal Ecosystems	Seawater	36.11 	142.73 	7000 
+Other Deep-sea Ecosystems	Seawater	11.37 	142.43 	2000 
+Other Deep-sea Ecosystems	Seawater	11.37 	142.43 	3971 
+Hadal Ecosystems	Seawater	11.37 	142.43 	7900 
+Hadal Ecosystems	Seawater	11.37 	142.42 	10899 
+Other Deep-sea Ecosystems	Seawater	41.87 	146.32 	1000 
+Other Deep-sea Ecosystems	Seawater	41.87 	146.32 	2400 
+Other Deep-sea Ecosystems	Seawater	41.87 	146.32 	4500 
+Hadal Ecosystems	Seawater	41.87 	146.32 	6500 
+Hadal Ecosystems	Sediment	11.91 	144.93 	7942 
+Other Deep-sea Ecosystems	Sediment	70.66 	-139.04 	1534 
+Other Deep-sea Ecosystems	Seawater	-15.34 	43.29 	1000 
+Other Deep-sea Ecosystems	Seawater	-29.50 	37.96 	1000 
+Hydrothermal Vents	Other-Rock	-21.99 	-176.57 	1876 
+Other Deep-sea Ecosystems	Sediment	47.75 	-127.76 	2667 
+Other Deep-sea Ecosystems	Sediment	47.75 	-127.76 	2665 
+Other Deep-sea Ecosystems	Sediment	47.75 	-127.76 	2665 
+Hydrothermal Vents	Sediment	27.33 	126.59 	1549 
+Hydrothermal Vents	Sediment	25.03 	122.34 	1170 
+Hydrothermal Vents	Sediment	25.04 	122.35 	1206 
+Other Deep-sea Ecosystems	Sediment	73.76 	8.46 	3283 
+Other Deep-sea Ecosystems	Sediment	73.76 	8.46 	3283 
+Hydrothermal Vents	Seawater	18.38 	-81.80 	2373 
+Hydrothermal Vents	Seawater	18.38 	-81.80 	2388 
+Hydrothermal Vents	Seawater	18.37 	-81.80 	2376 
+Hydrothermal Vents	Seawater	18.38 	-81.80 	2308 
+Hydrothermal Vents	Seawater	18.38 	-81.80 	2297 
+Hydrothermal Vents	Seawater	18.55 	-81.80 	4988 
+Hydrothermal Vents	Seawater	18.55 	-81.72 	4986 
+Hydrothermal Vents	Seawater	18.55 	-81.72 	4980 
+Hydrothermal Vents	Seawater	18.55 	-81.72 	4980 
+Hydrothermal Vents	Seawater	18.38 	-81.80 	2293 
+Hydrothermal Vents	Seawater	18.37 	-81.80 	2372 
+Hydrothermal Vents	Seawater	18.37 	-81.80 	2369 
+Hydrothermal Vents	Seawater	18.37 	-81.80 	2369 
+Hydrothermal Vents	Seawater	18.37 	-81.80 	2369 
+Hydrothermal Vents	Seawater	18.38 	-81.80 	2370 
+Hydrothermal Vents	Seawater	18.38 	-81.80 	2373 
+Hydrothermal Vents	Seawater	18.37 	-81.80 	2376 
+Hydrothermal Vents	Seawater	18.38 	-81.80 	2308 
+Hydrothermal Vents	Seawater	18.55 	-81.72 	4988 
+Hydrothermal Vents	Seawater	18.55 	-81.72 	4986 
+Hydrothermal Vents	Seawater	18.55 	-81.72 	4980 
+Hydrothermal Vents	Seawater	18.55 	-81.72 	4980 
+Hydrothermal Vents	Seawater	18.37 	-81.80 	2372 
+Hydrothermal Vents	Seawater	18.37 	-81.80 	2369 
+Hydrothermal Vents	Seawater	18.38 	-81.80 	2370 
+Hydrothermal Vents	Other-Rock	27.01 	-111.41 	1990 
+Other Deep-sea Ecosystems	Sediment	41.18 	142.20 	1180 
+Other Deep-sea Ecosystems	Sediment	41.18 	142.20 	1180 
+Other Deep-sea Ecosystems	Sediment	41.18 	142.20 	1180 
+Other Deep-sea Ecosystems	Sediment	41.18 	142.20 	1180 
+Other Deep-sea Ecosystems	Sediment	41.18 	142.20 	1180 
+Other Deep-sea Ecosystems	Sediment	41.18 	142.20 	1180 
+Other Deep-sea Ecosystems	Sediment	41.18 	142.20 	1180 
+Other Deep-sea Ecosystems	Sediment	41.18 	142.20 	1180 
+Other Deep-sea Ecosystems	Sediment	41.18 	142.20 	1180 
+Other Deep-sea Ecosystems	Sediment	41.18 	142.20 	1180 
+Other Deep-sea Ecosystems	Sediment	41.18 	142.20 	1180 
+Other Deep-sea Ecosystems	Sediment	41.18 	142.20 	1180 
+Hydrothermal Vents	Seawater	18.21 	144.71 	3583 
+Hydrothermal Vents	Other-Biofilm	18.21 	144.71 	3611 
+Hydrothermal Vents	Seawater	18.18 	144.72 	3631 
+Hydrothermal Vents	Seawater	16.96 	144.87 	3278 
+Hydrothermal Vents	Seawater	16.96 	144.87 	3277 
+Hydrothermal Vents	Seawater	16.96 	144.87 	3278 
+Hydrothermal Vents	Seawater	15.48 	144.60 	3625 
+Hydrothermal Vents	Seawater	15.48 	144.51 	3913 
+Other Deep-sea Ecosystems	Seawater	26.01 	-92.37 	1000 
+Other Deep-sea Ecosystems	Seawater	26.01 	-92.37 	1470 
+Other Deep-sea Ecosystems	Seawater	26.01 	-92.37 	2107 
+Other Deep-sea Ecosystems	Sediment	-39.31 	-139.80 	5283 
+Other Deep-sea Ecosystems	Sediment	-39.31 	-139.80 	5283 
+Other Deep-sea Ecosystems	Other-Formation fluids	22.78 	-46.09 	4400 
+Other Deep-sea Ecosystems	Other-Formation fluids	22.78 	-46.09 	4400 
+Other Deep-sea Ecosystems	Other-Formation fluids	22.78 	-46.09 	4400 
+Other Deep-sea Ecosystems	Other-Formation fluids	22.78 	-46.09 	4400 
+Other Deep-sea Ecosystems	Other-Formation fluids	22.78 	-46.09 	4400 
+Other Deep-sea Ecosystems	Other-Formation fluids	22.78 	-46.09 	4400 
+Other Deep-sea Ecosystems	Other-Formation fluids	22.78 	-46.09 	4400 
+Other Deep-sea Ecosystems	Other-Formation fluids	22.78 	-46.09 	4400 
+Other Deep-sea Ecosystems	Other-Formation fluids	22.80 	-46.05 	4425 
+Other Deep-sea Ecosystems	Other-Formation fluids	22.80 	-46.05 	4425 
+Other Deep-sea Ecosystems	Other-Formation fluids	22.80 	-46.05 	4425 
+Other Deep-sea Ecosystems	Other-Formation fluids	22.80 	-46.05 	4425 
+Other Deep-sea Ecosystems	Other-Formation fluids	22.78 	-46.09 	4400 
+Other Deep-sea Ecosystems	Other-Formation fluids	22.80 	-46.05 	4425 
+Other Deep-sea Ecosystems	Other-Formation fluids	22.80 	-46.05 	4425 
+Other Deep-sea Ecosystems	Other-Formation fluids	22.80 	-46.05 	4425 
+Other Deep-sea Ecosystems	Seawater	22.78 	-46.09 	4400 
+Other Deep-sea Ecosystems	Seawater	42.90 	30.68 	1000 
+Other Deep-sea Ecosystems	Seawater	42.90 	30.68 	2000 
+Other Deep-sea Ecosystems	Sediment	22.78 	-56.52 	5600 
+Other Deep-sea Ecosystems	Sediment	29.41 	-58.20 	5400 
+Methane Seeps	Sediment	35.66 	-7.33 	1200 
+Other Deep-sea Ecosystems	Sediment	27.79 	126.89 	1028 
+Other Deep-sea Ecosystems	Sediment	27.81 	126.91 	1190 
+Other Deep-sea Ecosystems	Sediment	27.55 	126.98 	1240 
+Other Deep-sea Ecosystems	Sediment	27.64 	126.88 	1512 
+Hydrothermal Vents	Sediment	-3.73 	151.67 	1680 
+Hydrothermal Vents	Sediment	-3.73 	151.68 	1853 
+Hydrothermal Vents	Sediment	-3.71 	151.88 	2003 
+Hydrothermal Vents	Sediment	-3.68 	151.86 	1906 
+Methane Seeps	Sediment	35.74 	30.48 	1637 
+Methane Seeps	Sediment	35.33 	30.27 	2030 
+Methane Seeps	Sediment	35.74 	30.48 	1637 
+Methane Seeps	Sediment	35.74 	30.48 	1637 
+Methane Seeps	Sediment	35.74 	30.48 	1637 
+Methane Seeps	Sediment	35.74 	30.48 	1637 
+Methane Seeps	Sediment	35.74 	30.48 	1637 
+Methane Seeps	Sediment	35.74 	30.48 	1637 
+Methane Seeps	Sediment	35.74 	30.48 	1637 
+Methane Seeps	Sediment	35.74 	30.48 	1637 
+Methane Seeps	Sediment	35.33 	30.27 	2030 
+Methane Seeps	Sediment	35.33 	30.27 	2030 
+Methane Seeps	Sediment	35.33 	30.27 	2030 
+Methane Seeps	Sediment	35.33 	30.27 	2030 
+Methane Seeps	Sediment	35.33 	30.27 	2030 
+Methane Seeps	Sediment	35.33 	30.27 	2030 
+Methane Seeps	Sediment	35.33 	30.27 	2030 
+Methane Seeps	Sediment	35.33 	30.27 	2030 
+Methane Seeps	Sediment	35.33 	30.27 	2030 
+Methane Seeps	Sediment	35.33 	30.27 	2030 
+Methane Seeps	Sediment	35.33 	30.27 	2030 
+Hydrothermal Vents	Seawater	27.79 	126.90 	1050 
+Hydrothermal Vents	Seawater	27.79 	126.90 	1050 
+Hydrothermal Vents	Sediment	27.79 	126.90 	1060 
+Hydrothermal Vents	Sediment	27.79 	126.90 	1060 
+Methane Seeps	Sediment	31.71 	32.37 	1120 
+Methane Seeps	Sediment	72.00 	14.72 	1263 
+Hydrothermal Vents	Sediment	27.01 	-111.40 	2013 
+Hydrothermal Vents	Sediment	-15.16 	-13.35 	2500 
+Other Deep-sea Ecosystems	Other-Rock	22.75 	-46.08 	4484 
+Other Deep-sea Ecosystems	Sediment	9.90 	138.39 	4435 
+Other Deep-sea Ecosystems	Sediment	9.65 	138.82 	4568 
+Hadal Ecosystems	Sediment	9.86 	138.66 	6578 
+Other Deep-sea Ecosystems	Sediment	9.87 	138.50 	5000 
+Other Deep-sea Ecosystems	Sediment	9.83 	138.48 	5700 
+Hadal Ecosystems	Sediment	9.87 	138.50 	6000 
+Other Deep-sea Ecosystems	Sediment	11.98 	142.12 	5481 
+Other Deep-sea Ecosystems	Sediment	11.98 	142.12 	5481 
+Other Deep-sea Ecosystems	Sediment	11.98 	142.12 	5481 
+Hadal Ecosystems	Sediment	11.67 	142.25 	6014 
+Hadal Ecosystems	Sediment	11.67 	142.25 	6014 
+Hadal Ecosystems	Sediment	11.58 	141.88 	6707 
+Hadal Ecosystems	Sediment	10.95 	141.94 	6680 
+Hadal Ecosystems	Sediment	10.92 	141.70 	6676 
+Hadal Ecosystems	Sediment	10.96 	141.98 	6693 
+Hadal Ecosystems	Sediment	10.96 	141.98 	6693 
+Other Deep-sea Ecosystems	Sediment	10.89 	142.02 	5482 
+Other Deep-sea Ecosystems	Sediment	10.89 	142.02 	5482 
+Hadal Ecosystems	Sediment	10.89 	142.23 	6333 
+Hadal Ecosystems	Sediment	10.89 	142.23 	6333 
+Hadal Ecosystems	Sediment	10.89 	142.23 	6333 
+Other Deep-sea Ecosystems	Sediment	22.80 	-46.05 	4425 
+Other Deep-sea Ecosystems	Sediment	22.80 	-46.05 	4425 
+Other Deep-sea Ecosystems	Sediment	22.80 	-46.05 	4425 
+Other Deep-sea Ecosystems	Sediment	22.80 	-46.05 	4425 
+Hadal Ecosystems	Sediment	11.33 	142.19 	10911 
+Hadal Ecosystems	Sediment	11.33 	142.19 	10911 
+Hadal Ecosystems	Sediment	11.33 	142.19 	10911 
+Hadal Ecosystems	Sediment	11.33 	142.19 	10911 
+Hadal Ecosystems	Sediment	11.33 	142.19 	10911 
+Hadal Ecosystems	Sediment	11.33 	142.20 	10953 
+Hadal Ecosystems	Sediment	11.33 	142.20 	10953 
+Hadal Ecosystems	Sediment	11.33 	142.20 	10953 
+Hadal Ecosystems	Sediment	11.33 	142.20 	10953 
+Hadal Ecosystems	Sediment	11.33 	142.19 	10909 
+Hadal Ecosystems	Sediment	11.33 	142.19 	10909 
+Hadal Ecosystems	Sediment	11.33 	142.19 	10909 
+Hadal Ecosystems	Sediment	11.33 	142.19 	10909 
+Hadal Ecosystems	Sediment	11.33 	142.19 	10908 
+Hadal Ecosystems	Sediment	11.33 	142.19 	10908 
+Hadal Ecosystems	Sediment	11.33 	142.19 	10908 
+Hadal Ecosystems	Sediment	11.33 	142.19 	10908 
+Other Deep-sea Ecosystems	Sediment	11.76 	141.98 	5400 
+Other Deep-sea Ecosystems	Sediment	11.76 	141.98 	5400 
+Other Deep-sea Ecosystems	Sediment	11.80 	142.12 	5533 
+Other Deep-sea Ecosystems	Sediment	11.80 	142.12 	5533 
+Other Deep-sea Ecosystems	Sediment	11.80 	142.12 	5533 
+Other Deep-sea Ecosystems	Sediment	11.80 	142.12 	5533 
+Hadal Ecosystems	Sediment	10.92 	141.80 	7061 
+Hadal Ecosystems	Sediment	10.92 	141.80 	7061 
+Hadal Ecosystems	Sediment	10.92 	141.80 	7061 
+Hadal Ecosystems	Sediment	10.92 	141.80 	7061 
+Hadal Ecosystems	Sediment	11.55 	141.87 	7082 
+Hadal Ecosystems	Sediment	11.55 	141.87 	7082 
+Hadal Ecosystems	Sediment	11.60 	142.23 	7143 
+Hadal Ecosystems	Sediment	11.60 	142.23 	7143 
+Hadal Ecosystems	Sediment	11.09 	142.07 	7850 
+Hadal Ecosystems	Sediment	11.09 	142.07 	7850 
+Hadal Ecosystems	Sediment	11.20 	141.81 	8638 
+Hadal Ecosystems	Sediment	11.20 	141.81 	8638 
+Hadal Ecosystems	Sediment	11.20 	141.81 	8638 
+Hadal Ecosystems	Sediment	11.23 	141.69 	9150 
+Hydrothermal Vents	Seawater	18.54 	-81.72 	4869 
+Other Deep-sea Ecosystems	Seawater	18.54 	-81.72 	4946 
+Hydrothermal Vents	Seawater	18.54 	-81.72 	2238 
+Hydrothermal Vents	Seawater	18.54 	-81.72 	2040 
+Other Deep-sea Ecosystems	Seawater	18.54 	-81.72 	2294 
+Other Deep-sea Ecosystems	Seawater	18.54 	-81.72 	4950 
+Hydrothermal Vents	Seawater	18.54 	-81.72 	4900 
+Hydrothermal Vents	Seawater	18.54 	-81.72 	4900 
+Other Deep-sea Ecosystems	Sediment	42.16 	-62.36 	2724 
+Other Deep-sea Ecosystems	Sediment	42.16 	-62.36 	2731 
+Other Deep-sea Ecosystems	Sediment	42.16 	-62.36 	2731 
+Other Deep-sea Ecosystems	Sediment	42.16 	-62.36 	2731 
+Other Deep-sea Ecosystems	Sediment	42.21 	-62.32 	2739 
+Other Deep-sea Ecosystems	Sediment	42.21 	-62.32 	2739 
+Other Deep-sea Ecosystems	Sediment	42.21 	-62.32 	2739 
+Other Deep-sea Ecosystems	Sediment	42.21 	-62.32 	2739 
