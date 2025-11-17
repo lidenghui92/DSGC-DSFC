@@ -1,0 +1,7 @@
+DS.TS.OM.all.COG_L.pep.gz 
+Fig2.all.unigen_for_hyphy.cds.gz
+Fig2.5837clusters_for_hyphy.tsv.gz
+Fig2.COG_L_DS.TS.OM_cluster.row.gz
+TSGC.geneid.change.list.gz
+Fig2.COG_L.mmseqsGTDB.lca.tsv.gz
+Fig2.COG_L_PC_abundance.matrix.gz
