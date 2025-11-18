@@ -10,7 +10,7 @@ All genes annotated as COG-L category from DSGC, OM-RGC, and TSGC were taxonomic
 
 `mmseqs easy-taxonomy COG-L.pep.fa /path_to_database/GTDB COG-L.pep.txt tmp --tax-lineage 1`  
 
-and we calculated data for Extended Data Fig. 2b with the scripts FigS2b.stat.sh based on the taxonomic annotation result Fig2.COG_L.mmseqsGTDB.lca.tsv.gz at Zenodo, the clustering result read by FigS2b.stat.sh (Fig2.COG_L_DS.TS.OM_cluster.row.gz) has been deposited at Zenodo. To avoid issues caused by special characters in gene IDs, we have updated the ID for the TSGC gene; details are provided in the file TSGC.geneid.change.list.gz, which has been deposited at Zenodo.  
+and we calculated data for Extended Data Fig. 2b with the scripts FigS2b.stat.sh based on the taxonomic annotation result Fig2.COG_L.mmseqsGTDB.lca.tsv.gz at Zenodo. To avoid issues caused by special characters in gene IDs, we have updated the ID for the TSGC gene; details are provided in the file TSGC.geneid.change.list.gz, which has been deposited at Zenodo.  
 
 To calculate the proportion of COG-L genes in microbial MAGs generated from both deep-sea and upper-ocean metagenomes, we used Prodigal (v2.6.3) and eggNOG-mapper (v2.1.12) to annotate the high quality MAGs:  
 
