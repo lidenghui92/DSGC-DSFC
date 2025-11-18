@@ -1,0 +1,11 @@
+FigS3a.DSFC.3Dstat.tsv.gz
+FigS3b.PC_member_structure.tar.gz
+FigS3c.AF3_online_pred_results.tar.gz
+FigS3c.esmfold_struct.tar.gz
+FigS3d.DS-PDB_density.dat.gz
+Fig3b.DS-AFDB_density.dat.gz
+Fig3c.DS-DS_density.dat.gz
+Fig3.foldseek_clusters_taxonomy.zip
+Fig3de.zip
+Fig3.foldseek_clusters.zip
+DSTEDdom.tar.gz
