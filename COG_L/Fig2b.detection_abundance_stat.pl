@@ -1,7 +1,7 @@
 #!usr/bin/perl;
 
 open I,"$ARGV[0]"; #input_file: the abundance matrix of COG-L gene clusters
-open O,">Fig.2B.cluster_dtc_adb.stat.tsv";
+open O,">Fig.2b.cluster_dtc_adb.stat.tsv";
 
 my $rt=$aab=$cnt=$abd=0;
 my $i=0;
