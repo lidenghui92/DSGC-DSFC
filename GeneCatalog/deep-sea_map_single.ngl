@@ -6,7 +6,7 @@ import "minimap2" version "2.24"
 sample = ARGV[1]
 print("Running sample: " + sample + "\n")
 
-mapped = samfile("/zfsqd1/ST_OCEAN/USRS/lidenghui/from_dell2_fq/Project/deep_sea/07.quantified_gene/" + sample + ".bam")
+mapped = samfile("/share/deep_sea/07.quantified_gene/" + sample + ".bam")
 
 filtered = select(mapped) using |mread|:
     mread = mread.filter(min_identity_pc=95, min_match_size=45)
