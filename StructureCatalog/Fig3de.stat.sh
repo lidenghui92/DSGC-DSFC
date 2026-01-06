@@ -1,5 +1,5 @@
 #Scirpts for analyses associated with Fig3de
-#Intermediate files (Fig3de.tgz) have been deposited at Zenodo.
+#Intermediate files (Fig3de.zip) have been deposited at Zenodo.
 
 #get taxonomic annotation from gene2tax_7level_LCA_add_gtdb.txt.gz
 perl -e 'open I,$ARGV[0];while(<I>){chomp;($r,$m)=split;$ml{$r}=join(",",$m,$ml{$r});}foreach(keys%ml){$ml{$_}=~s/,$//;print "$_\t$ml{$_}\n"}' HQ3D_taxo_cluster.tsv > hqBacAr.cluster.row #in Fig3.foldseek_clusters_taxonomy.zip, this contains 759,874 hiqh-quality structures with taxonomic annotations at phylum-levels.
@@ -86,4 +86,5 @@ perl -e 'while(<STDIN>){@l=split;$d{$l[0]}=1}
         $fg=$dgene-$dcog{$_};
         $bg=$tgene-$tcog{$_}-$dgene+$dcog{$_};
         print "$_\t$dcog{$_}\t$bcog\t$fg\t$bg\n"}'  > hqBaArPhy.category.fisherIn.tsv #this file has been deposited at Zenodo.
+
 Rscript fisher_test.R hqBaArPhy.category  #this generate hqBaArPhy.category.fisherOut.tsv for Fig. 3e, and has been deposited at Zenodo. The data was transformed before plotting Fig. 3e, for details please refer to hyBaArPhy.category.fisherOut.xlsx, which can also be found at Zenodo.
