@@ -4,7 +4,7 @@
   
 **Downloading Rawdata**  
 
-The metagenomic sequencing datasets were downloaded from the NCBI, NODE, and CNGB with the following commands. Accession numbers of runs of each sample used in this study can be found in Extended Data Table 1 of the paper.
+The metagenomic sequencing datasets were downloaded from the NCBI, NODE, and CNGB with the following commands. Accession numbers of runs of each sample used in this study can be found in Table S1 of the paper.
 ```bash
 #NCBI (example ID: SRR7042067) :
 fasterq-dump -p -t /scratch/$USER -O /data/$USER/sra SRR7042067
@@ -35,7 +35,7 @@ gmhmmp -m MetaGeneMark_v1.mod -o example.gmm example.contigs_500.fa
 perl deal_gmm.pl example.gmm example.contigs_1000.fa 100 example_ example
 perl transform.pl codon-table.11 example.gene_nucl.fa example.gene_prot.fa
 ```
-Assembly results of all samples, see All_sample_contig_stat.xlsx, which was used to plot Extended Data Fig. 1b.  
+Assembly results of all samples, see All_sample_contig_stat.xlsx, which was used to plot Fig. S1b.  
 
 **Deep Sea Microbial Gene Catalog**  
 
@@ -45,9 +45,9 @@ All sequences were clustered using MMseqs2 (v14-7e284) to generate a nonredundan
 mmseqs easy-cluster deepsea_all_pep.fa cluster_proteins tmp_cluster --min-seq-id 0.95 -c 0.90 --cov-mode 1 --cluster-mode 3 --threads 30
 perl -e 'open OU1,">Final_DSM_geneset_prot.fa"; open OU2,">name.change.list"; while(<>){ chomp; if(/^>/){ $id=sprintf("%010d",++$id); print OU2 "$_\tDSM_$id\n"; print OU1 ">DSM_$id\n"; next; } print OU1 "$_\n"; }' cluster_proteins_rep_seq.fasta #Name format change
 ```
-To elucidate the relationships between complete and incomplete unigenes, we clustered DSGC protein sequences with MMseqs2 (v14-7e284), followed by statistical profiling using the FigS1c.DSGC_protein_family_stat.sh script, which provided the data for Extended Data Fig. 1c. The clustering result (DSGC_cluster_20id.tsv.gz) and a list of incomplete ORFs (DSGC_only_uncomplete.list.gz) have been deposited at Zenodo.  
+To elucidate the relationships between complete and incomplete unigenes, we clustered DSGC protein sequences with MMseqs2 (v14-7e284), followed by statistical profiling using the FigS1c.DSGC_protein_family_stat.sh script, which provided the data for Fig. S1c. The clustering result (DSGC_cluster_20id.tsv.gz) and a list of incomplete ORFs (DSGC_only_uncomplete.list.gz) have been deposited at Zenodo.  
 
-To assess the coverage of the DSGC relative to deep-sea microbial gene content, we randomly selected 100 metagenomic samples from each of the four deep-sea ecosystem groups and extracted up to 50 million reads per sample. The reads from each sample were aligned to the DSGC using Diamond (v2.1.6), and the mapping rate for each metagenomic dataset was calculated. The final alignment results are provided in FigS1d.Read_mapping_stat.xlsx, which data is illustrated Extended Data Fig. 1d.
+To assess the coverage of the DSGC relative to deep-sea microbial gene content, we randomly selected 100 metagenomic samples from each of the four deep-sea ecosystem groups and extracted up to 50 million reads per sample. The reads from each sample were aligned to the DSGC using Diamond (v2.1.6), and the mapping rate for each metagenomic dataset was calculated. The final alignment results are provided in FigS1d.Read_mapping_stat.xlsx, which data is illustrated Fig. S1d.
 ```bash
 diamond makedb --in Final_DSM_geneset_prot.fa --db DSM_geneset --threads 30
 diamond blastx -d DSM_geneset.dmnd --query example_top25M_clean_1.fq.gz --out example_1_mapping.m8 --outfmt 6 -k 1 --id 70 --query-cover 80 -p 20 -e 0.0001 --faster
@@ -67,7 +67,7 @@ export EGGNOG_DATA_DIR=/Path_to_database/eggNOG
 python emapper.py -i Final_DSM_geneset_prot.fa --output Final_DSM_geneset_prot.fa -m diamond
 ```
 
-The protein family-level clustering between DSGC, and the global ocean gene catalog 1.0 (GOGC), or and TSGC and OM-RGC were calculated with MMseqs2 (v14-7e284). We calculated data for Fig. 1fg and Extended Data Fig. 1e with the scripts Fig1fg_S1e.stat.sh.  
+The protein family-level clustering between DSGC, and the global ocean gene catalog 1.0 (GOGC), or and TSGC and OM-RGC were calculated with MMseqs2 (v14-7e284). We calculated data for Fig. 1fg and Fig. S1e with the scripts Fig1fg_S1e.stat.sh.  
 
 Sequences in DSGC, as well as those in global topsoil gene catalog (TSGC, 159.7 M genes) and the Tara ocean's OM-RGC (46.8 M genes) were aligned against all 21,979 Pfams in the Pfam database (v36.0) using hmmsearch program (E-value ≤ 0.01) from the HMMER package (v3.3.2), and then the hmmsearch results were filtered by a sequence coverage of 75%. The Nf (number of effective sequences in MSA) was calculated using plmc (commit 1a9ale9228a2177c618c69040ea8cfc2d902d9df):
 ```bash
