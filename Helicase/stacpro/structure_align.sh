@@ -1,4 +1,4 @@
-#usage: sh structure_align.sh path parallels[int]
+#usage: sh structure_align.sh path_to_the_structures
 #for the stacpro pacakge: https://github.com/BGI-Qingdao/stacpro
 export PYTHONPATH="Path_to_stacpro:$PYTHONPATH"
 python main_parallel_step1.py $1/ 300
