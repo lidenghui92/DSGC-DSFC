@@ -3,6 +3,7 @@ library(ggplot2)
 library(readxl)
 
 data <- read_xlsx("Fig3de/hyBaArPhy.category.fisherOut.xlsx")
+#input file can be found in Fig3de at Zenodo
 
 head(data)
 
@@ -15,3 +16,4 @@ v<-ggplot(data,aes(y=RichFactor,x=reorder(COG_id,-RichFactor)))+
 pdf("category_enrich_all_short.pdf",width = 5.6,height = 8.4)
 v
 dev.off()
+
