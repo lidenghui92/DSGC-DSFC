@@ -1,4 +1,4 @@
-minimap2 -d COG_L_rep_cds.fa.mm2.idex COG_L_rep_cds.fa
+minimap2 -d COG_L_rep_cds.fa.mm2.idex COG_L_rep_cds.fa #this fasta file is not provided due to its large size, while the resulted abundance file was provided at Zenodo.
 minimap2 -ax sr -t 20 COG_L_rep_cds.fa.mm2.idex example1_1.fq.gz example1_2.fq.gz  | samtools view -bS - > example1.bam
 ngless -j 3 --strict-threads deep-sea_map_single.ngl example1
 
@@ -11,4 +11,5 @@ awk 'NR==FNR{all[$1]=1;next}{if ($1 in all){print $0}}' single_DSM.list temp_v2.
 awk 'NR==FNR{all[$1]=1;next}{if ($1 in all){print $0}}' need_merge_DSM.list temp_v2.list >temp_v2_merge.list
 python merge_kegg.py temp_v2_merge.list >temp_v2_merge.change.py.list
 awk '{printf $1"\t";for (i=2;i<=NF;i++){if($i!="0.0"){printf "%.2f\t",$i}else{printf "0\t"}}print ""}' temp_v2_merge.change.py.list | sed 's/\t$//g' >temp_v2_merge.change.py.list.v2
-cat ../title.list temp_v2_single.list temp_v2_merge.change.py.list.v2 >COG_L_abundance.matrix
+
+cat ../title.list temp_v2_single.list temp_v2_merge.change.py.list.v2 > COG_L_abundance.matrix
