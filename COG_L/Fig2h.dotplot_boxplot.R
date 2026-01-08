@@ -2,13 +2,12 @@ library(ggplot2)
 library(ggpubr)
 library(patchwork)
 
-REG<-read.table("hyphy_stat.tsv",header=T,sep="\t") 
-#This input is a three-column table using data from 
-#Fig2h.HyPhy_stat_5837clusters.xlsx,
-#where the column names are: RGC, REG_rate, and All_members.
+#import file Fig2h.hyphy_stat.tsv and FigS2l.mafft_hyphy.tsv for Fig2h and FigS2l, respectively.
+#REG<-read.table("Fig2h.hyphy_stat.tsv",header=T,sep="\t") 
+REG<-read.table("FigS2l.mafft_hyphy.tsv",header=T,sep="\t") 
 
 my_comp <- list(c("DS", "OM"),c("OM", "TS"),c("DS", "TS"))
-p_dot <- ggplot(REG, aes(x=All_members, y=REG_rate,color=RGC)) +
+p_dot <- ggplot(REG, aes(x=Mem, y=REG_rate,color=RGC)) +
   geom_point(alpha=0.5) +
   coord_cartesian(ylim = c(0, 1)) + 
   theme_bw()+
@@ -21,8 +20,10 @@ p_box <- ggplot(REG, aes(x=RGC, y = REG_rate, fill = RGC)) +
 p <- p_dot + p_box + 
   plot_layout(widths = c(5, 1))
 
-pdf("Fig2H.pdf",w=12,h=12)
-p #stat numbers
+#pdf("Fig2h.pdf",w=12,h=12)
+pdf("FigS2l.pdf",w=12,h=12)
+p
 dev.off()
+
 
 
