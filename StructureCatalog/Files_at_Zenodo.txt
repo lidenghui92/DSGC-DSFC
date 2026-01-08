@@ -8,4 +8,5 @@ Fig3c.DS-DS_density.dat.gz
 Fig3.foldseek_clusters_taxonomy.zip
 Fig3de.zip
 Fig3.foldseek_clusters.zip
+ESM_Memb30_HQ.stat.gz
 DSTEDdom.tar.gz
