@@ -15,6 +15,8 @@ my $data = decode_json($json_data);
 my $result= $data->{'branch attributes'}{'0'};
 
 open O, ">>all.psg.out";
+#The information of this output file can be found in Fig2i.DShyphy_gene.dtc.tsv.gz.
+
 for my $gid (sort keys %{$result}) {
     my $padj = $result->{$gid}->{'Corrected P-value'};
     my @path = split(/\//,$ARGV[0]);
