@@ -2,9 +2,7 @@ library(ggplot2)
 library(ggpubr)
 library(patchwork)
 
-#import file Fig2h.hyphy_stat.tsv and FigS2l.mafft_hyphy.tsv for Fig2h and FigS2l, respectively.
-#REG<-read.table("Fig2h.hyphy_stat.tsv",header=T,sep="\t") 
-REG<-read.table("FigS2l.mafft_hyphy.tsv",header=T,sep="\t") 
+REG<-read.table("Fig2h.hyphy_stat.tsv",header=T,sep="\t") 
 
 my_comp <- list(c("DS", "OM"),c("OM", "TS"),c("DS", "TS"))
 p_dot <- ggplot(REG, aes(x=Mem, y=REG_rate,color=RGC)) +
@@ -20,10 +18,10 @@ p_box <- ggplot(REG, aes(x=RGC, y = REG_rate, fill = RGC)) +
 p <- p_dot + p_box + 
   plot_layout(widths = c(5, 1))
 
-#pdf("Fig2h.pdf",w=12,h=12)
-pdf("FigS2l.pdf",w=12,h=12)
+pdf("Fig2h.pdf",w=12,h=12)
 p
 dev.off()
+
 
 
 
