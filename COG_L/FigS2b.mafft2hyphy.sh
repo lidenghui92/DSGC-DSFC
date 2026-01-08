@@ -1,3 +1,5 @@
+#this file is not used. see FigS2l.mafft2hyphy.sh
+
 #need 2 input files $prefix.pep and $prefix.cds
 #Usage: sh mafft2hyphy.sh $prefix
 linsi --thread 5 $1.pep > $1.pep.msa
