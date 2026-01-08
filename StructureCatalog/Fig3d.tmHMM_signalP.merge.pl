@@ -1,5 +1,5 @@
 #!usr/bin/perl
-
+#This script was embedded in Fig3de.zip, and the output file was provided in Fig3de.zip at Zenodo
 open S,"prediction_results.txt";
 while(<S>){
     chomp;
