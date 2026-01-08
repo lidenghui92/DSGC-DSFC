@@ -7,6 +7,7 @@ open I, "ESM_Memb30_HQ.stat" or die "Could not open file $!";
 #this input file can be found at Zenodo
 #the last column of this input file contains the scale of each cluster.
 #we considered cluster size when do the random selection.  
+
 my %tags;
 while (<I>) {
     chomp;
@@ -48,3 +49,4 @@ foreach (keys%sampled){
 system("perl fishInWinter.pl -bf table -ff table PC_benchmark.list.tmp ESM_Memb30_HQ.stat > PC_benchmark.list");
 system("perl fishInWinter.pl -bf table -ff table PC_benchmark.list final_20_50_Memb30.comprow_blasta > PC_benchmark.member");
 system("cut -f2 PC_benchmark.member|sed 's#,#\\n#g'|perl fishInWinter.pl -bf table -ff fasta - final_20_50_Memb30.mem.fa > PC_benchmark.member.fa")
+#The proteins in the resulted FASTA file were submitted to ESMFold for structure prediction, and related results were summarized in FigS3b.rep_cover_mem_structure.xlsx
