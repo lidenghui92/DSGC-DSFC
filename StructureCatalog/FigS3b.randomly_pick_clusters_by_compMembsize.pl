@@ -49,4 +49,5 @@ foreach (keys%sampled){
 system("perl fishInWinter.pl -bf table -ff table PC_benchmark.list.tmp ESM_Memb30_HQ.stat > PC_benchmark.list");
 system("perl fishInWinter.pl -bf table -ff table PC_benchmark.list final_20_50_Memb30.comprow_blasta > PC_benchmark.member");
 system("cut -f2 PC_benchmark.member|sed 's#,#\\n#g'|perl fishInWinter.pl -bf table -ff fasta - final_20_50_Memb30.mem.fa > PC_benchmark.member.fa")
-#The proteins in the resulted FASTA file were submitted to ESMFold for structure prediction, and related results were summarized in FigS3b.rep_cover_mem_structure.xlsx
+#The proteins in the resulted FASTA file were submitted to ESMFold for structure prediction.
+#Predicted structures is available in Zenodo (FigS3b.PC_member_structure.tar.gz), and related results were summarized in FigS3b.rep_cover_mem_structure.xlsx
