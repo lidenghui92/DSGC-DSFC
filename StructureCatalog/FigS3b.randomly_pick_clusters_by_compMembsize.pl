@@ -4,7 +4,9 @@ use warnings;
 use List::Util qw(sum);
 
 open I, "ESM_Memb30_HQ.stat" or die "Could not open file $!";
-
+#this input file can be found at Zenodo
+#the last column of this input file contains the scale of each cluster.
+#we considered cluster size when do the random selection.  
 my %tags;
 while (<I>) {
     chomp;
