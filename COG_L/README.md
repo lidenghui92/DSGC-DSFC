@@ -1,5 +1,7 @@
 **Clustering and distribution profiling of COG-L category genes**  
 
+FigS2a was generated using Excel by counting genes assigned to each COG category, based on eggNOG annotation file at Zenodo, including "OM-RGC_emapper_COG.xls.gz", "TSGC_emapper_COG.xls.gz", and "DSGC_emapper_COG.xls.gz".
+
 We clustered all COG-L genes (see DS.TS.OM.all.COG_L.pep.gz at Zenodo, the sequences from TSGC were renamed based on TSGC.geneid.change.list.gz, see below) in DSGC, OM-RGC, and TSGC using MMseqs2:  
 
 `mmseqs easy-cluster all.COG_L.fa final_20_50 ./linclust_tmp --threads 20 --cov-mode 0 --cluster-mode 0 -c 0.5 --min-seq-id 0.2`  
@@ -8,7 +10,7 @@ and the clustering relationship was deposited at Zenodo (Fig2.COG_L_DS.TS.OM_clu
 
 All genes annotated as COG-L category from DSGC, OM-RGC, and TSGC were taxonomically annotated using MMseqs2 easy-taxonomy with GTDB (r226) with --tax-lineage 1:  
 
-`mmseqs easy-taxonomy COG-L.pep.fa /path_to_database/GTDB COG-L.pep.txt tmp --tax-lineage 1`  
+`mmseqs easy-taxonomy DS.TS.OM.all.COG_L.pep /path_to_database/GTDB COG-L.pep.txt tmp --tax-lineage 1`  
 
 and we calculated data for Fig. S2b with the scripts FigS2b.stat.sh based on the taxonomic annotation result Fig2.COG_L.mmseqsGTDB.lca.tsv.gz at Zenodo. To avoid issues caused by special characters in gene IDs, we have updated the ID for the TSGC gene; details are provided in the file TSGC.geneid.change.list.gz, which has been deposited at Zenodo.  
 
@@ -23,7 +25,7 @@ awk -F"\t" '{sum+=1;if($7~/L/){cogl+=1}}END{rate=cogl/sum;print rate,cogl,sum}' 
 
 Then we merged all the MAG_ID_COG-L_proportion.tsv and the results of GTDBtk annotation and CheckM, see FigS2c.MAG_COG-L_stat.txt, and all MAGs in this table can be found in Deepsea_HQ_MAGs_drep.tar.gz at Zenodo. Fig. S2c was generated using FigS2c.boxplot.R. In addition to compare all MAGs generated from datasets of DSGC and Tara Ocean (TOBG), we also compared the phyla with more than 20 high-quality MAGs from either DSGC or TOBG (used the same data of OM-RGC) datasets based on the FigS2c.HQ-MAGs_by_phylum.txt.  
 
-To quantify the abundance of all deep-sea COG-L genes, we followed the methods used in the GMGC study, where gene abundance was estimated as the number of short reads mapping to a given sequence. In brief, minimap2 (v2.28-r1209) was employed to align reads to these genes with default parameters, and the relative abundance of each gene was computed with the “dist1” option of NGLess (v1.5.0) to distribute multiple mappers (short reads mapping to > 1 unigenes) by unique mapper abundance. The results were normalized by library size to get relative abundance, and the abundance of each gene cluster was determined by summing up the relative abundances of genes in that cluster (see scirpts Fig2b.abundance_calculate.sh and deep-sea_map_single.ngl, and result Fig2.COG_L_PC_abundance.matrix.gz at Zenodo).  
+To quantify the abundance of all deep-sea COG-L genes, we followed the methods used in the GMGC study, where gene abundance was estimated as the number of short reads mapping to a given sequence. In brief, minimap2 (v2.28-r1209) was employed to align reads to these genes with default parameters, and the relative abundance of each gene was computed with the “dist1” option of NGLess (v1.5.0) to distribute multiple mappers (short reads mapping to > 1 unigenes) by unique mapper abundance. The results were normalized by library size to get relative abundance, and the abundance of each gene cluster was determined by summing up the relative abundances of genes in that cluster (see scirpts Fig2b.abundance_calculate.sh and deep-sea_map_single.ngl, and result Fig2.COG_L_PC_abundance.matrix.gz at Zenodo).
 
 The detection number and average abundances shown in Fig. 2b were calculated with the scirpt Fig2b.detection_abundance_stat.pl and the resulted file was Fig2b.cluster_dtc_adb.stat.tsv.gz, and Fig. 2b was generated using script Fig2b.2d_density.R.  
 
@@ -31,13 +33,13 @@ After filtering excl-DS-clusters with detection > 100, we got 105,558 clusters:
 
 `awk '$3>100 && $NF~/Uniq/' Fig2b.cluster_dtc_adb.stat.tsv | wc -l`  
 
-We selected the COG term that covered most members in a cluster for the annotation of the cluster, and among the 728,098 COG-L category gene clusters, 92.23% showed functional consistency within each cluster, with most of the clustered genes (≥ 90%) were assigned to the same COGs (see script Fig2.COG_annotation_by_PC.sh, and results Fig2.COG_L_PC.memberCOG.stat.gz, Fig2.rep_COG_anno_by_PC.tsv.gz).   
+We selected the COG term that covered most members in a cluster as the annotation of the cluster, and among the 728,098 COG-L category gene clusters, 92.23% showed functional consistency within each cluster, with most of the clustered genes (≥ 90%) were assigned to the same COGs (see script Fig2.COG_annotation_by_PC.sh, and results Fig2.COG_L_PC.memberCOG.stat.gz, Fig2.rep_COG_anno_by_PC.tsv.gz).   
 
 COG enrichment in exclusively deep-sea cluster (excl-DS-clusters) was conducted using a two-tailed Fisher's exact test, where deep-sea gene counts in excl-DS-clusters were compared against the background gene counts in shared clusters (see script Fig2c.fisher.sh and Fig2c.fisher_test.R, and result files Fig2c.DS_COG-L.stat and Fig2c.DS_COG-L.fisher.tsv). The abundance matirxs of the all prevalent clusters and those with enriched COG terms were generated by:  
 
 ```bash
 awk '$3>100 && $NF~/Uniq/' Fig2b.cluster_dtc_adb.stat.tsv > tmpfile_prevalent_excl-cluster.list
-perl fishInWinter.pl tmpfile_prevalent_excl-cluster.list Fig2.COG_L_PC_abundance.matrix > FigS2c.PC_Matrix_All.tsv
+perl fishInWinter.pl tmpfile_prevalent_excl-cluster.list Fig2.COG_L_PC_abundance.matrix > FigS2d.PC_Matrix_All.tsv
 perl fishInWinter.pl -bc 2 Fig2c.DS_COG-L.fisher.tsv Fig2.rep_COG_anno_by_PC.tsv |perl fishInWinter.pl tmpfile_prevalent_cluster.list - |perl fishInWinter.pl FigS2c.PC_Matrix_All.tsv > Fig2c.PC_Matrix_enriched.tsv
 ```
 
@@ -52,7 +54,7 @@ iqtree3 -s Fig2f.cas9.mafft -m MFP #see file Fig2f.cas9.mafft.treefile
 
 **Selection test for shared protein clusters among DSGC, OM-RGC, and TSGC**  
 
-To investigate the evolution of deep-sea genes, we examined the presence of rapidly evolved genes using a branch-site model, adaptive branch-site random effects likelihood (aBSREL), and followed the methods in the GMGC study (DOI: 10.1038/s41586-021-04233-4) with some modifications. The clustering relationships of the clusters used in this analysis were based on the Fig2.5837clusters_for_hyphy.tsv.gz at Zenodo. All protein sequences are availible in DS.TS.OM.all.COG_L.pep.gz while the CDS sequences used in this analysis are availible in Fig2.all.unigen_for_hyphy.cds.gz (the sequences from TSGC were renamed based on TSGC.geneid.change.list.gz), and both files have been deposited at Zenodo. The pipeline for the 5,837 tested clusters shown in Fig. 2h was Fig2h.muscle2hyphy.sh, which also included the script to estimate the phylogenetic diversity shown in Fig. S2k. Additionally, we also tested the results in Fig. 2h with a slower but more accurate pipeline, where we employed mafft (L-INS-I) and IQ-Tree3 instead of muscle (super5) and FastTree, see FigS2l.mafft2hyphy.sh. For both pipelines, we provided example directories (Fig2h_S2l.HyPhy_example_output.zip) containing all intermediate files. The P-value of each tested gene was extracted from the JSON files generated by HyPhy with Fig2h.extract_pvalues.pl. The statistical data for Fig. 2h was calculated using Fig2h.stat_hyphy_json.pl, and the results were summarized in Fig2h.HyPhy_stat_5837clusters.xlsx and FigS2l.mafft_hyphy.tsv. Fig. 2h and Fig. S2l were generated using Fig2h.dotplot_boxplot.R and FigS2l.boxplot.R, respectively.  
+To investigate the evolution of deep-sea genes, we examined the presence of rapidly evolved genes using a branch-site model, adaptive branch-site random effects likelihood (aBSREL), and followed the methods in the GMGC study (DOI: 10.1038/s41586-021-04233-4) with some modifications. The clustering relationships of the clusters used in this analysis were based on the Fig2.5837clusters_for_hyphy.tsv.gz at Zenodo. All protein sequences are availible in DS.TS.OM.all.COG_L.pep.gz while the CDS sequences used in this analysis are availible in Fig2.all.unigen_for_hyphy.cds.gz (the sequences from TSGC were renamed based on TSGC.geneid.change.list.gz), and both files have been deposited at Zenodo. The pipeline for the 5,837 tested clusters shown in Fig. 2h was Fig2h.muscle2hyphy.sh, which also included the script to estimate the phylogenetic diversity shown in Fig. S2k. Additionally, we also tested the results in Fig. 2h with a slower but more accurate pipeline, where we employed mafft (L-INS-I) and IQ-Tree3 instead of muscle (super5) and FastTree, see FigS2l.mafft2hyphy.sh. For both pipelines, we provided example directories (Fig2h_S2l.HyPhy_example_output.zip) containing all intermediate files. The P-value of each tested gene was extracted from the JSON files (e.g., DSM_0100156101.cds.aln.ABSREL.json) generated by HyPhy using Fig2h.extract_pvalues.pl. The statistical data for Fig. 2h was calculated using Fig2h.stat_hyphy_json.pl, and the results were summarized in Fig2h.hyphy_stat.tsv and FigS2l.mafft_hyphy.tsv. Fig. 2h and Fig. S2l were generated using Fig2h.dotplot_boxplot.R and FigS2l.boxplot.R, respectively.
 
 For the nucleotide diversity and pN/pS analysis, we first focused on genes in the HyPhy analysis (HyPhy_Genes) that could be assigned to MAGs (Relationship between HyPhy_Genes to MAGs was provided in FigS2mn.instrain_result.txt.gz, see blow). We selected samples where the number of HyPhy_Genes associated with MAGs exceeded 100. For each qualifying sample, reads were mapped against a dereplicated set of MAGs (derived from all 2038 samples) using Bowtie2 and SAMtools to generate BAM files. Finally, inStrain profile was run with the following command (e.g., for sampleA):  
 
