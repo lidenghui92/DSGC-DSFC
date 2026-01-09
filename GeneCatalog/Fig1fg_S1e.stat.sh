@@ -22,10 +22,11 @@ cat Final_DSM_geneset_prot.fa  GOGC_geneset_prot.fa >DSGC_GOMC.prot.fa
 mmseqs easy-cluster DSGC_GOMC.prot.fa  DS_GO_20_50  ./temp1 --threads 40 --cov-mode 0 --cluster-mode 0 -c 0.5 --min-seq-id 0.2
 
 ###Relevant statistical results for Fig 1G
-grep "DSM_" DS_GO_20_50_g2g.list | grep "Ocean" | wc -l     ####8579765
-grep -v "Ocean" DS_GO_20_50_g2g.list | wc -l                ####54551577
-grep -v "DSM_" DS_GO_20_50_g2g.list | wc -l                 ####49141285
+grep "DSM_" DS_GO_20id_cluster_stat.list | grep "Ocean" | wc -l     ####8579765
+grep -v "Ocean" DS_GO_20id_cluster_stat.list | wc -l                ####54551577
+grep -v "DSM_" DS_GO_20id_cluster_stat.list | wc -l                 ####49141285
 
-grep -v "Ocean" DS_GO_20_50_g2g.list | awk '{for(i=2;i<=NF;i++){print $i}}' | wc -l  ####157133253
+grep -v "Ocean" DS_GO_20id_cluster_stat.list | awk '{for(i=2;i<=NF;i++){print $i}}' | wc -l  ####157133253
+
 
 
