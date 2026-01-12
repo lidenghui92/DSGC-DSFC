@@ -14,8 +14,7 @@ The metagenomic sequencing datasets were downloaded from the NCBI, NODE, and CNG
   sftp -oPort=44398 your-node-register-email@fms.biosino.org
   Password: your-node-password
   #Navigate to the target folder you need
-  cd /Public/byRun/OER00/OER0042/OER004256/OER00425668
-  get OED00831759_FDZ031YE0-5_R1.fq.gz
+  cd /Public/byRun/OER00/OER0042/OER004256/OER00425668 get OED00831759_FDZ031YE0-5_R1.fq.gz #for more details: https://www.biosino.org/node/help
 ```
 
 **Filtering and Assembly**  
