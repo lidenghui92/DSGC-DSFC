@@ -7,14 +7,15 @@
 The metagenomic sequencing datasets were downloaded from the NCBI, NODE, and CNGB with the following commands. Accession numbers of runs of each sample used in this study can be found in Table S1 of the paper.
 ```bash
 #NCBI (example ID: SRR7042067) :
-fasterq-dump -p -t /scratch/$USER -O /data/$USER/sra SRR7042067
+  fasterq-dump -p -t /scratch/$USER -O /data/$USER/sra SRR7042067
 #CNGB (example ID: CNR093384):
-wget -c ftp://ftp2.cngb.org/pub/CNSA/data5/CNP0004691/CNS0876634/CNX0799665/CNR0933845/1E_1.fq.gz
+  wget -c ftp://ftp2.cngb.org/pub/CNSA/data5/CNP0004691/CNS0876634/CNX0799665/CNR0933845/1E_1.fq.gz
 #NODE (example ID: OER00425668):
-sftp -oPort=44398 your-node-register-email@fms.biosino.org
-Password: your-node-password
-#Navigate to the target folder you need
-cd /Public/byRun/OER00/OER0042/OER004256/OER00425668 get OED00831759_FDZ031YE0-5_R1.fq.gz
+  sftp -oPort=44398 your-node-register-email@fms.biosino.org
+  Password: your-node-password
+  #Navigate to the target folder you need
+  cd /Public/byRun/OER00/OER0042/OER004256/OER00425668
+  get OED00831759_FDZ031YE0-5_R1.fq.gz
 ```
 
 **Filtering and Assembly**  
