@@ -4,7 +4,7 @@ FigS2a was generated using Excel by counting genes assigned to each COG category
 
 We clustered all COG-L genes (see DS.TS.OM.all.COG_L.pep.gz at Zenodo, the sequences from TSGC were renamed based on TSGC.geneid.change.list.gz, see below) in DSGC, OM-RGC, and TSGC using MMseqs2:  
 
-`mmseqs easy-cluster DS.TS.OM.all.COG_L.pep final_20_50 ./linclust_tmp --threads 20 --cov-mode 0 --cluster-mode 0 -c 0.5 --min-seq-id 0.2`  
+`mmseqs easy-cluster DS.TS.OM.all.COG_L.pep COG_L_DS.TS.OM ./linclust_tmp --threads 20 --cov-mode 0 --cluster-mode 0 -c 0.5 --min-seq-id 0.2`  
 
 and the clustering relationship was deposited at Zenodo (Fig2.COG_L_DS.TS.OM_cluster.row.gz). Data for Fig. 2a were calculated with the script Fig2a.stat.sh.   
 
