@@ -3,8 +3,7 @@
 local $/ = ">"; 
 
 open I,"<Fig4e.MSA_7294_Pif1like_seqs.mafft";
-open O,">Sequence_with_motifIc_II.mafft";
-open T,">Pif1_insertion_length.tsv";
+open T,">Fig4e.Pif1_insertion_length.tsv";
 
 my $t_pos=3172;  #the position of the "T" of motif Ic (partial, TXH) in the multiple sequence alignment (MSA).
 my $m_pos=3865;  #the position of the "M" of motif II (partial, DEXSM) in the MSA.
@@ -42,8 +41,6 @@ while (<I>) {
     }
     #filtering sequences with both motifIc and motifII 
     if ($txh_found && $dexsm_found) {
-        print O ">$_";
-        
         #The lengths of motif Ic and II were 5 and 6, respectively.
         #The insertion was bounded by motif Ic and motif II.
         #The length of insertion can calculate by subtracting 11 (5 + 6) 
