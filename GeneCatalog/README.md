@@ -12,7 +12,6 @@ The metagenomic sequencing datasets were downloaded from the NCBI, NODE, and CNG
   wget -c ftp://ftp2.cngb.org/pub/CNSA/data5/CNP0004691/CNS0876634/CNX0799665/CNR0933845/1E_1.fq.gz
 #NODE (example ID: OER00425668):
   #You can register a new account here: https://www.biosino.org/bmdcRegist/register
-  #After registration (or reset password), please wait 30 mins before login to the sftp port.
   sftp -oPort=44398 your-node-register-email@fms.biosino.org
   Password: your-node-password
   #Navigate to the target folder you need
