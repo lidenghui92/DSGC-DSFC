@@ -100,5 +100,5 @@ gtdbtk classify_wf --genome_dir /DS_ALL_MAGs/ --out_dir /result -x fa --cpus 10 
 
 The MAG statistics and annotations for all deep-sea and Tara ocean samples can be found in the deepsea_OM_mags_stat.xlsx. Deepsea_HQ_MAGs_drep.tar.gz at Zenodo contained all the high-quality deep-sea MAGs.  
 
-**PS: Files listed in "Files_at_Zenodo.txt" have been deposited at Zenodo with DOI: 10.5281/zenodo.17621312**  
+**PS: Files listed in "Files_at_Zenodo.txt" have been deposited at Zenodo with DOI: 10.5281/zenodo.18170924**  
 
