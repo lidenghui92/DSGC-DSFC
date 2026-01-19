@@ -1,0 +1,19 @@
+ngless "1.5"
+import "parallel" version "0.6"
+import "mocat" version "0.0"
+import "minimap2" version "2.24"
+
+sample = ARGV[1]
+print("Running sample: " + sample + "\n")
+
+mapped = samfile("/share/deep_sea/07.quantified_gene/" + sample + ".bam")
+
+
+write(count(mapped,
+            features=['seqname'],
+            include_minus1=True,
+            discard_zeros=True,
+            multiple={dist1},
+            normalization={normed}),
+    ofile='allbest.out.' + sample + '.dist1.txt')
+
